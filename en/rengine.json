@@ -1,0 +1,6 @@
+{
+  "rengineErrorNetwork": "Network error",
+  "rengineErrorCertificate": "Certificate error",
+  "rengineErrorClient": "Client error",
+  "rengineErrorServer": "Server error"
+}

@@ -1,0 +1,9 @@
+{
+    "charlesAppHome": "Charles應用路徑",
+    "charlesAppHomeSetup": "設定應用路徑",
+    "charlesAppHomeSetupFailed": "未偵測到Charles命令列工具",
+    "charlesAppHomeSetupOk": "已偵測到Charles命令列工具",
+    "charlesFileConvertTips": "Reqable無法處理Charles獨有檔案格式，需要使用Charles命令列工具進行轉換成har格式。",
+    "charlesFileConvertFailed": "轉換Charles Session檔案失敗！",
+    "charlesFileConverting": "正在轉換Charles Session檔案..."
+}

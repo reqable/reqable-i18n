@@ -1,0 +1,23 @@
+{
+  "tabClose": "Закрыть",
+  "tabCloseForce": "Принудительно закрыть",
+  "tabCloseOthers": "Закрыть другие",
+  "tabCloseOthersForce": "Принудительно закрыть другие",
+  "tabCloseRight": "Закрыть вкладки справа",
+  "tabCloseRightForce": "Принудительно закрыть вкладки справа",
+  "tabCloseAll": "Закрыть все",
+  "tabCloseAllForce": "Принудительно закрыть все",
+  "workshopCreateHttp": "Новый HTTP",
+  "workshopCreateWebSocket": "Новый WebSocket",
+  "workshopImportFromCurl": "Импорт из cURL",
+  "workshopImportFromClipboard": "Импорт из буфера обмена",
+  "workshopImportFromRaw": "Импорт из исходных данных",
+  "workshopOpenFileFailed": "Не удалось открыть файл: ",
+  "workshopWorkTypeLive": "Трафик",
+  "workshopCloseOtherTabs": "Закрыть другие",
+  "workshopForceCloseOtherTabs": "Принудительно закрыть другие",
+  "workshopCloseAllTabs": "Закрыть все",
+  "workshopForceCloseAllTabs": "Принудительно закрыть все",
+  "workshopCopyPath": "Копировать путь",
+  "workshopTooManyWorks": "Слишком много вкладок, максимум %1 одновременно!"
+}

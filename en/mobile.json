@@ -1,0 +1,16 @@
+{
+  "shareApp": "Share App",
+  "shareAppMessage": "Reqable is an advanced API debugging proxy and development instrument. Install and have a try! %1",
+  
+  "introduceDesktopBanner": "Desktop App",
+  "introduceDesktopTitle": "Introduce Desktop App",
+  
+  "reviewApp": "Review App",
+  "reviewRequestMessage": "Thanks for using Reqable. If our app is helpful to you, could you please give us a review?",
+  "reviewReject": "Not now",
+  "reviewApprove": "Rate us",
+
+  "drawerTabs": "Tabs",
+  "drawerTools": "Tools",
+  "drawerOthers": "Others"
+}

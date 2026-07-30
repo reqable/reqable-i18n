@@ -1,0 +1,11 @@
+{
+  "mcpServerSetup": "MCPサーバーを設定",
+  "mcpServerSetupTo": "{app}にMCPを設定",
+  "mcpServerSetupManual": "MCPを手動設定",
+  "mcpServerActiveNone": "実行中のMCPサーバーはありません",
+  "mcpServerActiveList": "{count} 件のMCPサーバーインスタンス",
+  "mcpClientList": "MCPクライアント",
+  "mcpClientListEmpty": "接続中のクライアントはありません",
+  "mcpClientDisconnect": "切断",
+  "mcpServerLaunchAt": "接続日時：{timestamp}"
+}

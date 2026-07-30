@@ -1,0 +1,15 @@
+{
+  "cookieJar": "Cookie管理",
+  "cookieEdit": "Cookieを編集",
+  "cookieAdd": "Cookieを追加",
+  "cookieName": "名前",
+  "cookieValue": "値",
+  "cookieDomain": "ドメイン",
+  "cookiePath": "パス",
+  "cookieExpires": "有効期限",
+  "cookieSecure": "Secure",
+  "cookieHttpOnly": "HttpOnly",
+  "cookieDeleteAlertMessage": "%1 を完全に削除してもよろしいですか？",
+  "cookieNone": "Cookieはありません",
+  "cookieTextEditingHint": "各Cookieは改行で区切り、\n名前と値はコロンで区切ります。"
+}

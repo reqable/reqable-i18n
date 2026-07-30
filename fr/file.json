@@ -1,0 +1,44 @@
+{
+  "fileSelectorDragFile": "Glisser-déposer",
+  "fileSelectorFileNotExists": "Le fichier n'existe pas",
+  "fileSelectorTooltipChooseFile": "Choisir un fichier",
+  "fileSaveDone": "Fichier enregistré avec succès",
+  "fileSaveDoneAndroidTips1": "Enregistré avec succès dans Téléchargements/Reqable",
+  "fileSaveDoneAndroidTips2": "Enregistré avec succès dans le bac à sable Reqable.",
+  "fileSaveFailed": "Échec de l'enregistrement du fichier : ",
+  "fileSaveOpenAndroidFailed": "Supprimez le dossier Reqable sous Téléchargements et réessayez !",
+  "fileSaveOpenLocationFailed": "Échec de l'ouverture de l'emplacement d'enregistrement !",
+  "fileSaveLocaltionSuggestNameDefault": "Dossier sans titre",
+  
+  "fileFormatUnknown": "Type de fichier non reconnu : {type}",
+  "fileTypeNotSupport": "Type de fichier non pris en charge !",
+  "fileNotFound": "Fichier introuvable : {path}",
+  "fileNone": "Sélectionnez un fichier",
+
+  "fileOpen": "Ouvrir le fichier",
+  "fileOpenFailure": "Échec de l'ouverture du fichier : %1",
+
+  "fileDownloading": "Téléchargement : ",
+  "fileDownloadFailed": "Échec du téléchargement : ",
+
+  "fileExportSuccess": "Exporté avec succès",
+  "fileExportFailure": "Échec de l'exportation.",
+  "fileExportPdf": "Exporter en PDF",
+  "fileExportPdfError": "Échec de l'exportation PDF",
+
+  "fileImportSuccess": "Importé avec succès !",
+  "fileImportFailure": "Échec de l'importation : %1",
+  "fileImportProcessing": "Importation en cours, veuillez patienter...",
+  "fileImportNone": "Aucune donnée valide trouvée !",
+
+  "openWithBrowser": "Ouvrir avec le navigateur",
+  "openWithAppVscode": "Ouvrir avec VS Code",
+  "openWithAppVscodeUnavailable": "Installez l'outil en ligne de commande VS Code !",
+
+  "folderNew": "Nouveau dossier",
+  "folderRename": "Renommer le dossier",
+  "folderDeleteAlertMessage": "Supprimer définitivement le dossier %1 ?",
+  "folderClearAlertMessage": "Effacer tous les éléments du dossier %1 ?",
+  "folderRoot": "Dossier racine"
+
+}

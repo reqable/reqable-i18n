@@ -1,0 +1,30 @@
+{
+  "curlOptions": "cURLオプション",
+  "curlMultiline": "複数行cURL",
+  "curlMultilineDescription": "cURLコマンドを複数行で表示します。",
+  "curlLongFormOptions": "長いオプション",
+  "curlLongFormOptionsDescription": "cURLコマンドで長いオプションを使用します。例：-X の代わりに --request を使用。",
+  "curlLineContinuationChar": "行継続文字",
+  "curlLineContinuationCharDescription": "複数行cURLの行継続文字を設定します。通常LinuxとMacでは \\、Windows CMDでは ^、PowerShellでは ` を使用します。",
+  "curlSingleQuote": "シングルクォート",
+  "curlSingleQuoteDescription": "cURLコマンドでシングルクォートを使用します。一部のターミナル（Windows CMDなど）ではシングルクォートをサポートしていないため、このオプションを無効にできます。",
+  "curlExtractEnvVariable": "環境変数を抽出",
+  "curlExtractEnvVariableDescription": "環境変数を対応する値に置き換えるかどうか。",
+
+
+  "curlErrorMultiDataType": "複数の--dataパラメータタイプはサポートされていません",
+  "curlErrorMultiDataBinary": "複数の--data-binaryパラメータはサポートされていません",
+  "curlErrorUnsupportProtocol": "サポートされていないHTTPプロトコル：",
+  "curlErrorMalformedCurl": "cURL形式が不正です",
+  "curlErrorMalformedCurlWithMessage": "cURL形式が不正です：",
+  "curlErrorUnknownMethod": "サポートされていないリクエストメソッド：",
+  "curlErrorFileNotFound": "参照ファイルが存在しません：",
+  "curlErrorFileArgInvalid": "ファイル参照形式が不正です",
+  "curlErrorFileTooLarge": "ファイルが50Mを超えているため読み取れません",
+  "curlErrorUrlEncodeInvalid": "--url-encodeオプションのデータ形式が不正です",
+  "curlErrorFormFormatInvalid": "--formオプションのデータ形式が不正です",
+  "curlErrorMaxTimeFormatInvalid": "--max-timeオプションのデータ形式が不正です",
+  "curlErrorConnectTimeoutFormatInvalid": "--connect-timeoutオプションのデータ形式が不正です",
+  "curlErrorMaxRedirectFormatInvalid": "max-redirsオプションのデータ形式が不正です",
+  "curlErrorUnknown": "このcURLを解析できません"
+}

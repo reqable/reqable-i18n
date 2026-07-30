@@ -1,0 +1,6 @@
+{
+  "rengineErrorNetwork": "네트워크 오류",
+  "rengineErrorCertificate": "인증서 오류",
+  "rengineErrorClient": "클라이언트 오류",
+  "rengineErrorServer": "서버 오류"
+}

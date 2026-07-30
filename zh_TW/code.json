@@ -1,0 +1,12 @@
+{
+    "codeSnippet": "產生程式碼",
+    "codeSnippetSettings": "程式碼設定",
+    "codeSnippetLanguage": "語言",
+    "codeSnippetMoreLanguage": "更多語言支援？",
+    "codeSnippetIndentCount": "縮排數量",
+    "codeSnippetIndentCountDescription": "設定每個程式碼級別要新增的縮排字元數。",
+    "codeSnippetIndentType": "縮排字元",
+    "codeSnippetIndentTypeDescription": "設定用於縮排程式碼行的字元類型。",
+    "codeSnippetPythonRequestsUseParams": "參數字典",
+    "codeSnippetPythonRequestsUseParamsDescription": "是否使用參數字典來傳遞請求參數，而不是使用拼接後的URL。"
+}

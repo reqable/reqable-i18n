@@ -1,0 +1,22 @@
+{
+    "editorPerformancePasteLimit": "Collage de longs textes désactivé pour les performances.",
+
+    "editorPrettifyFailed": "Impossible de formater : format inconnu",
+    "editorPrettifyJsonFailed": "Impossible de formater un format JSON invalide",
+    "editorPrettifyXmlFailed": "Impossible de formater un format XML invalide",
+    "editorCompressJsonFailed": "Impossible de compresser un format JSON invalide",
+
+    "editorThemeType": "Thème",
+
+    "editorFindNoResults": "Aucun résultat",
+    "editorFindIndexResult": "%1 sur %2",
+    "editorFindTooltipMatchCase": "Respecter la casse",
+    "editorFindTooltipUseRegularExpression": "Utiliser une expression régulière",
+    "editorFindTooltipReplace": "Remplacer",
+    "editorFindTooltipReplaceAll": "Tout remplacer",
+
+    "editorTapToForceDisplayLargeText": "Double-cliquez pour charger les données volumineuses",
+    "editorPayloadOversize": "Charge trop volumineuse, téléchargez",
+
+    "editorInvalidCharset": "Jeu de caractères invalide !"
+}

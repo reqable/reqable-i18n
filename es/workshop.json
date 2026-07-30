@@ -1,0 +1,25 @@
+{
+  "tabClose": "Cerrar",
+  "tabCloseForce": "Forzar cierre",
+  "tabCloseOthers": "Cerrar otros",
+  "tabCloseOthersForce": "Forzar cierre de otros",
+  "tabCloseRight": "Cerrar a la derecha",
+  "tabCloseRightForce": "Forzar cierre a la derecha",
+  "tabCloseAll": "Cerrar todo",
+  "tabCloseAllForce": "Forzar cierre de todo",
+
+  "workshopCreateHttp": "Nuevo HTTP",
+  "workshopCreateWebSocket": "Nuevo WebSocket",
+  "workshopImportFromCurl": "Importar desde cURL",
+  "workshopImportFromClipboard": "Importar desde portapapeles",
+  "workshopImportFromRaw": "Importar desde Raw",
+
+  "workshopOpenFileFailed": "Error al abrir archivo: ",
+  "workshopWorkTypeLive": "Tráfico",
+  "workshopCloseOtherTabs": "Cerrar otros",
+  "workshopForceCloseOtherTabs": "Forzar cierre de otros",
+  "workshopCloseAllTabs": "Cerrar todo",
+  "workshopForceCloseAllTabs": "Forzar cierre de todo",
+  "workshopCopyPath": "Copiar ruta",
+  "workshopTooManyWorks": "¡Demasiadas pestañas, máximo %1 pestañas a la vez!"
+}

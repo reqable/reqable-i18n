@@ -1,0 +1,6 @@
+{
+  "wildcardEnabled": "Подстановочные знаки включены",
+  "wildcardDisabled": "Подстановочные знаки отключены",
+  "regexEnabled": "Regex включен",
+  "regexDisabled": "Regex отключен"
+}

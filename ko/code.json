@@ -1,0 +1,12 @@
+{
+  "codeSnippet": "코드 생성",
+  "codeSnippetSettings": "코드 설정",
+  "codeSnippetLanguage": "언어",
+  "codeSnippetMoreLanguage": "더 많은 언어 지원이 필요하신가요?",
+  "codeSnippetIndentCount": "들여쓰기 수",
+  "codeSnippetIndentCountDescription": "각 코드 레벨에 추가할 들여쓰기 문자 수를 설정합니다.",
+  "codeSnippetIndentType": "들여쓰기 문자",
+  "codeSnippetIndentTypeDescription": "코드 줄 들여쓰기에 사용할 문자 유형을 설정합니다.",
+  "codeSnippetPythonRequestsUseParams": "매개변수 딕셔너리",
+  "codeSnippetPythonRequestsUseParamsDescription": "연결된 URL 대신 매개변수 딕셔너리를 사용하여 요청 매개변수를 전달할지 여부."
+}

@@ -1,0 +1,25 @@
+{
+  "tabClose": "닫기",
+  "tabCloseForce": "강제 닫기",
+  "tabCloseOthers": "다른 탭 닫기",
+  "tabCloseOthersForce": "다른 탭 강제 닫기",
+  "tabCloseRight": "오른쪽 탭 닫기",
+  "tabCloseRightForce": "오른쪽 탭 강제 닫기",
+  "tabCloseAll": "모두 닫기",
+  "tabCloseAllForce": "모두 강제 닫기",
+
+  "workshopCreateHttp": "새 HTTP",
+  "workshopCreateWebSocket": "새 WebSocket",
+  "workshopImportFromCurl": "cURL에서 가져오기",
+  "workshopImportFromClipboard": "클립보드에서 가져오기",
+  "workshopImportFromRaw": "원본 패킷에서 가져오기",
+
+  "workshopOpenFileFailed": "파일 열기 실패: ",
+  "workshopWorkTypeLive": "디버깅",
+  "workshopCloseOtherTabs": "다른 탭 닫기",
+  "workshopForceCloseOtherTabs": "다른 탭 강제 닫기",
+  "workshopCloseAllTabs": "모든 탭 닫기",
+  "workshopForceCloseAllTabs": "모든 탭 강제 닫기",
+  "workshopCopyPath": "경로 복사",
+  "workshopTooManyWorks": "한 번에 최대 %1개의 탭만 생성할 수 있습니다!"
+}

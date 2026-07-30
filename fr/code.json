@@ -1,0 +1,12 @@
+{
+  "codeSnippet": "Extrait de code",
+  "codeSnippetSettings": "Paramètres de code",
+  "codeSnippetLanguage": "Langage",
+  "codeSnippetMoreLanguage": "Plus de langages supportés ?",
+  "codeSnippetIndentCount": "Nombre d'indentations",
+  "codeSnippetIndentCountDescription": "Définissez le nombre de caractères d'indentation à ajouter pour chaque niveau de code.",
+  "codeSnippetIndentType": "Type d'indentation",
+  "codeSnippetIndentTypeDescription": "Définissez le type de caractère utilisé pour indenter les lignes de code.",
+  "codeSnippetPythonRequestsUseParams": "Utiliser un dictionnaire de paramètres",
+  "codeSnippetPythonRequestsUseParamsDescription": "Utiliser un dictionnaire de paramètres pour passer les paramètres de requête au lieu d'utiliser une URL concaténée."
+}

@@ -1,0 +1,22 @@
+{
+  "jsonInvalid": "Données JSON invalides",
+  "jsonKeywordSearch": "Filtre par mot-clé",
+  "jsonKeywordSearchHint": "Saisissez un mot-clé pour filtrer",
+  "jsonPathSearch": "Chemin JSON",
+  "jsonPathSearchHint": "Saisissez un chemin JSON, ex. $.store.book[0].title",
+  "jsonPathCopy": "Copier le chemin",
+  "jsonPathCopy2": "Copier le chemin JSON",
+  "jsonPathCopy3": "Copier le chemin dictionnaire (SQ)",
+  "jsonPathCopy4": "Copier le chemin dictionnaire (DQ)",
+  "jsonPathNode": "Nœud",
+  "jsonPathParentNode": "Nœud parent",
+
+  "jsonCompressPerformanceWarningMessage": "La compression JSON n'est pas prise en charge pour cette charge utile, ce qui peut causer des problèmes de performance.",
+
+  "jsonEscape": "Échappement",
+  "jsonUnescape": "Déséchappement",
+
+  "jsonViewer": "Visualiseur JSON",
+
+  "jsonConvertNotSupport": "Format non pris en charge"
+}

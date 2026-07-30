@@ -1,0 +1,44 @@
+{
+  "fileSelectorDragFile": "파일을 여기에 드래그하세요",
+  "fileSelectorFileNotExists": "파일이 존재하지 않습니다",
+  "fileSelectorTooltipChooseFile": "파일 선택",
+  "fileSaveDone": "파일 저장 성공",
+  "fileSaveDoneAndroidTips1": "Download/Reqable 디렉토리에 저장되었습니다!",
+  "fileSaveDoneAndroidTips2": "Reqable 샌드박스 디렉토리에 저장되었습니다!",
+  "fileSaveFailed": "파일 저장 실패: ",
+  "fileSaveOpenAndroidFailed": "Download 아래의 Reqable 디렉토리를 수동으로 삭제한 후 다시 시도하세요!",
+  "fileSaveOpenLocationFailed": "저장 디렉토리 열기 실패!",
+  "fileSaveLocaltionSuggestNameDefault": "이름 없는 폴더",
+  
+  "fileFormatUnknown": "인식할 수 없는 파일 유형: {type}",
+  "fileTypeNotSupport": "지원되지 않는 파일 유형입니다!",
+  "fileNotFound": "파일을 찾을 수 없습니다: {path}",
+  "fileNone": "파일을 선택하세요",
+
+  "fileDownloading": "다운로드 중: ",
+  "fileDownloadFailed": "다운로드 실패: ",
+  
+  "fileExportSuccess": "내보내기 성공",
+  "fileExportFailure": "내보내기 실패",
+  "fileExportPdf": "PDF 내보내기",
+  "fileExportPdfError": "PDF 내보내기 실패",
+
+  "fileImportSuccess": "가져오기 성공!",
+  "fileImportFailure": "가져오기 실패: %1",
+  "fileImportProcessing": "가져오는 중입니다. 잠시 기다려주세요...",
+  "fileImportNone": "유효한 데이터를 찾을 수 없습니다!",
+
+  "fileOpen": "파일 열기",
+  "fileOpenFailure": "파일 열기 실패: %1",
+
+  "openWithBrowser": "브라우저에서 열기",
+  "openWithAppVscode": "VS Code에서 열기",
+  "openWithAppVscodeUnavailable": "Visual Studio Code 명령줄 도구를 먼저 설치하세요",
+
+  "folderNew": "새 폴더",
+  "folderRename": "폴더 이름 변경",
+  "folderDeleteAlertMessage": "폴더 %1을(를) 영구 삭제하시겠습니까?",
+  "folderClearAlertMessage": "폴더 %1의 모든 내용을 영구 삭제하시겠습니까?",
+  "folderRoot": "루트 디렉토리"
+  
+}

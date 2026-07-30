@@ -1,0 +1,11 @@
+{
+  "debugLogger": "Logger",
+  "debugLoggerLevelDebug": "Debug",
+  "debugLoggerLevelInfo": "Info",
+  "debugLoggerLevelWarning": "Warnung",
+  "debugLoggerLevelError": "Fehler",
+  "debugLoggerFileNotFound": "Logdatei nicht gefunden!",
+  "debugLoggerFileTooLarge": "Datei zu groß, Laden nicht möglich!",
+  "debugLoggerOpenFolder": "Ordner öffnen",
+  "debugLoggerExport": "Datei exportieren"
+}

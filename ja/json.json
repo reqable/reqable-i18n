@@ -1,0 +1,22 @@
+{
+  "jsonInvalid": "無効なJSON形式",
+  "jsonKeywordSearch": "キーワード検索",
+  "jsonKeywordSearchHint": "キーワードを入力してください",
+  "jsonPathSearch": "パス検索",
+  "jsonPathSearchHint": "パスを入力してください, 例：$.store.book[0].title",
+  "jsonPathCopy": "パスをコピー",
+  "jsonPathCopy2": "JSONパスをコピー",
+  "jsonPathCopy3": "辞書パスをコピー（シングルクォート）",
+  "jsonPathCopy4": "辞書パスをコピー（ダブルクォート）",
+  "jsonPathNode": "ノード",
+  "jsonPathParentNode": "親ノード",
+
+  "jsonCompressPerformanceWarningMessage": "このJSON圧縮は現在サポートされていません。深刻なパフォーマンス問題を引き起こす可能性があります。",
+
+  "jsonEscape": "JSONエスケープ",
+  "jsonUnescape": "JSONアンエスケープ",
+
+  "jsonViewer": "JSONビューア",
+
+  "jsonConvertNotSupport": "サポートされていない形式"
+}

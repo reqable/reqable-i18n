@@ -1,0 +1,22 @@
+{
+    "editorPerformancePasteLimit": "Para un mejor rendimiento, se ha deshabilitado el pegado de texto largo.",
+
+    "editorPrettifyFailed": "No se puede embellecer: formato desconocido",
+    "editorPrettifyJsonFailed": "No se puede embellecer un formato json no válido",
+    "editorPrettifyXmlFailed": "No se puede embellecer un formato xml no válido",
+    "editorCompressJsonFailed": "No se puede comprimir un formato json no válido",
+
+    "editorThemeType": "Tema",
+
+    "editorFindNoResults": "Sin resultados",
+    "editorFindIndexResult": "%1 de %2",
+    "editorFindTooltipMatchCase": "Coincidir mayús./minús.",
+    "editorFindTooltipUseRegularExpression": "Usar expresión regular",
+    "editorFindTooltipReplace": "Reemplazar",
+    "editorFindTooltipReplaceAll": "Reemplazar todo",
+
+    "editorTapToForceDisplayLargeText": "Doble clic para cargar datos grandes",
+    "editorPayloadOversize": "La carga útil es demasiado grande, descárguela",
+
+    "editorInvalidCharset": "¡Codificación no válida!"
+}

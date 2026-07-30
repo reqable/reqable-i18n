@@ -1,0 +1,25 @@
+{
+  "tabClose": "閉じる",
+  "tabCloseForce": "強制終了",
+  "tabCloseOthers": "他を閉じる",
+  "tabCloseOthersForce": "他を強制終了",
+  "tabCloseRight": "右側を閉じる",
+  "tabCloseRightForce": "右側を強制終了",
+  "tabCloseAll": "すべて閉じる",
+  "tabCloseAllForce": "すべて強制終了",
+
+  "workshopCreateHttp": "HTTP新規作成",
+  "workshopCreateWebSocket": "WebSocket新規作成",
+  "workshopImportFromCurl": "cURLからインポート",
+  "workshopImportFromClipboard": "クリップボードからインポート",
+  "workshopImportFromRaw": "生メッセージからインポート",
+
+  "workshopOpenFileFailed": "ファイルを開けませんでした：",
+  "workshopWorkTypeLive": "デバッグ",
+  "workshopCloseOtherTabs": "他を閉じる",
+  "workshopForceCloseOtherTabs": "他を強制終了",
+  "workshopCloseAllTabs": "すべて閉じる",
+  "workshopForceCloseAllTabs": "すべて強制終了",
+  "workshopCopyPath": "パスをコピー",
+    "workshopTooManyWorks": "一度に最大 %1 件のタブを作成できます！"
+}

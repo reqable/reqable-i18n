@@ -1,0 +1,9 @@
+{
+  "charlesAppHome": "Charlesアプリパス",
+  "charlesAppHomeSetup": "アプリパスを設定",
+  "charlesAppHomeSetupFailed": "Charlesコマンドラインツールが検出されませんでした",
+  "charlesAppHomeSetupOk": "Charlesコマンドラインツールが検出されました",
+  "charlesFileConvertTips": "ReqableはCharles固有のファイル形式を処理できません。Charlesコマンドラインツールを使用してhar形式に変換する必要があります。",
+  "charlesFileConvertFailed": "Charlesセッションファイルの変換に失敗しました！",
+  "charlesFileConverting": "Charlesセッションファイルを変換中..."
+}

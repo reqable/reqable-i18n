@@ -1,0 +1,18 @@
+{
+    "jsonInvalid": "無效的JSON格式",
+    "jsonKeywordSearch": "關鍵字搜尋",
+    "jsonKeywordSearchHint": "請輸入關鍵字",
+    "jsonPathSearch": "路徑搜尋",
+    "jsonPathSearchHint": "請輸入路徑, 例如：$.store.book[0].title",
+    "jsonPathCopy": "複製路徑",
+    "jsonPathCopy2": "複製JSON路徑",
+    "jsonPathCopy3": "複製字典路徑（單引號）",
+    "jsonPathCopy4": "複製字典路徑（雙引號）",
+    "jsonPathNode": "節點",
+    "jsonPathParentNode": "父節點",
+    "jsonCompressPerformanceWarningMessage": "暫不支援此JSON壓縮，可能會導致嚴重效能問題。",
+    "jsonEscape": "JSON跳脫",
+    "jsonUnescape": "JSON反向跳脫",
+    "jsonViewer": "JSON檢視器",
+    "jsonConvertNotSupport": "不支援的格式"
+}

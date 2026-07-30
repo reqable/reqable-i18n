@@ -1,0 +1,15 @@
+{
+  "cookieJar": "Хранилище Cookie",
+  "cookieEdit": "Cookie",
+  "cookieAdd": "Добавить Cookie",
+  "cookieName": "Имя",
+  "cookieValue": "Значение",
+  "cookieDomain": "Домен",
+  "cookiePath": "Путь",
+  "cookieExpires": "Истекает",
+  "cookieSecure": "Secure",
+  "cookieHttpOnly": "HttpOnly",
+  "cookieDeleteAlertMessage": "Удалить %1?",
+  "cookieNone": "Cookie отсутствуют.",
+  "cookieTextEditingHint": "Cookie разделяются новой строкой\nИмена и значения разделяются символом :"
+}

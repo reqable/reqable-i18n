@@ -1,0 +1,11 @@
+{
+  "mcpServerSetup": "MCP 서버 설정",
+  "mcpServerSetupTo": "{app}에 MCP 설정",
+  "mcpServerSetupManual": "수동 MCP 설정",
+  "mcpServerActiveNone": "실행 중인 MCP 서버 없음",
+  "mcpServerActiveList": "{count}개의 MCP 서버 인스턴스",
+  "mcpClientList": "MCP 클라이언트",
+  "mcpClientListEmpty": "연결된 클라이언트 없음",
+  "mcpClientDisconnect": "연결 해제",
+  "mcpServerLaunchAt": "연결 시간: {timestamp}"
+}

@@ -1,0 +1,7 @@
+{
+  "hexViewer": "Visualiseur HEX",
+  "hexViewerTextMode": "Texte",
+  "hexViewerByteMode": "Octet",
+  "hexViewerFindText": "Rechercher du texte",
+  "hexViewerFindByte": "Rechercher un octet"
+}

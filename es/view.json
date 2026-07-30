@@ -1,0 +1,18 @@
+{
+  "viewModeTable": "Modo tabla",
+  "viewModeGallery": "Modo galería",
+  "viewModeText": "Modo texto",
+  "viewModeList": "Modo lista",
+  "viewModeChat": "Modo chat",
+
+  "viewCollapse": "Colapsar",
+  "viewExpand": "Expandir",
+  "viewMaximize": "Maximizar",
+
+  "viewOrderReverse": "Orden inverso",
+  "viewOrderPositive": "Orden positivo",
+
+  "viewClickAddValue": "Clic para agregar valor",
+
+  "openInNewWindow": "Separar ventana"
+}

@@ -1,0 +1,18 @@
+{
+  "scriptCodeTemplate": "Modèle de script",
+  "scriptCodeTemplateDefault": "Modèle par défaut",
+  "scriptCodeTemplateMinimal": "Modèle minimal",
+  "scriptCodeTemplateRepo": "Dépôt de modèles",
+  "scriptCodeTemplateMime": "Mes modèles",
+  "scriptCodeTemplateSaveAs": "Enregistrer modèle",
+  "scriptCodeTemplateSaved": "Modèle enregistré",
+  "scriptCodeTemplateReplaceWarningMessage": "Le modèle %1 existe déjà, êtes-vous sûr de vouloir l'écraser ?",
+  "scriptCodeTemplateDeleteWarningMessage": "Supprimer définitivement le modèle %1 ?",
+  "scriptCodeTemplateUpdateDate": "Mis à jour le %1",
+  "scriptCodeTemplateFork": "Fork du modèle",
+  "scriptCodeReset": "Réinit. code",
+  "scriptCodeSelectionIndicator1": "Ln %1, Col %2",
+  "scriptCodeSelectionIndicator2": "Ln %1, Col %2 (%3 sélectionnés)",
+  "scriptCodeExport": "Exporter le script",
+  "scriptCodeImport": "Importer le script"
+}

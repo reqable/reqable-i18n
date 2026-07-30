@@ -1,0 +1,22 @@
+{
+  "colorGreen": "Зеленый",
+  "colorForest": "Лесной зеленый",
+  "colorOlive": "Оливковый",
+  "colorTeal": "Бирюзовый",
+  "colorBlue": "Синий",
+  "colorIndigo": "Индиго",
+  "colorYellow": "Желтый",
+  "colorOrange": "Оранжевый",
+  "colorPurple": "Фиолетовый",
+  "colorPink": "Розовый",
+  "colorRed": "Красный",
+  "colorGraphite": "Графитовый",
+  "colorGrey": "Серый",
+  "colorBrown": "Коричневый",
+  "colorChocolate": "Шоколадный",
+  "colorCoral": "Коралловый",
+  "colorCustom": "Пользовательский",
+  
+  "colorViewer": "Цвет",
+  "colorPicker": "Выбор цвета"
+}

@@ -1,0 +1,73 @@
+{
+  "deviceName": "设备名称",
+  "deviceUnknown": "未知设备",
+
+  "deviceStateOnline": "设备已连接",
+  "deviceStateOffline": "设备已离线",
+  "deviceStateConnecting": "设备连接中",
+  "deviceStateTapToConnect": "点击屏幕重新连接",
+
+  "deviceHost": "本机设备",
+  "deviceQrCode": "设备二维码",
+  "deviceSwitchIP": "切换IP",
+  "deviceMultipleIP": "检测到多个IP",
+
+  "deviceEditName": "编辑名称",
+  "deviceDiscover": "设备发现",
+  "deviceRemoteControl": "协同控制",
+  "deviceToken": "设备令牌",
+  "deviceTokenTips": "持有相同令牌的设备才能相互发现",
+
+  "deviceConnected": "连接设备",
+  "deviceSaved": "保存的设备",
+  "deviceSavedEmpty": "暂无保存的设备",
+  "deviceAvailable": "可用设备",
+  "deviceAvailableEmpty": "暂无可用设备",
+
+  "deviceAdd": "添加设备",
+  "deviceAddStep1": "1. 电脑端点击`调试`菜单 -> `设备` -> `设备二维码`，或者打开`设备`侧边栏，点击二维码按钮。",
+  "deviceAddStep2": "2. 手机点击右上角扫描二维码，或手动输入电脑设备网络地址。",
+  "deviceAddStep3": "3. 等待设备连接和和数据同步完成。",
+  "deviceAddTips1": "如果电脑端检测到多个IP，请手动选择与手机处于同一个局域网的IP地址。",
+  "deviceAddTips2": "Windows电脑需要在系统设置中将网络类型设置为专用网络而不是公用网络。",
+  "deviceAddTips3": "如果无法连接电脑设备，请检查 设置 -> 隐私 -> 本地网络 -> Reqable 是否已经启用。",
+
+  "deviceCollaborationMyQrcode": "协同二维码",
+  "deviceCollaborationNoAddressTips": "无有效IP地址",
+  "deviceCollaborationMobileTips": "其他设备流量转发到当前设备时，建议关闭VPN模式。",
+
+  "deviceConnecting": "正在连接...",
+  "deviceConnectFailedMessage": "连接失败，请检查您的设备网络状态后重试！",
+  "deviceSyncing": "正在同步...",
+  "deviceSyncFailedMessage": "同步失败，请检查您的设备网络状态后重试！",
+
+  "deviceManagement": "设备管理",
+
+  "deviceInvalidQrcode": "未检测到有效二维码！",
+  "deviceSyncConnecting": "正在连接...",
+  "deviceQrcodePrepareMessage": "即将进入扫描二维码页面，请打开Reqable桌面端的二维码。",
+  "deviceCertificateWarningNotSame": "该设备使用了和当前设备不相同的根证书，建议进行同步保持一致！",
+  "deviceCertificateWarningNotInstall": "该设备根证书未安装，这会导致网络连接失败！",
+  "deviceCertificateWarningNotTrust": "该设备根证书未安装到系统证书目录，这可能会导致部分网络连接失败！",
+  "deviceInputAddress": "输入网络地址",
+  "deviceInputAddressTips": "请输入设备的IP地址和端口号。",
+  "deviceInfo": "设备信息",
+  "deviceDeleteAlertMessage": "是否确认删除此设备，删除后需要重新扫码添加！",
+  "deviceSyncCertificate": "同步证书",
+  "deviceSyncCertificateAlertMessage": "是否确认将此设备的CA证书同步到手机，这将会替换掉当前应用采用的CA证书！",
+  "deviceSyncApiData": "同步API数据",
+  "deviceSyncApiDataAlertMessage": "是否确认将此设备的API集合和环境变量等数据同步到手机，这将会替换掉当前数据！",
+  "deviceSyncDone": "同步完成！",
+  "deviceSyncError": "同步失败！",
+
+  "deviceUpgrade325Tips": "当前 {platform} Reqable版本低于3.2.5，可能导致部分功能不可用，请升级到最新版本！",
+
+  "deviceCertificateStatus": "根证书状态",
+  "deviceCertificateNotMatch": "与当前应用根证书不一致",
+  "deviceCertificateMatched": "与当前应用根证书一致",
+  "deviceCertificateStatusNotInstall": "此根证书未安装到手机",
+  "deviceCertificateStatusInstalled": "此根证书已安装到手机",
+  "deviceCertificateStatusSystemInstalled": "此根证书已安装到系统目录",
+  "deviceCertificateStatusUserInstalled": "此根证书已安装到用户目录",
+  "deviceCertificateStatusUnknown": "此根证书安装状态未知"
+}

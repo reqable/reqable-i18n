@@ -1,0 +1,14 @@
+{
+  "viewModeTable": "Таблица",
+  "viewModeGallery": "Галерея",
+  "viewModeText": "Текст",
+  "viewModeList": "Список",
+  "viewModeChat": "Чат",
+  "viewCollapse": "Свернуть",
+  "viewExpand": "Развернуть",
+  "viewMaximize": "Развернуть",
+  "viewOrderReverse": "Обратный порядок",
+  "viewOrderPositive": "Прямой порядок",
+  "viewClickAddValue": "Нажмите, чтобы добавить значение",
+  "openInNewWindow": "Открепить окно"
+}

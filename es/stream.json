@@ -1,0 +1,20 @@
+{
+  "websocketBinary": "Carga binaria %1",
+  "websocketStat": "Subida %1 Descarga %2",
+  "websocketShowSend": "Mostrar subida",
+  "websocketShowReply": "Mostrar descarga",
+  "websocketShowControlFrame": "Mostrar trama de control",
+
+  "sseStat": "Evento %1",
+  "sseNotSupportPreview": "La vista previa no es compatible",
+  "sseExtractorSetup": "Configurar extractor",
+  "sseExtractor": "Extractores SSE",
+  "sseExtractorEdit": "Editar extractor",
+  "sseExtractorInvalid": "Ruta JSON no válida",
+  "sseExtractorList": "Lista de extractores",
+  "sseExtractorHint": "Ruta JSON, ej. $.delta.text",
+  "sseExtractorTips1": "Los extractores se utilizan para extraer valores de eventos SSE para vista previa.",
+  "sseExtractorTips2": "Los hosts admiten comodines, ej. *.example.com, y las reglas utilizan sintaxis JSON Path.",
+  "sseExtractorHostRequired": "Se requiere host",
+  "sseExtractorRuleRequired": "Se requiere regla"
+}

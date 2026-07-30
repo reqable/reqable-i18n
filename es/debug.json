@@ -1,0 +1,11 @@
+{
+  "debugLogger": "Registrador",
+  "debugLoggerLevelDebug": "Depuración",
+  "debugLoggerLevelInfo": "Información",
+  "debugLoggerLevelWarning": "Advertencia",
+  "debugLoggerLevelError": "Error",
+  "debugLoggerFileNotFound": "¡Archivo de registro no encontrado!",
+  "debugLoggerFileTooLarge": "Archivo demasiado grande, ¡no se admite cargar!",
+  "debugLoggerOpenFolder": "Abrir carpeta",
+  "debugLoggerExport": "Exportar archivo"
+}

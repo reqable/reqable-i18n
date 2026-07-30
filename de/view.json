@@ -1,0 +1,14 @@
+{
+  "viewModeTable": "Tabellenmodus",
+  "viewModeGallery": "Galeriemodus",
+  "viewModeText": "Textmodus",
+  "viewModeList": "Listenmodus",
+  "viewModeChat": "Chat-Modus",
+  "viewCollapse": "Reduzieren",
+  "viewExpand": "Erweitern",
+  "viewMaximize": "Maximieren",
+  "viewOrderReverse": "Umgekehrte Reihenfolge",
+  "viewOrderPositive": "Positive Reihenfolge",
+  "viewClickAddValue": "Klicken, um einen Wert hinzuzufügen",
+  "openInNewWindow": "Fenster abdocken"
+}

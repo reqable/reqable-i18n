@@ -1,0 +1,12 @@
+{
+  "timedateFormatFuture": "미래",
+  "timedateFormatJustNow": "방금 전",
+  "timedateFormatMinutesAgo": "%1분 전",
+  "timedateFormatHoursAgo": "%1시간 전",
+  "timedateFormatDaysAgo": "%1일 전",
+  "timedateFormatYearsAgo": "%1년 전",
+  "timedateFormatToday": "오늘",
+  "timedateFormatYesterday": "어제",
+
+  "timedateFormat": "타임스탬프 포맷"
+}

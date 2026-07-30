@@ -1,0 +1,22 @@
+{
+  "jsonInvalid": "Invalid JSON data",
+  "jsonKeywordSearch": "Keyword Filter",
+  "jsonKeywordSearchHint": "Enter keyword to filter",
+  "jsonPathSearch": "JSON Path",
+  "jsonPathSearchHint": "Enter JSON path, e.g. $.store.book[0].title",
+  "jsonPathCopy": "Copy Path",
+  "jsonPathCopy2": "Copy JSON Path",
+  "jsonPathCopy3": "Copy Dictionary Path (SQ)",
+  "jsonPathCopy4": "Copy Dictionary Path (DQ)",
+  "jsonPathNode": "Node",
+  "jsonPathParentNode": "Parent Node",
+
+  "jsonCompressPerformanceWarningMessage": "JSON compression is not supported for this payload, which may cause performance issues.",
+
+  "jsonEscape": "JSON Escape",
+  "jsonUnescape": "JSON Unescape",
+
+  "jsonViewer": "JSON Viewer",
+
+  "jsonConvertNotSupport": "Unsupported format"
+}

@@ -1,0 +1,20 @@
+{
+  "websocketBinary": "바이너리 데이터 %1",
+  "websocketStat": "전송 %1 수신 %2",
+  "websocketShowSend": "전송 표시",
+  "websocketShowReply": "수신 표시",
+  "websocketShowControlFrame": "제어 프레임 표시",
+
+  "sseStat": "이벤트 %1",
+  "sseNotSupportPreview": "미리보기 지원 안 함",
+  "sseExtractorSetup": "추출기 설정",
+  "sseExtractor": "SSE 추출기",
+  "sseExtractorEdit": "추출기 편집",
+  "sseExtractorInvalid": "유효하지 않은 JSON Path",
+  "sseExtractorList": "추출기 목록",
+  "sseExtractorHint": "JSON Path, 예: $.delta.text",
+  "sseExtractorTips1": "추출기는 SSE 이벤트에서 주요 필드를 추출하여 미리보기에 표시하는 데 사용됩니다.",
+  "sseExtractorTips2": "도메인은 와일드카드를 지원합니다. 예: *.example.com, 규칙은 JSON Path 구문을 사용합니다.",
+  "sseExtractorHostRequired": "Host는 필수 항목입니다",
+  "sseExtractorRuleRequired": "규칙은 필수 항목입니다"
+}

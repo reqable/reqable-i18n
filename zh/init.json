@@ -1,0 +1,26 @@
+{
+  "slogan": "让API更快更简单",
+
+  "eula": "用户许可协议",
+  "eulaAccepted": "已阅读并同意",
+
+  "workModes": "工作模式",
+  "workModeStandalone": "独立模式",
+  "workModeStandaloneDescription": "仅在手机上独立使用。",
+  "workModeStandaloneDescriptionMore": "当前仅使用Reqable手机版，创建独立的CA证书，后续有需要再添加其他协同设备。",
+  "workModeCollaboration": "协同模式（推荐）",
+  "workModeCollaborationDescription": "与Reqable电脑端应用协同工作。",
+  "workModeCollaborationDescriptionMore": "添加一台电脑为协同设备，共享CA证书，使用Reqable电脑版分析和操作手机端网络流量。",
+  "workModeCollaborationSetup": "手机协同配置",
+
+  "workModeCollaborationScanTitle": "手机版扫一扫",
+  "workModeCollaborationAutoCloseQrcode": "自动关闭",
+  "workModeOnlyApi": "API测试",
+  "workModeOnlyApiDescription": "经典的REST API请求测试场景。",
+  "workModeOnlyTraffic": "API抓包",
+  "workModeOnlyTrafficDescription": "通过MITM代理捕获和分析流量。",
+  "workModeAll": "以上全部",
+  "workModeAllDescription": "我需要上面的全部功能。",
+  "workModeOptions": "模式选项",
+  "workModeTips": "选择不同的模式仅会影响应用初始配置，您仍然可以正常使用其他功能。"
+}

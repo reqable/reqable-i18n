@@ -1,0 +1,18 @@
+{
+  "scriptCodeTemplate": "Script Template",
+  "scriptCodeTemplateDefault": "Default Template",
+  "scriptCodeTemplateMinimal": "Minimal Template",
+  "scriptCodeTemplateRepo": "Template Repo",
+  "scriptCodeTemplateMime": "My Templates",
+  "scriptCodeTemplateSaveAs": "Save as Template",
+  "scriptCodeTemplateSaved": "Template Saved",
+  "scriptCodeTemplateReplaceWarningMessage": "Template %1 already exists, are you sure you want to overwrite it?",
+  "scriptCodeTemplateDeleteWarningMessage": "Are you sure you want to permanently delete template %1 ?",
+  "scriptCodeTemplateUpdateDate": "Updated in %1",
+  "scriptCodeTemplateFork": "Fork Template",
+  "scriptCodeReset": "Reset Code",
+  "scriptCodeSelectionIndicator1": "Ln %1, Col %2",
+  "scriptCodeSelectionIndicator2": "Ln %1, Col %2 (%3 selected)",
+  "scriptCodeExport": "Export Script",
+  "scriptCodeImport": "Import Script"
+}

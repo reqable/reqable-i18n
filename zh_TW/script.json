@@ -1,0 +1,18 @@
+{
+    "scriptCodeTemplate": "指令碼範本",
+    "scriptCodeTemplateDefault": "預設範本",
+    "scriptCodeTemplateMinimal": "極簡範本",
+    "scriptCodeTemplateRepo": "範本庫",
+    "scriptCodeTemplateMime": "我的範本",
+    "scriptCodeTemplateSaveAs": "儲存為範本",
+    "scriptCodeTemplateSaved": "範本已儲存！",
+    "scriptCodeTemplateReplaceWarningMessage": "範本 %1 已存在，是否確定要覆蓋？",
+    "scriptCodeTemplateDeleteWarningMessage": "是否確定刪除範本 %1，注意此操作不可復原！",
+    "scriptCodeTemplateUpdateDate": "更新於 %1",
+    "scriptCodeTemplateFork": "Fork範本",
+    "scriptCodeReset": "重設指令碼",
+    "scriptCodeSelectionIndicator1": "行%1, 列%2",
+    "scriptCodeSelectionIndicator2": "行%1, 列%2（選擇%3）",
+    "scriptCodeExport": "匯出指令碼",
+    "scriptCodeImport": "匯入指令碼"
+}

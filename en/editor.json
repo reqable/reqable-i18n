@@ -1,0 +1,22 @@
+{
+    "editorPerformancePasteLimit": "For better performance, long-text pasting has been disabled.",
+
+    "editorPrettifyFailed": "Cannot prettify: unknown format",
+    "editorPrettifyJsonFailed": "Cannot prettify an invalid json format",
+    "editorPrettifyXmlFailed": "Cannot prettify an invalid xml format",
+    "editorCompressJsonFailed": "Cannot compress an invalid json format",
+
+    "editorThemeType": "Theme",
+
+    "editorFindNoResults": "No results",
+    "editorFindIndexResult": "%1 of %2",
+    "editorFindTooltipMatchCase": "Match Case",
+    "editorFindTooltipUseRegularExpression": "Use Regular Expression",
+    "editorFindTooltipReplace": "Replace",
+    "editorFindTooltipReplaceAll": "Replace All",
+
+    "editorTapToForceDisplayLargeText": "Double click to load large data",
+    "editorPayloadOversize": "Payload is too large, please download",
+
+    "editorInvalidCharset": "Invalid charset!"
+}

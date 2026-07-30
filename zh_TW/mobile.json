@@ -1,0 +1,13 @@
+{
+    "shareApp": "分享應用",
+    "shareAppMessage": "Reqable是新一代API除錯 + 測試一體化工具，快來體驗API新世界： %1",
+    "introduceDesktopBanner": "桌面版版本",
+    "introduceDesktopTitle": "介紹桌面版應用",
+    "reviewApp": "評價應用",
+    "reviewRequestMessage": "感謝使用Reqable，如果我們的應用對您有幫助，歡迎在應用商店給我們評分！",
+    "reviewReject": "暫不",
+    "reviewApprove": "鼓勵一下",
+    "drawerTabs": "標籤頁",
+    "drawerTools": "功能",
+    "drawerOthers": "其他"
+}

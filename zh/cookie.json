@@ -1,0 +1,15 @@
+{
+  "cookieJar": "管理Cookie",
+  "cookieEdit": "编辑Cookie",
+  "cookieAdd": "新增Cookie",
+  "cookieName": "名称",
+  "cookieValue": "值",
+  "cookieDomain": "域",
+  "cookiePath": "路径",
+  "cookieExpires": "过期时间",
+  "cookieSecure": "Secure",
+  "cookieHttpOnly": "仅Http",
+  "cookieDeleteAlertMessage": "确定永久删除 %1 ？",
+  "cookieNone": "无任何cookie",
+  "cookieTextEditingHint": "每个Cookie之间使用换行符分隔，\n名称和值之间使用英文冒号分隔。"
+}

@@ -1,0 +1,6 @@
+{
+  "wildcardEnabled": "ワイルドカード有効",
+  "wildcardDisabled": "ワイルドカード無効",
+  "regexEnabled": "正規表現有効",
+  "regexDisabled": "正規表現無効"
+}

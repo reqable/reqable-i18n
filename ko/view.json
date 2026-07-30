@@ -1,0 +1,19 @@
+{
+  "viewModeTable": "테이블 모드",
+  "viewModeGallery": "갤러리 모드",
+  "viewModeText": "텍스트 모드",
+  "viewModeList": "목록 모드",
+  "viewModeChat": "대화 모드",
+
+  "viewCollapse": "접기",
+  "viewExpand": "펼치기",
+  "viewMaximize": "최대화",
+
+  "viewOrderReverse": "역순",
+  "viewOrderPositive": "정순",
+
+  "viewClickAddValue": "클릭하여 값 추가",
+
+  "openInNewWindow": "새 창에서 열기"
+
+}

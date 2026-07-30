@@ -1,0 +1,19 @@
+{
+  "versionApp": "앱 버전",
+  "versionUpdateTitle": "버전 업데이트",
+  "versionNewUpdates": "{count}개의 새 버전",
+  "versionUpdateNow": "지금 업데이트",
+  "versionReleaseDate": "출시일: {date}",
+  "versionUpdateNoDescription": "업데이트 설명이 없습니다.",
+  "versionUpdateDownloading": "다운로드 중...",
+  "versionUpdateInstallError": "설치 프로그램을 시작할 수 없습니다. 수동으로 설치하세요!",
+
+  "versionNew": "새 버전",
+
+  "versionUpdateTipStrategyNone": "알림 안 함",
+  "versionUpdateTipStrategyMajorVersion": "메이저 버전",
+  "versionUpdateTipStrategyMinorVersion": "마이너 버전",
+  "versionUpdateTipStrategyEveryVersion": "모든 버전",
+  
+  "versionDownloadPkgError": "설치 패키지 다운로드 실패, 다시 시도하세요"
+}

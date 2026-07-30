@@ -1,0 +1,12 @@
+{
+  "timedateFormatFuture": "Future",
+  "timedateFormatJustNow": "Just now",
+  "timedateFormatMinutesAgo": "%1 minutes ago",
+  "timedateFormatHoursAgo": "%1 hours ago",
+  "timedateFormatDaysAgo": "%1 days ago",
+  "timedateFormatYearsAgo": "%1 years ago",
+  "timedateFormatToday": "Today",
+  "timedateFormatYesterday": "Yesterday",
+
+  "timedateFormat": "Format Timestamp"
+}

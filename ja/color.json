@@ -1,0 +1,22 @@
+{
+  "colorGreen": "グリーン",
+  "colorForest": "フォレストグリーン",
+  "colorOlive": "オリーブ",
+  "colorTeal": "ティール",
+  "colorBlue": "ブルー",
+  "colorIndigo": "インディゴ",
+  "colorYellow": "イエロー",
+  "colorOrange": "オレンジ",
+  "colorPurple": "パープル",
+  "colorPink": "ピンク",
+  "colorRed": "レッド",
+  "colorGraphite": "グラファイトグレー",
+  "colorGrey": "グレー",
+  "colorBrown": "ブラウン",
+  "colorChocolate": "チョコレート",
+  "colorCoral": "コーラル",
+  "colorCustom": "カスタム",
+
+  "colorViewer": "カラービューア",
+  "colorPicker": "カラーピッカー"
+}

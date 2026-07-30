@@ -1,0 +1,25 @@
+{
+  "tabClose": "Close",
+  "tabCloseForce": "Force Close",
+  "tabCloseOthers": "Close Others",
+  "tabCloseOthersForce": "Force Close Others",
+  "tabCloseRight": "Close to the Right",
+  "tabCloseRightForce": "Force Close to the Right",
+  "tabCloseAll": "Close All",
+  "tabCloseAllForce": "Force Close All",
+
+  "workshopCreateHttp": "New HTTP",
+  "workshopCreateWebSocket": "New WebSocket",
+  "workshopImportFromCurl": "Import from cURL",
+  "workshopImportFromClipboard": "Import from Clipboard",
+  "workshopImportFromRaw": "Import from Raw",
+
+  "workshopOpenFileFailed": "Failed to open file: ",
+  "workshopWorkTypeLive": "Traffic",
+  "workshopCloseOtherTabs": "Close Others",
+  "workshopForceCloseOtherTabs": "Force Close Others",
+  "workshopCloseAllTabs": "Close All",
+  "workshopForceCloseAllTabs": "Force Close All",
+  "workshopCopyPath": "Copy Path",
+  "workshopTooManyWorks": "Too many tabs, at most %1 tabs at a time!"
+}

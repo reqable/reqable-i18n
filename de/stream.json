@@ -1,0 +1,19 @@
+{
+  "websocketBinary": "Binäre Nutzlast %1",
+  "websocketStat": "Upstream %1 Downstream %2",
+  "websocketShowSend": "Upstream anzeigen",
+  "websocketShowReply": "Downstream anzeigen",
+  "websocketShowControlFrame": "Kontrollrahmen anzeigen",
+  "sseStat": "Ereignis %1",
+  "sseNotSupportPreview": "Vorschau wird nicht unterstützt",
+  "sseExtractorSetup": "Setup-Extraktor",
+  "sseExtractor": "SSE-Extraktoren",
+  "sseExtractorEdit": "Extraktor bearbeiten",
+  "sseExtractorInvalid": "Ungültiger JSON-Pfad",
+  "sseExtractorList": "Extraktorliste",
+  "sseExtractorHint": "JSON-Pfad, z.B. $.delta.text",
+  "sseExtractorTips1": "Extraktoren werden verwendet, um Werte aus SSE-Ereignissen für die Vorschau zu extrahieren.",
+  "sseExtractorTips2": "Hosts unterstützen Platzhalter, z.B. *.example.com und Regeln verwenden die JSON-Pfad-Syntax.",
+  "sseExtractorHostRequired": "Host ist erforderlich",
+  "sseExtractorRuleRequired": "Regel ist erforderlich"
+}

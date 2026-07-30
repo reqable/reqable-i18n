@@ -1,0 +1,19 @@
+{
+  "versionApp": "Version de l'application",
+  "versionUpdateTitle": "Nouvelle version",
+  "versionReleaseDate": "Date de sortie : {date}",
+  "versionNewUpdates": "{count} nouvelles mises à jour",
+  "versionUpdateNow": "Mettre à jour",
+  "versionUpdateNoDescription": "Pas de journal des modifications.",
+  "versionUpdateDownloading": "Téléchargement...",
+  "versionUpdateInstallError": "Impossible de démarrer l'installateur, veuillez installer manuellement !",
+
+  "versionNew": "Nouvelle version",
+
+  "versionUpdateTipStrategyNone": "Jamais",
+  "versionUpdateTipStrategyMajorVersion": "Mise à jour majeure",
+  "versionUpdateTipStrategyMinorVersion": "Mise à jour mineure",
+  "versionUpdateTipStrategyEveryVersion": "Chaque mise à jour",
+
+  "versionDownloadPkgError": "Échec du téléchargement du package d'installation, veuillez réessayer"
+}

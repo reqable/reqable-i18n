@@ -1,0 +1,19 @@
+{
+  "versionApp": "App Version",
+  "versionUpdateTitle": "New Version",
+  "versionReleaseDate": "Release Date: {date}",
+  "versionNewUpdates": "{count} New Updates",
+  "versionUpdateNow": "Update Now",
+  "versionUpdateNoDescription": "No changelogs.",
+  "versionUpdateDownloading": "Downloading...",
+  "versionUpdateInstallError": "Unable to start the installer, please install manually!",
+
+  "versionNew": "New Version",
+
+  "versionUpdateTipStrategyNone": "Never",
+  "versionUpdateTipStrategyMajorVersion": "Major Update",
+  "versionUpdateTipStrategyMinorVersion": "Minor Update",
+  "versionUpdateTipStrategyEveryVersion": "Every Update",
+
+  "versionDownloadPkgError": "Failed to download the installation package, please try again"
+}

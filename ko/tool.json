@@ -1,0 +1,70 @@
+{
+  "toolBase64Codec": "Base64 인코딩/디코딩",
+  "toolBase64EncodeHint": "일반 텍스트를 입력하세요",
+  "toolBase64DecodeHint": "Base64 텍스트를 입력하세요",
+  "toolBase64LoopMode": "반복 모드",
+  "toolBase64InvalidInput": "유효하지 않은 Base64 입력입니다!",
+  "toolBase64InvalidFile": "유효하지 않은 Base64 파일입니다!",
+
+  "toolUriCodec": "URI 인코딩/디코딩",
+  "toolUriEncodeHint": "인코딩할 텍스트를 입력하세요",
+  "toolUriDecodeHint": "디코딩할 텍스트를 입력하세요",
+  "toolUriCodecType": "입력 유형",
+  "toolUriCodecTypeFull": "URL",
+  "toolUriInvalidInput": "유효하지 않은 입력 형식입니다!",
+
+  "toolJwtDecodeError": "입력 내용을 구문 분석할 수 없습니다",
+  "toolJwtCodec": "JWT 디코딩",
+  "toolJwtDecodeHint": "디코딩할 텍스트를 입력하세요",
+
+  "toolUnicodeCodec" : "유니코드 인코딩/디코딩",
+  "toolUnicodeEncodeHint": "인코딩할 텍스트를 입력하세요",
+  "toolUnicodeDecodeHint": "디코딩할 텍스트를 입력하세요",
+
+  "toolQrcodeInputHint": "텍스트를 입력하세요",
+  "toolQrcodeErrorCorrect": "오류 정정 수준",
+  "toolQrcodeGenerateError": "QR코드 생성 실패!",
+
+  "toolTimestampFormat": "포맷",
+  "toolTimestampParse": "파싱",
+  "toolTimestampUnitSecond": "초",
+  "toolTimestampUnitMillisecond": "밀리초",
+  "toolTimestampFormatSecondInputHint": "초 타임스탬프 입력",
+  "toolTimestampFormatMillisecondInputHint": "밀리초 타임스탬프 입력",
+  "toolTimestampParseSecondInputHint": "yyyy-MM-dd HH:mm:ss 입력",
+  "toolTimestampParseMillisecondInputHint": "yyyy-MM-dd HH:mm:ss:SSS 입력",
+  "toolTimestampNow": "현재 시간: ",
+  "toolTimestampInputEmpty": "입력 내용이 비어 있습니다!",
+  "toolTimestampFormatError": "입력 형식이 올바르지 않습니다!",
+
+  "toolXmlViewer": "XML 뷰어",
+
+  "toolUuidWithoutHyphen": "하이픈 없음",
+
+  "toolDiff": "비교",
+  "toolDiffLeft": "왼쪽",
+  "toolDiffRight": "오른쪽",
+  "toolDiffSortHeader": "헤더 정렬",
+  "toolDiffLowercaseHeader": "헤더 소문자",
+
+  "toolRegex": "정규 표현식",
+  "toolRegexModeMatch": "매치 모드",
+  "toolRegexModeReplace": "치환 모드",
+  "toolRegexExpression": "표현식",
+  "toolRegexExpressionCaseSensitive": "대소문자 구분",
+  "toolRegexExpressionInputHint": "표현식을 입력하세요",
+  "toolRegexExpressionEmpty": "정규 표현식은 비워둘 수 없습니다!",
+  "toolRegexExpressionInvalid": "정규 표현식 구문 오류!",
+  "toolRegexMatchContent": "매치 내용",
+  "toolRegexMatchContentInputHint": "매치할 텍스트를 입력하세요",
+  "toolRegexMatchContentEmpty": "매치 내용은 비워둘 수 없습니다!",
+  "toolRegexReplaceContent": "치환 내용",
+  "toolRegexReplaceContentInputHint": "치환할 내용을 입력하세요",
+  "toolRegexReplaceContentEmpty": "치환 내용은 비워둘 수 없습니다!",
+  "toolRegexMatchResult": "매치 결과",
+  "toolRegexResultMatchNone": "매치 결과 없음",
+  "toolRegexResultMatchCount": "매치 개수 {count}개",
+  "toolRegexResultMatchItem": "항목 {index}: {value}",
+  "toolRegexReplaceResult": "치환 결과"
+
+}

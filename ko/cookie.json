@@ -1,0 +1,15 @@
+{
+  "cookieJar": "Cookie 관리",
+  "cookieEdit": "Cookie 편집",
+  "cookieAdd": "Cookie 추가",
+  "cookieName": "이름",
+  "cookieValue": "값",
+  "cookieDomain": "도메인",
+  "cookiePath": "경로",
+  "cookieExpires": "만료 시간",
+  "cookieSecure": "Secure",
+  "cookieHttpOnly": "HttpOnly",
+  "cookieDeleteAlertMessage": "%1을(를) 영구 삭제하시겠습니까?",
+  "cookieNone": "Cookie가 없습니다",
+  "cookieTextEditingHint": "각 Cookie는 개행 문자로 구분하고,\n이름과 값은 영문 콜론으로 구분합니다."
+}

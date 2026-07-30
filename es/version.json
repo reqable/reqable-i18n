@@ -1,0 +1,19 @@
+{
+  "versionApp": "Versión de la aplicación",
+  "versionUpdateTitle": "Nueva versión",
+  "versionReleaseDate": "Fecha de lanzamiento: {date}",
+  "versionNewUpdates": "{count} nuevas actualizaciones",
+  "versionUpdateNow": "Actualizar ahora",
+  "versionUpdateNoDescription": "Sin registros de cambios.",
+  "versionUpdateDownloading": "Descargando...",
+  "versionUpdateInstallError": "No se puede iniciar el instalador, ¡instale manualmente!",
+
+  "versionNew": "Nueva versión",
+
+  "versionUpdateTipStrategyNone": "Nunca",
+  "versionUpdateTipStrategyMajorVersion": "Actualización mayor",
+  "versionUpdateTipStrategyMinorVersion": "Actualización menor",
+  "versionUpdateTipStrategyEveryVersion": "Cada actualización",
+
+  "versionDownloadPkgError": "Error al descargar el paquete de instalación, intente de nuevo"
+}

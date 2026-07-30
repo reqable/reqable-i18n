@@ -1,0 +1,68 @@
+{
+  "toolBase64Codec": "Códec Base64",
+  "toolBase64EncodeHint": "Ingrese texto plano aquí",
+  "toolBase64DecodeHint": "Ingrese texto base64 aquí",
+  "toolBase64LoopMode": "Modo bucle",
+  "toolBase64InvalidInput": "¡Datos de entrada base64 no válidos!",
+  "toolBase64InvalidFile": "¡Archivo base64 no válido!",
+
+  "toolUriCodec": "Códec URI",
+  "toolUriEncodeHint": "Ingrese URI decodificado aquí",
+  "toolUriDecodeHint": "Ingrese URI codificado aquí",
+  "toolUriCodecType": "Tipo de entrada",
+  "toolUriInvalidInput": "¡Datos de entrada URI no válidos!",
+
+  "toolJwtCodec": "Decodificador JWT",
+  "toolJwtDecodeHint": "Ingrese JWT codificado aquí",
+  "toolJwtDecodeError": "Error al decodificar el contenido de entrada",
+
+  "toolUnicodeCodec": "Códec Unicode",
+  "toolUnicodeEncodeHint": "Ingrese un texto aquí",
+  "toolUnicodeDecodeHint": "Ingrese unicodes aquí",
+
+  "toolQrcodeInputHint": "Ingresar texto",
+  "toolQrcodeErrorCorrect": "Corrección errores",
+  "toolQrcodeGenerateError": "¡Error al generar código QR!",
+
+  "toolTimestampFormat": "Modo formato",
+  "toolTimestampParse": "Modo parse",
+  "toolTimestampUnitSecond": "Segundo",
+  "toolTimestampUnitMillisecond": "Milisegundo",
+  "toolTimestampFormatSecondInputHint": "Ingrese marca de tiempo en segundos",
+  "toolTimestampFormatMillisecondInputHint": "Ingrese marca de tiempo en milisegundos",
+  "toolTimestampParseSecondInputHint": "Ingrese yyyy-MM-dd HH:mm:ss",
+  "toolTimestampParseMillisecondInputHint": "Ingrese yyyy-MM-dd HH:mm:ss:SSS",
+  "toolTimestampNow": "Ahora es ",
+  "toolTimestampInputEmpty": "¡La entrada está vacía!",
+  "toolTimestampFormatError": "¡Formato de entrada no válido!",
+
+  "toolXmlViewer": "Visor XML",
+
+  "toolUuidWithoutHyphen": "Sin guiones",
+
+  "toolDiff": "Diff",
+  "toolDiffLeft": "Izquierdo",
+  "toolDiffRight": "Derecho",
+  "toolDiffSortHeader": "Ordenar headers",
+  "toolDiffLowercaseHeader": "Headers en minúsculas",
+
+  "toolRegex": "Regex",
+  "toolRegexModeMatch": "Modo coincidir",
+  "toolRegexModeReplace": "Modo reemplazo",
+  "toolRegexExpression": "Expresión",
+  "toolRegexExpressionCaseSensitive": "Coincidir mayús./minús.",
+  "toolRegexExpressionInputHint": "Ingrese una expresión regular",
+  "toolRegexExpressionEmpty": "¡La expresión regular no puede estar vacía!",
+  "toolRegexExpressionInvalid": "¡Sintaxis de expresión regular no válida!",
+  "toolRegexMatchContent": "Texto a evaluar",
+  "toolRegexMatchContentInputHint": "Ingrese texto para coincidir",
+  "toolRegexMatchContentEmpty": "¡El contenido de coincidencia no puede estar vacío!",
+  "toolRegexReplaceContent": "Texto de reemplazo",
+  "toolRegexReplaceContentInputHint": "Ingrese texto para reemplazar",
+  "toolRegexReplaceContentEmpty": "¡El contenido de reemplazo no puede estar vacío!",
+  "toolRegexMatchResult": "Resultados",
+  "toolRegexResultMatchNone": "Sin resultados",
+  "toolRegexResultMatchCount": "Conteo de coincidencias: {count}",
+  "toolRegexResultMatchItem": "Coincidencia {index} : {value}",
+  "toolRegexReplaceResult": "Resultado de reemplazo"
+}

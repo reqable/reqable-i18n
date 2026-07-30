@@ -1,0 +1,16 @@
+{
+  "shareApp": "アプリを共有",
+  "shareAppMessage": "Reqableは新世代のAPIデバッグ＋テスト統合ツールです。APIの新しい世界を体験しましょう：%1",
+
+  "introduceDesktopBanner": "デスクトップ版",
+  "introduceDesktopTitle": "デスクトップアプリについて",
+
+  "reviewApp": "アプリを評価",
+  "reviewRequestMessage": "Reqableをご利用いただきありがとうございます。アプリがお役に立っている場合は、アプリストアで評価をお願いします！",
+  "reviewReject": "後で",
+  "reviewApprove": "評価する",
+
+  "drawerTabs": "タブ",
+  "drawerTools": "機能",
+  "drawerOthers": "その他"
+}

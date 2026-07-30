@@ -1,0 +1,6 @@
+{
+  "wildcardEnabled": "Wildcard Enabled",
+  "wildcardDisabled": "Wildcard Disabled",
+  "regexEnabled": "Regex Enabled",
+  "regexDisabled": "Regex Disabled"
+}

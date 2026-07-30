@@ -1,0 +1,44 @@
+{
+  "fileSelectorDragFile": "Drag and drop",
+  "fileSelectorFileNotExists": "File does not exist",
+  "fileSelectorTooltipChooseFile": "Choose a file",
+  "fileSaveDone": "File saved successfully",
+  "fileSaveDoneAndroidTips1": "Successfully saved to Download/Reqable",
+  "fileSaveDoneAndroidTips2": "Successfully saved to Reqable sandbox.",
+  "fileSaveFailed": "Failed to save file: ",
+  "fileSaveOpenAndroidFailed": "Please manually delete the Reqable directory under Download and try again!",
+  "fileSaveOpenLocationFailed": "Failed to open save location!",
+  "fileSaveLocaltionSuggestNameDefault": "Untitled Folder",
+  
+  "fileFormatUnknown": "Unrecognized file type: {type}",
+  "fileTypeNotSupport": "File type not supported!",
+  "fileNotFound": "File not found: {path}",
+  "fileNone": "Please select a file",
+
+  "fileOpen": "Open File",
+  "fileOpenFailure": "Failed to open file: %1",
+
+  "fileDownloading": "Downloading: ",
+  "fileDownloadFailed": "Download failed: ",
+
+  "fileExportSuccess": "Exported successfully",
+  "fileExportFailure": "Failed to export.",
+  "fileExportPdf": "Export PDF",
+  "fileExportPdfError": "Failed to export PDF",
+
+  "fileImportSuccess": "Imported successfully!",
+  "fileImportFailure": "Failed to import: %1",
+  "fileImportProcessing": "Import in progress, please wait...",
+  "fileImportNone": "No valid data found!",
+
+  "openWithBrowser": "Open with Browser",
+  "openWithAppVscode": "Open with VS Code",
+  "openWithAppVscodeUnavailable": "Please install the Visual Studio Code command line tool!",
+
+  "folderNew": "New Folder",
+  "folderRename": "Rename Folder",
+  "folderDeleteAlertMessage": "Are you sure you want to permanently delete folder %1 ?",
+  "folderClearAlertMessage": "Are you sure you want to permanently clear all items in folder %1 ?",
+  "folderRoot": "Root Folder"
+
+}

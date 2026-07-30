@@ -1,0 +1,12 @@
+{
+  "codeSnippet": "Fragmento de código",
+  "codeSnippetSettings": "Configuración de código",
+  "codeSnippetLanguage": "Lenguaje",
+  "codeSnippetMoreLanguage": "¿Más soporte de lenguaje?",
+  "codeSnippetIndentCount": "Cantidad de sangría",
+  "codeSnippetIndentCountDescription": "Establezca el número de caracteres de sangría para agregar por cada nivel de código.",
+  "codeSnippetIndentType": "Tipo de sangría",
+  "codeSnippetIndentTypeDescription": "Establezca el tipo de carácter utilizado para sangrar líneas de código.",
+  "codeSnippetPythonRequestsUseParams": "Usar diccionario de parámetros",
+  "codeSnippetPythonRequestsUseParamsDescription": "Si se debe usar un diccionario de parámetros para pasar los parámetros de solicitud en lugar de usar una URL concatenada."
+}

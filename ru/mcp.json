@@ -1,0 +1,11 @@
+{
+  "mcpServerSetup": "Настройка MCP-сервера",
+  "mcpServerSetupTo": "MCP для {app}",
+  "mcpServerSetupManual": "Ручная настройка MCP",
+  "mcpServerActiveNone": "Нет запущенных серверов",
+  "mcpServerActiveList": "Запущено серверов: {count}",
+  "mcpClientList": "MCP-клиенты",
+  "mcpClientListEmpty": "Нет подключенных клиентов.",
+  "mcpClientDisconnect": "Отключить",
+  "mcpServerLaunchAt": "Подключен: {timestamp}"
+}

@@ -1,0 +1,23 @@
+{
+  "slogan": "Сделаем API быстрее и проще",
+  "eula": "Лицензионное соглашение",
+  "eulaAccepted": "Принято",
+  "workModes": "Режимы",
+  "workModeStandalone": "Автономный режим",
+  "workModeStandaloneDescription": "Только для автономного использования на телефоне.",
+  "workModeStandaloneDescriptionMore": "При использовании только мобильного приложения Reqable будет сгенерирован независимый CA-сертификат. При необходимости вы можете добавить другие устройства для совместной работы позже.",
+  "workModeCollaboration": "Совместный режим (*)",
+  "workModeCollaborationDescription": "Работает вместе с десктопным приложением Reqable.",
+  "workModeCollaborationDescriptionMore": "Добавьте десктопное устройство как совместное, используйте общие CA-сертификаты и анализируйте мобильный сетевой трафик в Reqable для ПК.",
+  "workModeCollaborationSetup": "Настройка мобильной совместной работы",
+  "workModeCollaborationScanTitle": "Сканировать мобильным приложением",
+  "workModeCollaborationAutoCloseQrcode": "Автоматическое закрытие",
+  "workModeOnlyApi": "Тестирование API",
+  "workModeOnlyApiDescription": "Классический сценарий тестирования REST API.",
+  "workModeOnlyTraffic": "Захват трафика",
+  "workModeOnlyTrafficDescription": "Захват и анализ трафика через MITM-прокси.",
+  "workModeAll": "Все вышеперечисленное",
+  "workModeAllDescription": "Мне нужны все функции выше.",
+  "workModeOptions": "Настройки режима",
+  "workModeTips": "Выбор режима повлияет только на начальную конфигурацию, вы по-прежнему можете использовать другие функции."
+}

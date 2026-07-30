@@ -1,0 +1,18 @@
+{
+  "scriptCodeTemplate": "스크립트 템플릿",
+  "scriptCodeTemplateDefault": "기본 템플릿",
+  "scriptCodeTemplateMinimal": "미니멀 템플릿",
+  "scriptCodeTemplateRepo": "템플릿 저장소",
+  "scriptCodeTemplateMime": "내 템플릿",
+  "scriptCodeTemplateSaveAs": "템플릿으로 저장",
+  "scriptCodeTemplateSaved": "템플릿이 저장되었습니다!",
+  "scriptCodeTemplateReplaceWarningMessage": "템플릿 %1이(가) 이미 존재합니다. 덮어쓰시겠습니까?",
+  "scriptCodeTemplateDeleteWarningMessage": "템플릿 %1을(를) 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다!",
+  "scriptCodeTemplateUpdateDate": "%1에 업데이트됨",
+  "scriptCodeTemplateFork": "템플릿 Fork",
+  "scriptCodeReset": "스크립트 초기화",
+  "scriptCodeSelectionIndicator1": "행 %1, 열 %2",
+  "scriptCodeSelectionIndicator2": "행 %1, 열 %2 (%3 선택됨)",
+  "scriptCodeExport": "스크립트 내보내기",
+  "scriptCodeImport": "스크립트 가져오기"
+}

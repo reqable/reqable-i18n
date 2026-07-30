@@ -1,0 +1,30 @@
+{
+  "curlOptions": "cURL选项",
+  "curlMultiline": "多行cURL",
+  "curlMultilineDescription": "将cURL命令分成多行显示。",
+  "curlLongFormOptions": "长选项",
+  "curlLongFormOptionsDescription": "在cURL命令中使用长选项，例如使用 --request 而不是 -X。",
+  "curlLineContinuationChar": "行续字符",
+  "curlLineContinuationCharDescription": "设置多行cURL中的行续字符，通常在Linux和Mac系统中使用 \\，在Windows CMD中使用 ^，在PowerShell中使用 `。",
+  "curlSingleQuote": "单引号",
+  "curlSingleQuoteDescription": "在cURL命令中使用单引号。一些终端可能不支持单引号（例如，Windows CMD），因此您可以禁用此选项。",
+  "curlExtractEnvVariable": "提取环境变量",
+  "curlExtractEnvVariableDescription": "环境变量是否替换成相应的值。",
+
+
+  "curlErrorMultiDataType": "不支持多种--data参数类型",
+  "curlErrorMultiDataBinary": "不支持多个--data-binary参数",
+  "curlErrorUnsupportProtocol": "不支持的HTTP协议：",
+  "curlErrorMalformedCurl": "cURL格式错误",
+  "curlErrorMalformedCurlWithMessage": "cURL格式错误：",
+  "curlErrorUnknownMethod": "不支持的请求方法：",
+  "curlErrorFileNotFound": "引用文件不存在：",
+  "curlErrorFileArgInvalid": "文件引用格式错误",
+  "curlErrorFileTooLarge": "文件超过50M，无法读取",
+  "curlErrorUrlEncodeInvalid": "--url-encode选项数据格式错误",
+  "curlErrorFormFormatInvalid": "--form选项数据格式错误",
+  "curlErrorMaxTimeFormatInvalid": "--max-time选项数据格式错误",
+  "curlErrorConnectTimeoutFormatInvalid": "--connect-timeout选项数据格式错误",
+  "curlErrorMaxRedirectFormatInvalid": "max-redirs选项数据格式错误",
+  "curlErrorUnknown": "无法解析此cURL"
+}

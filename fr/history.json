@@ -1,0 +1,36 @@
+{
+  "historyRest": "REST",
+  "historyTraffic": "Trafic",
+  "historyEmpty": "L'historique est vide",
+  "historyClearAlertMessage": "Supprimer définitivement tout l'historique ?",
+  "historyClearAlertMessage2": "Supprimer tous les enregistrements (sauf favoris) ?",
+  "historyDeleteAlertMessage": "Supprimer définitivement l'historique %1 ?",
+  "historyDeleteRecordsAlertMessage": "Supprimer les enregistrements sélectionnés ?",
+
+  "historySettings": "Paramètres de cache",
+
+  "historyRestTimelineMode": "Mode chronologie",
+  "historyRestUrlMode": "Mode URL",
+  "historyRestRestoreMessage": "Restaurer cette session ? La requête actuelle sera écrasée !",
+
+  "historyCaptureSessionInfo": "Enregistrements : %1  Durée : %2",
+  "historyCaptureAddStar": "Ajouter aux favoris",
+  "historyCaptureRemoveStar": "Retirer des favoris",
+
+  "historyCacheDuration": "Durée du cache",
+  "historyCacheDurationTips": "* Définissez la durée de stockage des données d'historique sur l'appareil. Les données expirées seront automatiquement supprimées.",
+
+  "historyCacheIncognitoMode": "Mode incognito",
+  "historyCacheIncognitoModeTips": "* Lorsque le mode incognito est activé, les données ne seront pas enregistrées dans l'historique.",
+
+  "historyCleanNotificationTitle": "Nettoyer l'historique",
+  "historyCleanNotificationMessage": "Stockage d'historique trop volumineux. Nettoyer maintenant ?",
+  "historyCleanNotificationText": "Aller au nettoyage",
+
+  "cacheDurationDays3": "3 jours",
+  "cacheDurationDays7": "7 jours",
+  "cacheDurationDays30": "30 jours",
+  "cacheDurationDaysForever": "Pour toujours",
+  "cacheDurationTemporary": "Temporaire"
+
+}

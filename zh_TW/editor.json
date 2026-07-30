@@ -1,0 +1,17 @@
+{
+    "editorPerformancePasteLimit": "效能原因，暫不支援貼上長文字",
+    "editorPrettifyFailed": "美化失敗：不支援的格式",
+    "editorPrettifyJsonFailed": "美化失敗：非法JSON格式",
+    "editorPrettifyXmlFailed": "美化失敗：非法XML格式",
+    "editorCompressJsonFailed": "壓縮失敗：非法JSON格式",
+    "editorThemeType": "主題類型",
+    "editorFindNoResults": "無結果",
+    "editorFindIndexResult": "第 %1/%2 項",
+    "editorFindTooltipMatchCase": "匹配大小寫",
+    "editorFindTooltipUseRegularExpression": "正規表示式",
+    "editorFindTooltipReplace": "替換",
+    "editorFindTooltipReplaceAll": "替換全部",
+    "editorTapToForceDisplayLargeText": "雙擊載入大文字資料",
+    "editorPayloadOversize": "資料過大，請下載後檢視",
+    "editorInvalidCharset": "字元編碼錯誤！"
+}

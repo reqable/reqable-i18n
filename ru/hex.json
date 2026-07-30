@@ -1,0 +1,7 @@
+{
+  "hexViewer": "HEX-просмотрщик",
+  "hexViewerTextMode": "Текстовый режим",
+  "hexViewerByteMode": "Байтовый режим",
+  "hexViewerFindText": "Поиск текста",
+  "hexViewerFindByte": "Поиск байта"
+}

@@ -1,0 +1,15 @@
+{
+  "cookieJar": "Almacén de cookies",
+  "cookieEdit": "Editar cookie",
+  "cookieAdd": "Agregar cookie",
+  "cookieName": "Nombre",
+  "cookieValue": "Valor",
+  "cookieDomain": "Dominio",
+  "cookiePath": "Ruta",
+  "cookieExpires": "Caduca",
+  "cookieSecure": "Segura",
+  "cookieHttpOnly": "Solo HTTP",
+  "cookieDeleteAlertMessage": "¿Está seguro de que desea eliminar permanentemente %1?",
+  "cookieNone": "No hay cookies.",
+  "cookieTextEditingHint": "Las cookies se separan por nueva línea\nLos nombres y valores se separan por :"
+}

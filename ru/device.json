@@ -1,0 +1,74 @@
+{
+  "deviceName": "Имя устройства",
+  "deviceUnknown": "Неизвестное устройство",
+
+  "deviceStateOnline": "Устройство онлайн",
+  "deviceStateOffline": "Устройство офлайн",
+  "deviceStateConnecting": "Подключение устройства",
+  "deviceStateTapToConnect": "Нажмите для переподключения",
+
+  "deviceHost": "Хост-устройство",
+  "deviceQrCode": "QR-код устройства",
+  "deviceSwitchIP": "Сменить IP",
+  "deviceMultipleIP": "Обнаружено несколько IP",
+
+  "deviceEditName": "Изменить имя",
+  "deviceDiscover": "Обнаружение устройств",
+  "deviceRemoteControl": "Удаленное управление",
+  "deviceToken": "Токен устройства",
+  "deviceTokenTips": "Устройства с одинаковым токеном обнаруживают друг друга",
+
+  "deviceConnected": "Подключенные",
+  "deviceSaved": "Сохраненные",
+  "deviceSavedEmpty": "Нет сохраненных устройств",
+  "deviceAvailable": "Доступные",
+  "deviceAvailableEmpty": "Нет доступных устройств",
+
+  "deviceAdd": "Добавить устройство",
+
+  "deviceAddStep1": "1. Нажмите меню «Трафик» -> «Устройство» -> «QR-код устройства» или откройте боковую панель «Устройство» и нажмите значок QR-кода в десктопном приложении.",
+  "deviceAddStep2": "2. Отсканируйте QR-код, отображаемый в десктопном приложении, или введите адрес вручную.",
+  "deviceAddStep3": "3. Дождитесь подключения устройства и завершения синхронизации данных.",
+  "deviceAddTips1": "Если на десктопе обнаружено несколько IP, выберите вручную IP-адрес в той же локальной сети, что и мобильное устройство.",
+  "deviceAddTips2": "На Windows необходимо установить тип сети как частную, а не общедоступную, в системных настройках.",
+  "deviceAddTips3": "Убедитесь, что в Настройки → Конфиденциальность → Локальная сеть → Reqable включено.",
+
+  "deviceCollaborationMyQrcode": "QR-код для совместной работы",
+  "deviceCollaborationNoAddressTips": "Нет действительного IP-адреса",
+  "deviceCollaborationMobileTips": "При перенаправлении трафика с других устройств на текущее рекомендуется отключить режим VPN.",
+
+  "deviceConnecting": "Подключение...",
+  "deviceConnectFailedMessage": "Ошибка подключения, проверьте состояние сети устройства и попробуйте снова!",
+  "deviceSyncing": "Синхронизация...",
+  "deviceSyncFailedMessage": "Ошибка синхронизации, проверьте состояние сети устройства и попробуйте снова!",
+
+  "deviceManagement": "Управление устройствами",
+
+  "deviceInvalidQrcode": "Неверный QR-код!",
+  "deviceSyncConnecting": "Подключение...",
+  "deviceQrcodePrepareMessage": "Откройте QR-код в десктопном приложении Reqable и отсканируйте.",
+  "deviceCertificateWarningNotSame": "Сертификат устройства отличается от сертификата приложения. Рекомендуется синхронизировать!",
+  "deviceCertificateWarningNotInstall": "Сертификат не установлен — сетевые подключения не будут работать!",
+  "deviceCertificateWarningNotTrust": "Сертификат не установлен в системный каталог — возможны сбои подключений!",
+  "deviceInputAddress": "Введите сетевой адрес",
+  "deviceInputAddressTips": "Введите IP-адрес и номер порта устройства.",
+  "deviceInfo": "Устройство",
+  "deviceDeleteAlertMessage": "Удалить устройство? Для повторного добавления нужно снова отсканировать QR-код!",
+  "deviceSyncCertificate": "Синхронизировать сертификат",
+  "deviceSyncCertificateAlertMessage": "Подтвердите синхронизацию CA-сертификата этого устройства с мобильным? Это заменит существующий CA-сертификат этого приложения!",
+  "deviceSyncApiData": "Синхронизация API",
+  "deviceSyncApiDataAlertMessage": "Подтвердите синхронизацию коллекций API и сред этого устройства с мобильным? Это заменит все текущие данные!",
+  "deviceSyncDone": "Синхронизация завершена!",
+  "deviceSyncError": "Ошибка синхронизации!",
+
+  "deviceUpgrade325Tips": "Версия {platform} Reqable ниже 3.2.5 — некоторые функции недоступны. Обновитесь!",
+
+  "deviceCertificateStatus": "Статус сертификата",
+  "deviceCertificateNotMatch": "Сертификат отличается от сертификата приложения",
+  "deviceCertificateMatched": "Сертификат совпадает с сертификатом приложения",
+  "deviceCertificateStatusNotInstall": "Сертификат не установлен на устройстве",
+  "deviceCertificateStatusInstalled": "Сертификат установлен на устройстве",
+  "deviceCertificateStatusSystemInstalled": "Сертификат установлен в системе",
+  "deviceCertificateStatusUserInstalled": "Сертификат установлен как пользовательский",
+  "deviceCertificateStatusUnknown": "Состояние сертификата неизвестно"
+}

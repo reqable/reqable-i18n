@@ -1,0 +1,19 @@
+{
+  "versionApp": "应用版本",
+  "versionUpdateTitle": "版本更新",
+  "versionNewUpdates": "{count}个新版本",
+  "versionUpdateNow": "立即更新",
+  "versionReleaseDate": "发布日期：{date}",
+  "versionUpdateNoDescription": "暂无更新简介。",
+  "versionUpdateDownloading": "下载中...",
+  "versionUpdateInstallError": "无法启动安装程序，请手动安装！",
+
+  "versionNew": "新版本",
+
+  "versionUpdateTipStrategyNone": "永不提示",
+  "versionUpdateTipStrategyMajorVersion": "大版本",
+  "versionUpdateTipStrategyMinorVersion": "小版本",
+  "versionUpdateTipStrategyEveryVersion": "全部版本",
+  
+  "versionDownloadPkgError": "下载安装包失败，请重试"
+}

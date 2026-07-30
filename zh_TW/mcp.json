@@ -1,0 +1,11 @@
+{
+    "mcpServerSetup": "配置MCP伺服器",
+    "mcpServerSetupTo": "配置MCP到{app}",
+    "mcpServerSetupManual": "手動配置MCP",
+    "mcpServerActiveNone": "沒有執行中的MCP伺服器",
+    "mcpServerActiveList": "{count} 個MCP伺服器例項",
+    "mcpClientList": "MCP客戶端",
+    "mcpClientListEmpty": "沒有連線上的客戶端",
+    "mcpClientDisconnect": "斷開連線",
+    "mcpServerLaunchAt": "連線於：{timestamp}"
+}

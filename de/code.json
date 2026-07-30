@@ -1,0 +1,12 @@
+{
+  "codeSnippet": "Codeausschnitt",
+  "codeSnippetSettings": "Codeeinstellungen",
+  "codeSnippetLanguage": "Sprache",
+  "codeSnippetMoreLanguage": "Mehr Sprachunterstützung?",
+  "codeSnippetIndentCount": "Einrückungsanzahl",
+  "codeSnippetIndentCountDescription": "Legen Sie die Anzahl der Einrückungszeichen fest, die für jede Codeebene hinzugefügt werden sollen.",
+  "codeSnippetIndentType": "Einrückungstyp",
+  "codeSnippetIndentTypeDescription": "Legen Sie den Zeichentyp fest, der zum Einrücken von Codezeilen verwendet wird.",
+  "codeSnippetPythonRequestsUseParams": "Parameterwörterbuch verwenden",
+  "codeSnippetPythonRequestsUseParamsDescription": "Ob zur Übergabe von Anfrageparametern ein Parameterwörterbuch anstelle einer verketteten URL verwendet werden soll."
+}

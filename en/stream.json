@@ -1,0 +1,20 @@
+{
+  "websocketBinary": "Binary Payload %1",
+  "websocketStat": "Upstream %1 Downstream %2",
+  "websocketShowSend": "Show Upstream",
+  "websocketShowReply": "Show Downstream",
+  "websocketShowControlFrame": "Show Control Frame",
+
+  "sseStat": "Event %1",
+  "sseNotSupportPreview": "Preview is not supported",
+  "sseExtractorSetup": "Setup Extractor",
+  "sseExtractor": "SSE Extractors",
+  "sseExtractorEdit": "Edit Extractor",
+  "sseExtractorInvalid": "Invalid JSON Path",
+  "sseExtractorList": "Extractor List",
+  "sseExtractorHint": "JSON Path, e.g. $.delta.text",
+  "sseExtractorTips1": "Extractors are used to extract value from SSE events for preview.",
+  "sseExtractorTips2": "Hosts support wildcards, e.g. *.example.com, and rules use JSON Path syntax.",
+  "sseExtractorHostRequired": "Host is required",
+  "sseExtractorRuleRequired": "Rule is required"
+}

@@ -1,0 +1,20 @@
+{
+  "websocketBinary": "バイナリデータ %1",
+  "websocketStat": "送信 %1 受信 %2",
+  "websocketShowSend": "送信を表示",
+  "websocketShowReply": "受信を表示",
+  "websocketShowControlFrame": "制御フレームを表示",
+
+  "sseStat": "イベント %1",
+  "sseNotSupportPreview": "プレビューはサポートされていません",
+  "sseExtractorSetup": "エクストラクターを設定",
+  "sseExtractor": "SSEエクストラクター",
+  "sseExtractorEdit": "エクストラクターを編集",
+  "sseExtractorInvalid": "無効なJSON Path",
+  "sseExtractorList": "エクストラクターリスト",
+  "sseExtractorHint": "JSON Path, 例：$.delta.text",
+  "sseExtractorTips1": "エクストラクターはSSEイベントから重要なフィールドを抽出し、プレビューに表示するために使用します。",
+  "sseExtractorTips2": "ドメインはワイルドカードをサポートしています。例：*.example.com、ルールはJSON Path構文を使用します。",
+  "sseExtractorHostRequired": "Hostは必須項目です",
+  "sseExtractorRuleRequired": "ルールは必須項目です"
+}

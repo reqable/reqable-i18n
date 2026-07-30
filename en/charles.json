@@ -1,0 +1,9 @@
+{
+  "charlesAppHome": "Charles App Home",
+  "charlesAppHomeSetup": "Setup Charles app home",
+  "charlesAppHomeSetupFailed": "Failed to find charles command-line tool",
+  "charlesAppHomeSetupOk": "Charles app home path is valid",
+  "charlesFileConvertTips": "Reqable cannot parse the Charles file format and needs to use the Charles command line tool to convert it to har format.",
+  "charlesFileConvertFailed": "Failed to convert Charles Session to HAR!",
+  "charlesFileConverting": "Converting Charles Session file..."
+}

@@ -1,0 +1,22 @@
+{
+  "jsonInvalid": "Datos JSON no válidos",
+  "jsonKeywordSearch": "Filtro por palabra clave",
+  "jsonKeywordSearchHint": "Ingrese palabra clave para filtrar",
+  "jsonPathSearch": "Ruta JSON",
+  "jsonPathSearchHint": "Ingrese ruta JSON, ej. $.store.book[0].title",
+  "jsonPathCopy": "Copiar ruta",
+  "jsonPathCopy2": "Copiar ruta JSON",
+  "jsonPathCopy3": "Copiar ruta de diccionario (CS)",
+  "jsonPathCopy4": "Copiar ruta de diccionario (CD)",
+  "jsonPathNode": "Nodo",
+  "jsonPathParentNode": "Nodo padre",
+
+  "jsonCompressPerformanceWarningMessage": "La compresión JSON no es compatible con esta carga útil, lo que puede causar problemas de rendimiento.",
+
+  "jsonEscape": "Escapar",
+  "jsonUnescape": "Desescapar",
+
+  "jsonViewer": "Visor JSON",
+
+  "jsonConvertNotSupport": "Formato no compatible"
+}

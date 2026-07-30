@@ -1,0 +1,73 @@
+{
+  "deviceName": "기기 이름",
+  "deviceUnknown": "알 수 없는 기기",
+
+  "deviceStateOnline": "기기 연결됨",
+  "deviceStateOffline": "기기 오프라인",
+  "deviceStateConnecting": "기기 연결 중",
+  "deviceStateTapToConnect": "화면을 탭하여 다시 연결",
+
+  "deviceHost": "로컬 기기",
+  "deviceQrCode": "기기 QR코드",
+  "deviceSwitchIP": "IP 전환",
+  "deviceMultipleIP": "여러 IP 감지됨",
+
+  "deviceEditName": "이름 편집",
+  "deviceDiscover": "기기 검색",
+  "deviceRemoteControl": "협업 제어",
+  "deviceToken": "기기 토큰",
+  "deviceTokenTips": "동일한 토큰을 가진 기기만 서로 검색할 수 있습니다",
+
+  "deviceConnected": "연결된 기기",
+  "deviceSaved": "저장된 기기",
+  "deviceSavedEmpty": "저장된 기기가 없습니다",
+  "deviceAvailable": "사용 가능한 기기",
+  "deviceAvailableEmpty": "사용 가능한 기기가 없습니다",
+
+  "deviceAdd": "기기 추가",
+  "deviceAddStep1": "1. PC에서 `디버깅` 메뉴 -> `기기` -> `기기 QR코드`를 클릭하거나, `기기` 사이드바를 열고 QR코드 버튼을 클릭합니다.",
+  "deviceAddStep2": "2. 휴대폰에서 오른쪽 상단을 클릭하여 QR코드를 스캔하거나, PC 기기 네트워크 주소를 수동으로 입력합니다.",
+  "deviceAddStep3": "3. 기기 연결 및 데이터 동기화가 완료될 때까지 기다립니다.",
+  "deviceAddTips1": "PC에서 여러 IP가 감지되면 휴대폰과 동일한 LAN에 있는 IP 주소를 수동으로 선택하세요.",
+  "deviceAddTips2": "Windows PC에서는 시스템 설정에서 네트워크 유형을 공용 네트워크가 아닌 개인 네트워크로 설정해야 합니다.",
+  "deviceAddTips3": "PC 기기에 연결할 수 없는 경우 설정 -> 개인정보 -> 로컬 네트워크 -> Reqable이 활성화되어 있는지 확인하세요.",
+
+  "deviceCollaborationMyQrcode": "협업 QR코드",
+  "deviceCollaborationNoAddressTips": "유효한 IP 주소 없음",
+  "deviceCollaborationMobileTips": "다른 기기 트래픽을 현재 기기로 전달할 때 VPN 모드를 끄는 것이 좋습니다.",
+
+  "deviceConnecting": "연결 중...",
+  "deviceConnectFailedMessage": "연결 실패, 기기 네트워크 상태를 확인한 후 다시 시도하세요!",
+  "deviceSyncing": "동기화 중...",
+  "deviceSyncFailedMessage": "동기화 실패, 기기 네트워크 상태를 확인한 후 다시 시도하세요!",
+
+  "deviceManagement": "기기 관리",
+
+  "deviceInvalidQrcode": "유효한 QR코드를 감지하지 못했습니다!",
+  "deviceSyncConnecting": "연결 중...",
+  "deviceQrcodePrepareMessage": "곧 QR코드 스캔 페이지로 이동합니다. Reqable 데스크톱의 QR코드를 열어주세요.",
+  "deviceCertificateWarningNotSame": "이 기기는 현재 기기와 다른 루트 인증서를 사용하고 있습니다. 동기화하여 일치시키는 것이 좋습니다!",
+  "deviceCertificateWarningNotInstall": "이 기기의 루트 인증서가 설치되지 않아 네트워크 연결 실패의 원인이 될 수 있습니다!",
+  "deviceCertificateWarningNotTrust": "이 기기의 루트 인증서가 시스템 인증서 디렉토리에 설치되지 않아 일부 네트워크 연결 실패의 원인이 될 수 있습니다!",
+  "deviceInputAddress": "네트워크 주소 입력",
+  "deviceInputAddressTips": "기기의 IP 주소와 포트 번호를 입력하세요.",
+  "deviceInfo": "기기 정보",
+  "deviceDeleteAlertMessage": "이 기기를 삭제하시겠습니까? 삭제 후 다시 QR코드를 스캔하여 추가해야 합니다!",
+  "deviceSyncCertificate": "인증서 동기화",
+  "deviceSyncCertificateAlertMessage": "이 기기의 CA 인증서를 휴대폰에 동기화하시겠습니까? 현재 앱에서 사용 중인 CA 인증서가 교체됩니다!",
+  "deviceSyncApiData": "API 데이터 동기화",
+  "deviceSyncApiDataAlertMessage": "이 기기의 API 컬렉션 및 환경 변수 데이터를 휴대폰에 동기화하시겠습니까? 현재 데이터가 교체됩니다!",
+  "deviceSyncDone": "동기화 완료!",
+  "deviceSyncError": "동기화 실패!",
+
+  "deviceUpgrade325Tips": "현재 {platform} Reqable 버전이 3.2.5 미만이므로 일부 기능이 작동하지 않을 수 있습니다. 최신 버전으로 업그레이드하세요!",
+
+  "deviceCertificateStatus": "루트 인증서 상태",
+  "deviceCertificateNotMatch": "현재 앱 루트 인증서와 일치하지 않음",
+  "deviceCertificateMatched": "현재 앱 루트 인증서와 일치함",
+  "deviceCertificateStatusNotInstall": "이 루트 인증서가 휴대폰에 설치되지 않음",
+  "deviceCertificateStatusInstalled": "이 루트 인증서가 휴대폰에 설치됨",
+  "deviceCertificateStatusSystemInstalled": "이 루트 인증서가 시스템 디렉토리에 설치됨",
+  "deviceCertificateStatusUserInstalled": "이 루트 인증서가 사용자 디렉토리에 설치됨",
+  "deviceCertificateStatusUnknown": "이 루트 인증서 설치 상태를 알 수 없음"
+}

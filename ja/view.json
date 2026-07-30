@@ -1,0 +1,18 @@
+{
+  "viewModeTable": "テーブルモード",
+  "viewModeGallery": "ギャラリーモード",
+  "viewModeText": "テキストモード",
+  "viewModeList": "リストモード",
+  "viewModeChat": "チャットモード",
+
+  "viewCollapse": "折りたたむ",
+  "viewExpand": "展開",
+  "viewMaximize": "最大化",
+
+  "viewOrderReverse": "逆順",
+  "viewOrderPositive": "正順",
+
+  "viewClickAddValue": "クリックして値を追加",
+
+  "openInNewWindow": "新しいウィンドウで開く"
+}

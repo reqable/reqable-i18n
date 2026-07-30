@@ -1,0 +1,12 @@
+{
+  "codeSnippet": "生成代码",
+  "codeSnippetSettings": "代码设置",
+  "codeSnippetLanguage": "语言",
+  "codeSnippetMoreLanguage": "更多语言支持？",
+  "codeSnippetIndentCount": "缩进数量",
+  "codeSnippetIndentCountDescription": "设置每个代码级别要添加的缩进字符数。",
+  "codeSnippetIndentType": "缩进字符",
+  "codeSnippetIndentTypeDescription": "设置用于缩进代码行的字符类型。",
+  "codeSnippetPythonRequestsUseParams": "参数字典",
+  "codeSnippetPythonRequestsUseParamsDescription": "是否使用参数字典来传递请求参数，而不是使用拼接后的URL。"
+}

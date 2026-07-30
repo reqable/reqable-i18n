@@ -1,0 +1,70 @@
+{
+  "toolBase64Codec": "Base64编解码",
+  "toolBase64EncodeHint": "请输入明文文本",
+  "toolBase64DecodeHint": "请输入Base64文本",
+  "toolBase64LoopMode": "循环模式",
+  "toolBase64InvalidInput": "无效的Base64输入！",
+  "toolBase64InvalidFile": "无效的Base64文件！",
+
+  "toolUriCodec": "URI编解码",
+  "toolUriEncodeHint": "请输入待编码文本",
+  "toolUriDecodeHint": "请输入待解码文本",
+  "toolUriCodecType": "输入类型",
+  "toolUriCodecTypeFull": "URL",
+  "toolUriInvalidInput": "无效的输入格式！",
+
+  "toolJwtDecodeError": "无法解析输入内容",
+  "toolJwtCodec": "JWT解码",
+  "toolJwtDecodeHint": "请输入待解码文本",
+
+  "toolUnicodeCodec" : "Unicode编解码",
+  "toolUnicodeEncodeHint": "请输入待编码文本",
+  "toolUnicodeDecodeHint": "请输入待解码文本",
+
+  "toolQrcodeInputHint": "请输入文本",
+  "toolQrcodeErrorCorrect": "容错率",
+  "toolQrcodeGenerateError": "生成二维码失败！",
+
+  "toolTimestampFormat": "格式化",
+  "toolTimestampParse": "解析",
+  "toolTimestampUnitSecond": "秒",
+  "toolTimestampUnitMillisecond": "毫秒",
+  "toolTimestampFormatSecondInputHint": "输入秒时间戳",
+  "toolTimestampFormatMillisecondInputHint": "输入毫秒时间戳",
+  "toolTimestampParseSecondInputHint": "输入 yyyy-MM-dd HH:mm:ss",
+  "toolTimestampParseMillisecondInputHint": "输入 yyyy-MM-dd HH:mm:ss:SSS",
+  "toolTimestampNow": "当前时间：",
+  "toolTimestampInputEmpty": "输入内容为空！",
+  "toolTimestampFormatError": "输入格式不正确！",
+
+  "toolXmlViewer": "XML查看器",
+
+  "toolUuidWithoutHyphen": "无连字符",
+
+  "toolDiff": "对比",
+  "toolDiffLeft": "左侧",
+  "toolDiffRight": "右侧",
+  "toolDiffSortHeader": "排序头部",
+  "toolDiffLowercaseHeader": "头部小写",
+
+  "toolRegex": "正则表达式",
+  "toolRegexModeMatch": "匹配模式",
+  "toolRegexModeReplace": "替换模式",
+  "toolRegexExpression": "表达式",
+  "toolRegexExpressionCaseSensitive": "大小写敏感",
+  "toolRegexExpressionInputHint": "请输入表达式",
+  "toolRegexExpressionEmpty": "正则表达式不能为空！",
+  "toolRegexExpressionInvalid": "正则表达式语法错误！",
+  "toolRegexMatchContent": "匹配内容",
+  "toolRegexMatchContentInputHint": "请输入要匹配的文本",
+  "toolRegexMatchContentEmpty": "匹配内容不能为空！",
+  "toolRegexReplaceContent": "替换内容",
+  "toolRegexReplaceContentInputHint": "请输入替换内容",
+  "toolRegexReplaceContentEmpty": "替换内容不能为空！",
+  "toolRegexMatchResult": "匹配结果",
+  "toolRegexResultMatchNone": "无匹配结果",
+  "toolRegexResultMatchCount": "匹配数量 {count} 项",
+  "toolRegexResultMatchItem": "第 {index} 项：{value}",
+  "toolRegexReplaceResult": "替换结果"
+
+}

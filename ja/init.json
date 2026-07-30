@@ -1,0 +1,26 @@
+{
+  "slogan": "APIをより速く、より簡単に",
+
+  "eula": "使用許諾契約",
+  "eulaAccepted": "内容を読み、同意します",
+
+  "workModes": "動作モード",
+  "workModeStandalone": "スタンドアロンモード",
+  "workModeStandaloneDescription": "スマートフォンのみで単独使用。",
+  "workModeStandaloneDescriptionMore": "現在Reqableモバイル版のみを使用し、独立したCA証明書を作成します。後で必要に応じて他の連携デバイスを追加できます。",
+  "workModeCollaboration": "連携モード（推奨）",
+  "workModeCollaborationDescription": "Reqableデスクトップ版アプリと連携して動作します。",
+  "workModeCollaborationDescriptionMore": "コンピューターを連携デバイスとして追加し、CA証明書を共有して、Reqableデスクトップ版でモバイル端末のネットワークトラフィックを分析・操作します。",
+  "workModeCollaborationSetup": "モバイル連携設定",
+
+  "workModeCollaborationScanTitle": "モバイルアプリでスキャン",
+  "workModeCollaborationAutoCloseQrcode": "自動的に閉じる",
+  "workModeOnlyApi": "APIテスト",
+  "workModeOnlyApiDescription": "クラシックなREST APIリクエストテストシナリオ。",
+  "workModeOnlyTraffic": "APIキャプチャ",
+  "workModeOnlyTrafficDescription": "MITMプロキシを通じてトラフィックをキャプチャして分析します。",
+  "workModeAll": "上記すべて",
+  "workModeAllDescription": "上記のすべての機能が必要です。",
+  "workModeOptions": "モードオプション",
+  "workModeTips": "モードの選択はアプリの初期設定にのみ影響し、他の機能は引き続き通常どおり使用できます。"
+}

@@ -1,0 +1,21 @@
+{
+  "colorGreen": "Grün",
+  "colorForest": "Waldgrün",
+  "colorOlive": "Olive",
+  "colorTeal": "Blaugrün",
+  "colorBlue": "Blau",
+  "colorIndigo": "Indigo",
+  "colorYellow": "Gelb",
+  "colorOrange": "Orange",
+  "colorPurple": "Lila",
+  "colorPink": "Rosa",
+  "colorRed": "Rot",
+  "colorGraphite": "Graphit",
+  "colorGrey": "Grau",
+  "colorBrown": "Braun",
+  "colorChocolate": "Schokolade",
+  "colorCoral": "Koralle",
+  "colorCustom": "Benutzerdefiniert",
+  "colorViewer": "Farbbetrachter",
+  "colorPicker": "Farbwähler"
+}

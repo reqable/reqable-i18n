@@ -1,0 +1,22 @@
+{
+  "editorPerformancePasteLimit": "パフォーマンス上の理由により、長文の貼り付けはサポートされていません",
+
+  "editorPrettifyFailed": "整形に失敗しました：サポートされていない形式",
+  "editorPrettifyJsonFailed": "整形に失敗しました：不正なJSON形式",
+  "editorPrettifyXmlFailed": "整形に失敗しました：不正なXML形式",
+  "editorCompressJsonFailed": "圧縮に失敗しました：不正なJSON形式",
+
+  "editorThemeType": "テーマタイプ",
+
+  "editorFindNoResults": "結果なし",
+  "editorFindIndexResult": "%1/%2 件",
+  "editorFindTooltipMatchCase": "大文字小文字を区別",
+  "editorFindTooltipUseRegularExpression": "正規表現",
+  "editorFindTooltipReplace": "置換",
+  "editorFindTooltipReplaceAll": "すべて置換",
+
+  "editorTapToForceDisplayLargeText": "ダブルクリックで大きなテキストデータを読み込む",
+  "editorPayloadOversize": "データが大きすぎます。ダウンロードしてから表示してください",
+
+  "editorInvalidCharset": "文字エンコーディングエラー！"
+}

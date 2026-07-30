@@ -1,0 +1,68 @@
+{
+  "toolBase64Codec": "Codec Base64",
+  "toolBase64EncodeHint": "Saisissez le texte en clair ici",
+  "toolBase64DecodeHint": "Saisissez le texte base64 ici",
+  "toolBase64LoopMode": "Mode boucle",
+  "toolBase64InvalidInput": "Données base64 invalides !",
+  "toolBase64InvalidFile": "Fichier base64 invalide !",
+
+  "toolUriCodec": "Codec URI",
+  "toolUriEncodeHint": "Saisissez l'URI décodée ici",
+  "toolUriDecodeHint": "Saisissez l'URI encodée ici",
+  "toolUriCodecType": "Type d'entrée",
+  "toolUriInvalidInput": "Données URI invalides !",
+
+  "toolJwtCodec": "Décodeur JWT",
+  "toolJwtDecodeHint": "Saisissez le JWT encodé ici",
+  "toolJwtDecodeError": "Échec du décodage du contenu",
+
+  "toolUnicodeCodec" : "Codec Unicode",
+  "toolUnicodeEncodeHint": "Saisissez un texte ici",
+  "toolUnicodeDecodeHint": "Saisissez les unicodes ici",
+
+  "toolQrcodeInputHint": "Saisissez un texte",
+  "toolQrcodeErrorCorrect": "Correction d'erreur",
+  "toolQrcodeGenerateError": "Échec de la génération du QR code !",
+
+  "toolTimestampFormat": "Mode formatage",
+  "toolTimestampParse": "Mode analyse",
+  "toolTimestampUnitSecond": "Seconde",
+  "toolTimestampUnitMillisecond": "Milliseconde",
+  "toolTimestampFormatSecondInputHint": "Saisissez l'horodatage en secondes",
+  "toolTimestampFormatMillisecondInputHint": "Saisissez l'horodatage en millisecondes",
+  "toolTimestampParseSecondInputHint": "Saisissez aaaa-MM-jj HH:mm:ss",
+  "toolTimestampParseMillisecondInputHint": "Saisissez aaaa-MM-jj HH:mm:ss:SSS",
+  "toolTimestampNow": "Maintenant il est ",
+  "toolTimestampInputEmpty": "L'entrée est vide !",
+  "toolTimestampFormatError": "Format d'entrée invalide !",
+
+  "toolXmlViewer": "Visualiseur XML",
+
+  "toolUuidWithoutHyphen": "Sans tiret",
+
+  "toolDiff": "Diff",
+  "toolDiffLeft": "Gauche",
+  "toolDiffRight": "Droite",
+  "toolDiffSortHeader": "Trier les en-têtes",
+  "toolDiffLowercaseHeader": "En-têtes unifiés en minuscules",
+
+  "toolRegex": "Regex",
+  "toolRegexModeMatch": "Mode correspondance",
+  "toolRegexModeReplace": "Mode remplacement",
+  "toolRegexExpression": "Expression",
+  "toolRegexExpressionCaseSensitive": "Respecter la casse",
+  "toolRegexExpressionInputHint": "Saisissez une regex",
+  "toolRegexExpressionEmpty": "L'expression régulière ne peut pas être vide !",
+  "toolRegexExpressionInvalid": "Syntaxe d'expression régulière invalide !",
+  "toolRegexMatchContent": "Contenu de correspondance",
+  "toolRegexMatchContentInputHint": "Saisissez le texte",
+  "toolRegexMatchContentEmpty": "Le contenu de correspondance ne peut pas être vide !",
+  "toolRegexReplaceContent": "Contenu de remplacement",
+  "toolRegexReplaceContentInputHint": "Saisissez le remplacement",
+  "toolRegexReplaceContentEmpty": "Le contenu de remplacement ne peut pas être vide !",
+  "toolRegexMatchResult": "Résultat de correspondance",
+  "toolRegexResultMatchNone": "Aucun résultat de correspondance",
+  "toolRegexResultMatchCount": "Nombre de correspondances : {count}",
+  "toolRegexResultMatchItem": "Correspondance {index} : {value}",
+  "toolRegexReplaceResult": "Résultat de remplacement"
+}

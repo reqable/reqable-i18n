@@ -1,0 +1,6 @@
+{
+  "wildcardEnabled": "通配符已启用",
+  "wildcardDisabled": "通配符已禁用",
+  "regexEnabled": "正则已启用",
+  "regexDisabled": "正则已禁用"
+}

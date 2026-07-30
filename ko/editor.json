@@ -1,0 +1,22 @@
+{
+    "editorPerformancePasteLimit": "성능 문제로 긴 텍스트 붙여넣기를 지원하지 않습니다",
+
+    "editorPrettifyFailed": "포맷 정리 실패: 지원되지 않는 형식",
+    "editorPrettifyJsonFailed": "포맷 정리 실패: 잘못된 JSON 형식",
+    "editorPrettifyXmlFailed": "포맷 정리 실패: 잘못된 XML 형식",
+    "editorCompressJsonFailed": "압축 실패: 잘못된 JSON 형식",
+
+    "editorThemeType": "테마 유형",
+
+    "editorFindNoResults": "결과 없음",
+    "editorFindIndexResult": "%1/%2번째",
+    "editorFindTooltipMatchCase": "대소문자 구분",
+    "editorFindTooltipUseRegularExpression": "정규식",
+    "editorFindTooltipReplace": "바꾸기",
+    "editorFindTooltipReplaceAll": "모두 바꾸기",
+
+    "editorTapToForceDisplayLargeText": "더블클릭하여 대용량 텍스트 데이터 로드",
+    "editorPayloadOversize": "데이터가 너무 큽니다. 다운로드 후 확인하세요",
+
+    "editorInvalidCharset": "문자 인코딩 오류!"
+}

@@ -1,0 +1,18 @@
+{
+  "scriptCodeTemplate": "Шаблон скрипта",
+  "scriptCodeTemplateDefault": "Стандартный шаблон",
+  "scriptCodeTemplateMinimal": "Минимальный шаблон",
+  "scriptCodeTemplateRepo": "Репозиторий шаблонов",
+  "scriptCodeTemplateMime": "Мои шаблоны",
+  "scriptCodeTemplateSaveAs": "Сохранить как шаблон",
+  "scriptCodeTemplateSaved": "Шаблон сохранен",
+  "scriptCodeTemplateReplaceWarningMessage": "Шаблон %1 уже существует, вы уверены, что хотите перезаписать его?",
+  "scriptCodeTemplateDeleteWarningMessage": "Удалить шаблон %1?",
+  "scriptCodeTemplateUpdateDate": "Обновлено %1",
+  "scriptCodeTemplateFork": "Копировать шаблон",
+  "scriptCodeReset": "Сбросить код",
+  "scriptCodeSelectionIndicator1": "Стр %1, стлб %2",
+  "scriptCodeSelectionIndicator2": "Стр %1, стлб %2 (выбрано %3)",
+  "scriptCodeExport": "Экспорт скрипта",
+  "scriptCodeImport": "Импорт скрипта"
+}

@@ -1,0 +1,6 @@
+{
+  "rengineErrorNetwork": "网络错误",
+  "rengineErrorCertificate": "证书错误",
+  "rengineErrorClient": "客户端错误",
+  "rengineErrorServer": "服务器错误"
+}

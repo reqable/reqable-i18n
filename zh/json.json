@@ -1,0 +1,22 @@
+{
+  "jsonInvalid": "无效的JSON格式",
+  "jsonKeywordSearch": "关键字搜索",
+  "jsonKeywordSearchHint": "请输入关键字",
+  "jsonPathSearch": "路径搜索",
+  "jsonPathSearchHint": "请输入路径, 例如：$.store.book[0].title",
+  "jsonPathCopy": "复制路径",
+  "jsonPathCopy2": "复制JSON路径",
+  "jsonPathCopy3": "复制字典路径（单引号）",
+  "jsonPathCopy4": "复制字典路径（双引号）",
+  "jsonPathNode": "节点",
+  "jsonPathParentNode": "父节点",
+
+  "jsonCompressPerformanceWarningMessage": "暂不支持此JSON压缩，可能会导致严重性能问题。",
+
+  "jsonEscape": "JSON转义",
+  "jsonUnescape": "JSON反转义",
+
+  "jsonViewer": "JSON查看器",
+
+  "jsonConvertNotSupport": "不支持的格式"
+}

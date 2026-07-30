@@ -1,0 +1,19 @@
+{
+  "websocketBinary": "Бинарное содержимое %1",
+  "websocketStat": "Отправлено %1 Получено %2",
+  "websocketShowSend": "Показать отправленные",
+  "websocketShowReply": "Показать полученные",
+  "websocketShowControlFrame": "Показать управляющие кадры",
+  "sseStat": "Событие %1",
+  "sseNotSupportPreview": "Предпросмотр не поддерживается",
+  "sseExtractorSetup": "Экстрактор",
+  "sseExtractor": "Экстракторы SSE",
+  "sseExtractorEdit": "Экстрактор",
+  "sseExtractorInvalid": "Неверный JSON Path",
+  "sseExtractorList": "Список экстракторов",
+  "sseExtractorHint": "JSON Path, например $.delta.text",
+  "sseExtractorTips1": "Экстракторы используются для извлечения значений из событий SSE для предпросмотра.",
+  "sseExtractorTips2": "Хосты поддерживают шаблоны, например *.example.com, а правила используют синтаксис JSON Path.",
+  "sseExtractorHostRequired": "Хост обязателен",
+  "sseExtractorRuleRequired": "Правило обязательно"
+}

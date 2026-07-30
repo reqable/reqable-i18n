@@ -1,0 +1,9 @@
+{
+  "charlesAppHome": "Accueil Charles",
+  "charlesAppHomeSetup": "Configurer chemin Charles",
+  "charlesAppHomeSetupFailed": "Outil CLI Charles introuvable",
+  "charlesAppHomeSetupOk": "Chemin Charles valide",
+  "charlesFileConvertTips": "Reqable ne prend pas en charge le format Charles. Utilisez l'outil CLI Charles pour convertir en HAR.",
+  "charlesFileConvertFailed": "Échec de conversion Charles → HAR !",
+  "charlesFileConverting": "Conversion du fichier Charles..."
+}

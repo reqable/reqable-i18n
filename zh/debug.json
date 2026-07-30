@@ -1,0 +1,11 @@
+{
+  "debugLogger": "日志",
+  "debugLoggerLevelDebug": "调试",
+  "debugLoggerLevelInfo": "信息",
+  "debugLoggerLevelWarning": "警告",
+  "debugLoggerLevelError": "错误",
+  "debugLoggerFileNotFound": "日志文件已被删除！",
+  "debugLoggerFileTooLarge": "文件过大，无法打开！",
+  "debugLoggerOpenFolder": "打开目录",
+  "debugLoggerExport": "导出文件"
+}

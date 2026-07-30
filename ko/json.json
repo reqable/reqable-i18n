@@ -1,0 +1,22 @@
+{
+  "jsonInvalid": "유효하지 않은 JSON 형식",
+  "jsonKeywordSearch": "키워드 검색",
+  "jsonKeywordSearchHint": "키워드를 입력하세요",
+  "jsonPathSearch": "경로 검색",
+  "jsonPathSearchHint": "경로를 입력하세요. 예: $.store.book[0].title",
+  "jsonPathCopy": "경로 복사",
+  "jsonPathCopy2": "JSON 경로 복사",
+  "jsonPathCopy3": "딕셔너리 경로 복사 (작은따옴표)",
+  "jsonPathCopy4": "딕셔너리 경로 복사 (큰따옴표)",
+  "jsonPathNode": "노드",
+  "jsonPathParentNode": "부모 노드",
+
+  "jsonCompressPerformanceWarningMessage": "이 JSON 압축은 현재 지원되지 않으며 심각한 성능 문제가 발생할 수 있습니다.",
+
+  "jsonEscape": "JSON 이스케이프",
+  "jsonUnescape": "JSON 이스케이프 해제",
+
+  "jsonViewer": "JSON 뷰어",
+
+  "jsonConvertNotSupport": "지원되지 않는 형식"
+}

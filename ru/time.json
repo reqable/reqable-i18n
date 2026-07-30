@@ -1,0 +1,11 @@
+{
+  "timedateFormatFuture": "Будущее",
+  "timedateFormatJustNow": "Только что",
+  "timedateFormatMinutesAgo": "%1 минут назад",
+  "timedateFormatHoursAgo": "%1 часов назад",
+  "timedateFormatDaysAgo": "%1 дней назад",
+  "timedateFormatYearsAgo": "%1 лет назад",
+  "timedateFormatToday": "Сегодня",
+  "timedateFormatYesterday": "Вчера",
+  "timedateFormat": "Форматировать метку времени"
+}

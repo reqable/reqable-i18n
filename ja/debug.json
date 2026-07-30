@@ -1,0 +1,11 @@
+{
+  "debugLogger": "ログ",
+  "debugLoggerLevelDebug": "デバッグ",
+  "debugLoggerLevelInfo": "情報",
+  "debugLoggerLevelWarning": "警告",
+  "debugLoggerLevelError": "エラー",
+  "debugLoggerFileNotFound": "ログファイルが削除されました！",
+  "debugLoggerFileTooLarge": "ファイルが大きすぎて開けません！",
+  "debugLoggerOpenFolder": "ディレクトリを開く",
+  "debugLoggerExport": "ファイルをエクスポート"
+}

@@ -1,0 +1,22 @@
+{
+  "colorGreen": "绿色",
+  "colorForest": "森绿色",
+  "colorOlive": "橄榄色",
+  "colorTeal": "青色",
+  "colorBlue": "蓝色",
+  "colorIndigo": "靛青",
+  "colorYellow": "黄色",
+  "colorOrange": "橙色",
+  "colorPurple": "紫色",
+  "colorPink": "粉红",
+  "colorRed": "红色",
+  "colorGraphite": "石墨灰",
+  "colorGrey": "灰色",
+  "colorBrown": "棕色",
+  "colorChocolate": "巧克力色",
+  "colorCoral": "珊瑚色",
+  "colorCustom": "自定义",
+
+  "colorViewer": "色彩查看器",
+  "colorPicker": "选色器"
+}

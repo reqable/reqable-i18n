@@ -1,0 +1,19 @@
+{
+  "versionApp": "アプリバージョン",
+  "versionUpdateTitle": "バージョン更新",
+  "versionNewUpdates": "{count}件の新バージョン",
+  "versionUpdateNow": "今すぐ更新",
+  "versionReleaseDate": "リリース日：{date}",
+  "versionUpdateNoDescription": "更新の説明はありません。",
+  "versionUpdateDownloading": "ダウンロード中...",
+  "versionUpdateInstallError": "インストーラーを起動できません。手動でインストールしてください！",
+
+  "versionNew": "新バージョン",
+
+  "versionUpdateTipStrategyNone": "通知しない",
+  "versionUpdateTipStrategyMajorVersion": "メジャーバージョン",
+  "versionUpdateTipStrategyMinorVersion": "マイナーバージョン",
+  "versionUpdateTipStrategyEveryVersion": "すべてのバージョン",
+  
+  "versionDownloadPkgError": "インストールパッケージのダウンロードに失敗しました。再試行してください"
+}

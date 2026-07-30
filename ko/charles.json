@@ -1,0 +1,9 @@
+{
+  "charlesAppHome": "Charles 앱 경로",
+  "charlesAppHomeSetup": "앱 경로 설정",
+  "charlesAppHomeSetupFailed": "Charles 명령줄 도구를 찾을 수 없습니다",
+  "charlesAppHomeSetupOk": "Charles 명령줄 도구를 찾았습니다",
+  "charlesFileConvertTips": "Reqable은 Charles 고유 파일 형식을 처리할 수 없습니다. Charles 명령줄 도구를 사용하여 har 형식으로 변환해야 합니다.",
+  "charlesFileConvertFailed": "Charles Session 파일 변환 실패!",
+  "charlesFileConverting": "Charles Session 파일 변환 중..."
+}

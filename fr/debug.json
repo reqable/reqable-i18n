@@ -1,0 +1,11 @@
+{
+  "debugLogger": "Journal",
+  "debugLoggerLevelDebug": "Débogage",
+  "debugLoggerLevelInfo": "Info",
+  "debugLoggerLevelWarning": "Avertissement",
+  "debugLoggerLevelError": "Erreur",
+  "debugLoggerFileNotFound": "Fichier journal introuvable !",
+  "debugLoggerFileTooLarge": "Fichier trop volumineux, chargement non pris en charge !",
+  "debugLoggerOpenFolder": "Ouvrir le dossier",
+  "debugLoggerExport": "Exporter le fichier"
+}

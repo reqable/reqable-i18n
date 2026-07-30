@@ -1,0 +1,25 @@
+{
+  "tabClose": "Fermer",
+  "tabCloseForce": "Forcer la fermeture",
+  "tabCloseOthers": "Fermer les autres",
+  "tabCloseOthersForce": "Forcer la fermeture des autres",
+  "tabCloseRight": "Fermer à droite",
+  "tabCloseRightForce": "Forcer la fermeture à droite",
+  "tabCloseAll": "Tout fermer",
+  "tabCloseAllForce": "Forcer la fermeture de tout",
+
+  "workshopCreateHttp": "Nouveau HTTP",
+  "workshopCreateWebSocket": "Nouveau WebSocket",
+  "workshopImportFromCurl": "Importer depuis cURL",
+  "workshopImportFromClipboard": "Importer presse-papiers",
+  "workshopImportFromRaw": "Importer depuis le brut",
+
+  "workshopOpenFileFailed": "Échec de l'ouverture du fichier : ",
+  "workshopWorkTypeLive": "Trafic",
+  "workshopCloseOtherTabs": "Fermer les autres",
+  "workshopForceCloseOtherTabs": "Forcer la fermeture des autres",
+  "workshopCloseAllTabs": "Tout fermer",
+  "workshopForceCloseAllTabs": "Forcer la fermeture de tout",
+  "workshopCopyPath": "Copier le chemin",
+  "workshopTooManyWorks": "Trop d'onglets, au maximum %1 onglets à la fois !"
+}

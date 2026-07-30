@@ -1,0 +1,68 @@
+{
+  "toolBase64Codec": "Base64 Codec",
+  "toolBase64EncodeHint": "Input plaintext here",
+  "toolBase64DecodeHint": "Input base64 text here",
+  "toolBase64LoopMode": "Loop Mode",
+  "toolBase64InvalidInput": "Invalid base64 input data!",
+  "toolBase64InvalidFile": "Invalid base64 file!",
+
+  "toolUriCodec": "URI Codec",
+  "toolUriEncodeHint": "Input decoded uri here",
+  "toolUriDecodeHint": "Input encoded uri here",
+  "toolUriCodecType": "Input Type",
+  "toolUriInvalidInput": "Invalid URI input data!",
+
+  "toolJwtCodec": "JWT Decoder",
+  "toolJwtDecodeHint": "Input encoded jwt here",
+  "toolJwtDecodeError": "Failed to decode input content",
+
+  "toolUnicodeCodec" : "Unicode Codec",
+  "toolUnicodeEncodeHint": "Input a text here",
+  "toolUnicodeDecodeHint": "Input unicodes here",
+
+  "toolQrcodeInputHint": "Input a text",
+  "toolQrcodeErrorCorrect": "Error Correct",
+  "toolQrcodeGenerateError": "Failed to generate qrcode!",
+
+  "toolTimestampFormat": "Format Mode",
+  "toolTimestampParse": "Parse Mode",
+  "toolTimestampUnitSecond": "Second",
+  "toolTimestampUnitMillisecond": "Millisecond",
+  "toolTimestampFormatSecondInputHint": "Enter second timestamp",
+  "toolTimestampFormatMillisecondInputHint": "Input millisecond timestamp",
+  "toolTimestampParseSecondInputHint": "Enter yyyy-MM-dd HH:mm:ss",
+  "toolTimestampParseMillisecondInputHint": "Enter yyyy-MM-dd HH:mm:ss:SSS",
+  "toolTimestampNow": "Now is ",
+  "toolTimestampInputEmpty": "Input is empty!",
+  "toolTimestampFormatError": "Invalid input format!",
+
+  "toolXmlViewer": "XML Viewer",
+
+  "toolUuidWithoutHyphen": "Without Hyphen",
+
+  "toolDiff": "Diff",
+  "toolDiffLeft": "Left",
+  "toolDiffRight": "Right",
+  "toolDiffSortHeader": "Sort Headers",
+  "toolDiffLowercaseHeader": "Unified headers lowercase",
+
+  "toolRegex": "Regex",
+  "toolRegexModeMatch": "Match Mode",
+  "toolRegexModeReplace": "Replace Mode",
+  "toolRegexExpression": "Expression",
+  "toolRegexExpressionCaseSensitive": "Match Case",
+  "toolRegexExpressionInputHint": "Please input a regular expression",
+  "toolRegexExpressionEmpty": "Regular expression cannot be empty!",
+  "toolRegexExpressionInvalid": "Invalid regular expression syntax!",
+  "toolRegexMatchContent": "Match Content",
+  "toolRegexMatchContentInputHint": "Please input text to match",
+  "toolRegexMatchContentEmpty": "Match content cannot be empty!",
+  "toolRegexReplaceContent": "Replace Content",
+  "toolRegexReplaceContentInputHint": "Please input text to replace",
+  "toolRegexReplaceContentEmpty": "Replace content cannot be empty!",
+  "toolRegexMatchResult": "Match Result",
+  "toolRegexResultMatchNone": "No match result",
+  "toolRegexResultMatchCount": "Match count: {count}",
+  "toolRegexResultMatchItem": "Match {index} : {value}",
+  "toolRegexReplaceResult": "Replace Result"
+}

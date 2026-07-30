@@ -1,0 +1,16 @@
+{
+  "shareApp": "Compartir aplicación",
+  "shareAppMessage": "Reqable es un proxy de depuración de API avanzado e instrumento de desarrollo. ¡Instálelo y pruébelo! %1",
+  
+  "introduceDesktopBanner": "Aplicación de escritorio",
+  "introduceDesktopTitle": "Presentar aplicación de escritorio",
+  
+  "reviewApp": "Calificar aplicación",
+  "reviewRequestMessage": "Gracias por usar Reqable. Si nuestra aplicación le es útil, ¿podría darnos una calificación?",
+  "reviewReject": "Ahora no",
+  "reviewApprove": "Califícanos",
+
+  "drawerTabs": "Pestañas",
+  "drawerTools": "Herramientas",
+  "drawerOthers": "Otros"
+}

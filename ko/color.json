@@ -1,0 +1,22 @@
+{
+  "colorGreen": "녹색",
+  "colorForest": "포레스트 그린",
+  "colorOlive": "올리브",
+  "colorTeal": "청록색",
+  "colorBlue": "파란색",
+  "colorIndigo": "인디고",
+  "colorYellow": "노란색",
+  "colorOrange": "주황색",
+  "colorPurple": "보라색",
+  "colorPink": "분홍색",
+  "colorRed": "빨간색",
+  "colorGraphite": "그라파이트 그레이",
+  "colorGrey": "회색",
+  "colorBrown": "갈색",
+  "colorChocolate": "초콜릿색",
+  "colorCoral": "코랄색",
+  "colorCustom": "사용자 정의",
+
+  "colorViewer": "색상 뷰어",
+  "colorPicker": "색상 선택기"
+}

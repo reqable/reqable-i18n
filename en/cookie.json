@@ -1,0 +1,15 @@
+{
+  "cookieJar": "Cookie Jar",
+  "cookieEdit": "Edit Cookie",
+  "cookieAdd": "Add Cookie",
+  "cookieName": "Name",
+  "cookieValue": "Value",
+  "cookieDomain": "Domain",
+  "cookiePath": "Path",
+  "cookieExpires": "Expires",
+  "cookieSecure": "Secure",
+  "cookieHttpOnly": "HttpOnly",
+  "cookieDeleteAlertMessage": "Are you sure you want to permanently delete %1 ?",
+  "cookieNone": "There is no cookie.",
+  "cookieTextEditingHint": "Cookies are separated by newline\nNames and values are separated by :"
+}

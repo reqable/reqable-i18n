@@ -1,0 +1,6 @@
+{
+  "wildcardEnabled": "와일드카드 활성화됨",
+  "wildcardDisabled": "와일드카드 비활성화됨",
+  "regexEnabled": "정규식 활성화됨",
+  "regexDisabled": "정규식 비활성화됨"
+}

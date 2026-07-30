@@ -1,0 +1,15 @@
+{
+  "cookieJar": "Boîte à cookies",
+  "cookieEdit": "Modifier le cookie",
+  "cookieAdd": "Ajouter cookie",
+  "cookieName": "Nom",
+  "cookieValue": "Valeur",
+  "cookieDomain": "Domaine",
+  "cookiePath": "Chemin",
+  "cookieExpires": "Expire le",
+  "cookieSecure": "Sécurisé",
+  "cookieHttpOnly": "HttpOnly",
+  "cookieDeleteAlertMessage": "Supprimer définitivement %1 ?",
+  "cookieNone": "Il n'y a pas de cookie.",
+  "cookieTextEditingHint": "Les cookies sont séparés par des sauts de ligne\nLes noms et les valeurs sont séparés par :"
+}

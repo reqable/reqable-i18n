@@ -1,0 +1,12 @@
+{
+  "codeSnippet": "コード生成",
+  "codeSnippetSettings": "コード設定",
+  "codeSnippetLanguage": "言語",
+  "codeSnippetMoreLanguage": "さらに言語をサポート？",
+  "codeSnippetIndentCount": "インデント数",
+  "codeSnippetIndentCountDescription": "各コードレベルに追加するインデント文字数を設定します。",
+  "codeSnippetIndentType": "インデント文字",
+  "codeSnippetIndentTypeDescription": "コード行のインデントに使用する文字タイプを設定します。",
+  "codeSnippetPythonRequestsUseParams": "パラメータ辞書",
+  "codeSnippetPythonRequestsUseParamsDescription": "連結されたURLではなく、パラメータ辞書を使用してリクエストパラメータを渡すかどうか。"
+}

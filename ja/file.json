@@ -1,0 +1,43 @@
+{
+  "fileSelectorDragFile": "ファイルをここにドラッグ",
+  "fileSelectorFileNotExists": "このファイルは存在しません",
+  "fileSelectorTooltipChooseFile": "ファイルを選択",
+  "fileSaveDone": "ファイルが保存されました",
+  "fileSaveDoneAndroidTips1": "Download/Reqableディレクトリに保存されました！",
+  "fileSaveDoneAndroidTips2": "Reqableサンドボックスディレクトリに保存されました！",
+  "fileSaveFailed": "ファイルの保存に失敗しました：",
+  "fileSaveOpenAndroidFailed": "Download内のReqableディレクトリを手動で削除してから再試行してください！",
+  "fileSaveOpenLocationFailed": "保存ディレクトリを開けませんでした！",
+  "fileSaveLocaltionSuggestNameDefault": "名称未設定フォルダ",
+  
+  "fileFormatUnknown": "認識できないファイルタイプ：{type}",
+  "fileTypeNotSupport": "サポートされていないファイルタイプです！",
+  "fileNotFound": "ファイルが見つかりません：{path}",
+  "fileNone": "ファイルを選択してください",
+
+  "fileDownloading": "ダウンロード中：",
+  "fileDownloadFailed": "ダウンロードに失敗しました：",
+  
+  "fileExportSuccess": "エクスポート成功",
+  "fileExportFailure": "エクスポート失敗",
+  "fileExportPdf": "PDFをエクスポート",
+  "fileExportPdfError": "PDFのエクスポートに失敗しました",
+
+  "fileImportSuccess": "インポート成功！",
+  "fileImportFailure": "インポート失敗：%1",
+  "fileImportProcessing": "インポート中です。しばらくお待ちください...",
+  "fileImportNone": "有効なデータが見つかりません！",
+
+  "fileOpen": "ファイルを開く",
+  "fileOpenFailure": "ファイルを開けませんでした：%1",
+
+  "openWithBrowser": "ブラウザで開く",
+  "openWithAppVscode": "VS Codeで開く",
+  "openWithAppVscodeUnavailable": "先にVisual Studio Codeコマンドラインツールをインストールしてください",
+
+  "folderNew": "新しいフォルダ",
+  "folderRename": "フォルダ名を変更",
+  "folderDeleteAlertMessage": "フォルダ %1 を完全に削除してもよろしいですか？",
+  "folderClearAlertMessage": "フォルダ %1 の内容をすべて完全に消去してもよろしいですか？",
+  "folderRoot": "ルートディレクトリ"
+}

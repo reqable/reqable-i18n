@@ -1,0 +1,17 @@
+{
+  "editorPerformancePasteLimit": "Für eine bessere Leistung wurde das Einfügen von Langtexten deaktiviert.",
+  "editorPrettifyFailed": "Kann nicht verschönert werden: unbekanntes Format",
+  "editorPrettifyJsonFailed": "Ungültiges JSON-Format kann nicht formatiert werden",
+  "editorPrettifyXmlFailed": "Ungültiges XML-Format kann nicht formatiert werden",
+  "editorCompressJsonFailed": "Ungültiges JSON-Format kann nicht komprimiert werden",
+  "editorThemeType": "Theme",
+  "editorFindNoResults": "Keine Ergebnisse",
+  "editorFindIndexResult": "%1 von %2",
+  "editorFindTooltipMatchCase": "Match Case",
+  "editorFindTooltipUseRegularExpression": "Regulären Ausdruck verwenden",
+  "editorFindTooltipReplace": "Ersetzen",
+  "editorFindTooltipReplaceAll": "Alle ersetzen",
+  "editorTapToForceDisplayLargeText": "Doppelklicken, um große Daten zu laden",
+  "editorPayloadOversize": "Payload ist zu groß, bitte herunterladen",
+  "editorInvalidCharset": "Ungültiger Zeichensatz!"
+}

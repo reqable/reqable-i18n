@@ -1,0 +1,16 @@
+{
+  "versionApp": "Версия приложения",
+  "versionUpdateTitle": "Новая версия",
+  "versionReleaseDate": "Дата выпуска: {date}",
+  "versionNewUpdates": "{count} новых обновлений",
+  "versionUpdateNow": "Обновить сейчас",
+  "versionUpdateNoDescription": "Нет списка изменений.",
+  "versionUpdateDownloading": "Скачивание обновления...",
+  "versionUpdateInstallError": "Не удалось запустить установщик, пожалуйста, установите вручную!",
+  "versionNew": "Новая версия",
+  "versionUpdateTipStrategyNone": "Никогда",
+  "versionUpdateTipStrategyMajorVersion": "Мажорные обновления",
+  "versionUpdateTipStrategyMinorVersion": "Минорные обновления",
+  "versionUpdateTipStrategyEveryVersion": "Каждое обновление",
+  "versionDownloadPkgError": "Не удалось загрузить установочный пакет, попробуйте снова"
+}

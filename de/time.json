@@ -1,0 +1,11 @@
+{
+  "timedateFormatFuture": "Zukunft",
+  "timedateFormatJustNow": "Gerade eben",
+  "timedateFormatMinutesAgo": "vor %1 Minuten",
+  "timedateFormatHoursAgo": "vor %1 Stunden",
+  "timedateFormatDaysAgo": "vor %1 Tagen",
+  "timedateFormatYearsAgo": "vor %1 Jahren",
+  "timedateFormatToday": "Heute",
+  "timedateFormatYesterday": "Gestern",
+  "timedateFormat": "Zeitstempel formatieren"
+}

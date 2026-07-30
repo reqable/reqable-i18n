@@ -1,0 +1,73 @@
+{
+  "deviceName": "デバイス名",
+  "deviceUnknown": "不明なデバイス",
+
+  "deviceStateOnline": "デバイス接続済み",
+  "deviceStateOffline": "デバイスオフライン",
+  "deviceStateConnecting": "デバイス接続中",
+  "deviceStateTapToConnect": "画面をタップして再接続",
+
+  "deviceHost": "ローカルデバイス",
+  "deviceQrCode": "デバイスQRコード",
+  "deviceSwitchIP": "IPを切り替え",
+  "deviceMultipleIP": "複数のIPを検出",
+
+  "deviceEditName": "名前を編集",
+  "deviceDiscover": "デバイス検出",
+  "deviceRemoteControl": "連携制御",
+  "deviceToken": "デバイストークン",
+  "deviceTokenTips": "同じトークンを持つデバイスのみ相互に検出できます",
+
+  "deviceConnected": "接続済みデバイス",
+  "deviceSaved": "保存済みデバイス",
+  "deviceSavedEmpty": "保存済みデバイスはありません",
+  "deviceAvailable": "利用可能なデバイス",
+  "deviceAvailableEmpty": "利用可能なデバイスはありません",
+
+  "deviceAdd": "デバイスを追加",
+  "deviceAddStep1": "1. PCで`デバッグ`メニュー -> `デバイス` -> `デバイスQRコード`をクリックするか、`デバイス`サイドバーを開きQRコードボタンをクリックします。",
+  "deviceAddStep2": "2. スマートフォンで右上のQRコードスキャンをタップするか、PCデバイスのネットワークアドレスを手動入力します。",
+  "deviceAddStep3": "3. デバイスの接続とデータ同期が完了するのを待ちます。",
+  "deviceAddTips1": "PCで複数のIPが検出された場合、スマートフォンと同じLAN内のIPアドレスを手動で選択してください。",
+  "deviceAddTips2": "Windows PCでは、システム設定でネットワークタイプをパブリックネットワークではなくプライベートネットワークに設定する必要があります。",
+  "deviceAddTips3": "PCデバイスに接続できない場合は、設定 -> プライバシー -> ローカルネットワーク -> Reqable が有効になっているか確認してください。",
+
+  "deviceCollaborationMyQrcode": "連携QRコード",
+  "deviceCollaborationNoAddressTips": "有効なIPアドレスがありません",
+  "deviceCollaborationMobileTips": "他のデバイスのトラフィックを現在のデバイスに転送する場合、VPNモードをオフにすることを推奨します。",
+
+  "deviceConnecting": "接続中...",
+  "deviceConnectFailedMessage": "接続に失敗しました。デバイスのネットワーク状態を確認してから再試行してください！",
+  "deviceSyncing": "同期中...",
+  "deviceSyncFailedMessage": "同期に失敗しました。デバイスのネットワーク状態を確認してから再試行してください！",
+
+  "deviceManagement": "デバイス管理",
+
+  "deviceInvalidQrcode": "有効なQRコードが検出されませんでした！",
+  "deviceSyncConnecting": "接続中...",
+  "deviceQrcodePrepareMessage": "QRコードスキャン画面に移動します。Reqableデスクトップ版のQRコードを開いてください。",
+  "deviceCertificateWarningNotSame": "このデバイスは現在のデバイスと異なるルート証明書を使用しています。同期して一致させることを推奨します！",
+  "deviceCertificateWarningNotInstall": "このデバイスのルート証明書がインストールされていません。ネットワーク接続エラーの原因となります！",
+  "deviceCertificateWarningNotTrust": "このデバイスのルート証明書がシステム証明書ディレクトリにインストールされていません。一部のネットワーク接続エラーの原因となる可能性があります！",
+  "deviceInputAddress": "ネットワークアドレスを入力",
+  "deviceInputAddressTips": "デバイスのIPアドレスとポート番号を入力してください。",
+  "deviceInfo": "デバイス情報",
+  "deviceDeleteAlertMessage": "このデバイスを削除してもよろしいですか？削除後は再度QRコードをスキャンして追加する必要があります！",
+  "deviceSyncCertificate": "証明書を同期",
+  "deviceSyncCertificateAlertMessage": "このデバイスのCA証明書をスマートフォンに同期してもよろしいですか？これにより現在のアプリで使用しているCA証明書が置き換えられます！",
+  "deviceSyncApiData": "APIデータを同期",
+  "deviceSyncApiDataAlertMessage": "このデバイスのAPIコレクションと環境変数などのデータをスマートフォンに同期してもよろしいですか？これにより現在のデータが置き換えられます！",
+  "deviceSyncDone": "同期完了！",
+  "deviceSyncError": "同期失敗！",
+
+  "deviceUpgrade325Tips": "現在の {platform} Reqableバージョンが3.2.5未満です。一部の機能が利用できない可能性があります。最新バージョンにアップグレードしてください！",
+
+  "deviceCertificateStatus": "ルート証明書の状態",
+  "deviceCertificateNotMatch": "現在のアプリのルート証明書と一致しません",
+  "deviceCertificateMatched": "現在のアプリのルート証明書と一致します",
+  "deviceCertificateStatusNotInstall": "このルート証明書はスマートフォンにインストールされていません",
+  "deviceCertificateStatusInstalled": "このルート証明書はスマートフォンにインストールされています",
+  "deviceCertificateStatusSystemInstalled": "このルート証明書はシステムディレクトリにインストールされています",
+  "deviceCertificateStatusUserInstalled": "このルート証明書はユーザーディレクトリにインストールされています",
+  "deviceCertificateStatusUnknown": "このルート証明書のインストール状態は不明です"
+}

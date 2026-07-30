@@ -1,0 +1,34 @@
+{
+  "premiumUpgrade": "Upgrade Premium",
+  "premiumBillingType": "Plan",
+  "premiumBillingTypeMonthly": "Monthly",
+  "premiumBillingTypeMonthlyDescription": "Valid for 30 days",
+  "premiumBillingTypeYearly": "Annual",
+  "premiumBillingTypeYearlyDescription": "Valid for 1 year",
+  "premiumBillingTypeLifetime": "Lifetime",
+  "premiumBillingTypeLifetimeDescription": "Valid for lifetime",
+  "premiumPurchaseTips": "%1 Premium is available on all platforms, all future updates, and up to 6 devices. By purchasing premium, you agree to our %2.",
+  "premiumPurchase": "Buy Now",
+  "premiumProductLoading": "Loading product information...",
+  "premiumProductLoadError": "Failed to load products, tap to retry",
+  "premiumPurchaseEmailTip": "The order receipt will be sent to this email address. You can also use this email to access your purchased premium privileges on other platforms.",
+  "premiumPurchaseEmailRegistered": "This email is already registered, please sign in to purchase.",
+  "premiumPurchaseEmailRegisterError": "Failed to purchase with this email, please try again later.",
+  "premiumPurchaseHasLifetime": "You already have a lifetime membership.",
+  "premiumPurchaseOrderSubmitError": "Failed to submit order, please try again later.",
+  "premiumPurchaseOrderPayCancel": "Payment has been cancelled.",
+  "premiumPurchaseOrderPayError": "Payment failed.",
+  "premiumPurchasing": "Purchasing...",
+  "premiumPurchaseResultChecking": "Checking payment status...",
+  "premiumPurchasePaymentNotVerified": "Sorry, unable to verify payment! If you have paid but premium has not been charged for a long time, please contact payment@reqable.com.",
+  "premiumPurchaseOrderStateError": "Sorry, order status is invalid! If you have paid but have not received a refund, please contact payment@reqable.com.",
+  "premiumPurchaseNotUpgrade": "Sorry, failed to upgrade to premium! If you have paid but have not received a refund, please contact payment@reqable.com.",
+
+  "premiumRequirementTypeAdvancedFeature": "Advanced feature for premium, please sign in and upgrade to premium.",
+  "premiumRequirementTypeReachedLimit": "Reached the free quota, please sign in and upgrade to premium.",
+  "premiumRequirementTypeExceedLimit": "Exceeded the free quota, please sign in and upgrade to premium.",
+
+  "licenseMigrationNotificationTitle": "License Migration Guide",
+  "licenseMigrationNotificationMessage": "Learn more about how to migrate your license key to premium."
+
+}

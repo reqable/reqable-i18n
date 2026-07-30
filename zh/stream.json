@@ -1,0 +1,20 @@
+{
+  "websocketBinary": "二进制数据 %1",
+  "websocketStat": "发送 %1 接收 %2",
+  "websocketShowSend": "显示发送",
+  "websocketShowReply": "显示接收",
+  "websocketShowControlFrame": "显示控制帧",
+
+  "sseStat": "事件 %1",
+  "sseNotSupportPreview": "不支持预览",
+  "sseExtractorSetup": "配置提取器",
+  "sseExtractor": "SSE提取器",
+  "sseExtractorEdit": "编辑提取器",
+  "sseExtractorInvalid": "无效的JSON Path",
+  "sseExtractorList": "提取器列表",
+  "sseExtractorHint": "JSON Path, 例如：$.delta.text",
+  "sseExtractorTips1": "提取器用于从SSE事件中提取关键字段，以便在预览中显示。",
+  "sseExtractorTips2": "域名支持通配符，例如：*.example.com，规则使用JSON Path语法。",
+  "sseExtractorHostRequired": "Host是必填项",
+  "sseExtractorRuleRequired": "规则是必填项"
+}

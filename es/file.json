@@ -1,0 +1,44 @@
+{
+  "fileSelectorDragFile": "Arrastrar y soltar",
+  "fileSelectorFileNotExists": "El archivo no existe",
+  "fileSelectorTooltipChooseFile": "Elegir un archivo",
+  "fileSaveDone": "Archivo guardado exitosamente",
+  "fileSaveDoneAndroidTips1": "Guardado exitosamente en Download/Reqable",
+  "fileSaveDoneAndroidTips2": "Guardado exitosamente en el sandbox de Reqable.",
+  "fileSaveFailed": "Error al guardar archivo: ",
+  "fileSaveOpenAndroidFailed": "¡Elimine manualmente el directorio Reqable en Download e intente de nuevo!",
+  "fileSaveOpenLocationFailed": "¡Error al abrir la ubicación de guardado!",
+  "fileSaveLocaltionSuggestNameDefault": "Carpeta sin título",
+  
+  "fileFormatUnknown": "Tipo de archivo no reconocido: {type}",
+  "fileTypeNotSupport": "¡Tipo de archivo no compatible!",
+  "fileNotFound": "Archivo no encontrado: {path}",
+  "fileNone": "Seleccione un archivo",
+
+  "fileOpen": "Abrir archivo",
+  "fileOpenFailure": "Error al abrir archivo: %1",
+
+  "fileDownloading": "Descargando: ",
+  "fileDownloadFailed": "Error de descarga: ",
+
+  "fileExportSuccess": "Exportado exitosamente",
+  "fileExportFailure": "Error al exportar.",
+  "fileExportPdf": "Exportar PDF",
+  "fileExportPdfError": "Error al exportar PDF",
+
+  "fileImportSuccess": "¡Importado exitosamente!",
+  "fileImportFailure": "Error al importar: %1",
+  "fileImportProcessing": "Importación en progreso, espere...",
+  "fileImportNone": "¡No se encontraron datos válidos!",
+
+  "openWithBrowser": "Abrir con navegador",
+  "openWithAppVscode": "Abrir con VS Code",
+  "openWithAppVscodeUnavailable": "¡Instale la herramienta de línea de comandos de Visual Studio Code!",
+
+  "folderNew": "Nueva carpeta",
+  "folderRename": "Renombrar carpeta",
+  "folderDeleteAlertMessage": "¿Está seguro de que desea eliminar permanentemente la carpeta %1?",
+  "folderClearAlertMessage": "¿Está seguro de que desea eliminar permanentemente todos los elementos de la carpeta %1?",
+  "folderRoot": "Carpeta raíz"
+
+}

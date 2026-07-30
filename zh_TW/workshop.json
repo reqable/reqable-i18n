@@ -1,0 +1,23 @@
+{
+    "tabClose": "關閉",
+    "tabCloseForce": "強制關閉",
+    "tabCloseOthers": "關閉其他",
+    "tabCloseOthersForce": "強制關閉其他",
+    "tabCloseRight": "關閉右側",
+    "tabCloseRightForce": "強制關閉右側",
+    "tabCloseAll": "關閉所有",
+    "tabCloseAllForce": "強制關閉所有",
+    "workshopCreateHttp": "新增HTTP",
+    "workshopCreateWebSocket": "新增WebSocket",
+    "workshopImportFromCurl": "從cURL匯入",
+    "workshopImportFromClipboard": "從剪貼簿匯入",
+    "workshopImportFromRaw": "從原始訊息匯入",
+    "workshopOpenFileFailed": "開啟檔案失敗：",
+    "workshopWorkTypeLive": "除錯",
+    "workshopCloseOtherTabs": "關閉其他",
+    "workshopForceCloseOtherTabs": "強制關閉其他",
+    "workshopCloseAllTabs": "關閉所有",
+    "workshopForceCloseAllTabs": "強制關閉所有",
+    "workshopCopyPath": "複製路徑",
+    "workshopTooManyWorks": "一次性最多建立 %1 個標籤頁！"
+}

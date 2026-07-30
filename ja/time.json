@@ -1,0 +1,12 @@
+{
+  "timedateFormatFuture": "未来",
+  "timedateFormatJustNow": "たった今",
+  "timedateFormatMinutesAgo": "%1 分前",
+  "timedateFormatHoursAgo": "%1 時間前",
+  "timedateFormatDaysAgo": "%1 日前",
+  "timedateFormatYearsAgo": "%1 年前",
+  "timedateFormatToday": "今日",
+  "timedateFormatYesterday": "昨日",
+
+  "timedateFormat": "タイムスタンプをフォーマット"
+}

@@ -1,0 +1,26 @@
+{
+  "slogan": "API를 더 빠르고 간편하게",
+
+  "eula": "사용자 라이선스 계약",
+  "eulaAccepted": "읽고 동의했습니다",
+
+  "workModes": "작업 모드",
+  "workModeStandalone": "독립 모드",
+  "workModeStandaloneDescription": "휴대폰에서만 독립적으로 사용합니다.",
+  "workModeStandaloneDescriptionMore": "현재 Reqable 모바일 버전만 사용하며, 독립적인 CA 인증서를 생성합니다. 필요 시 나중에 다른 협업 기기를 추가할 수 있습니다.",
+  "workModeCollaboration": "협업 모드 (권장)",
+  "workModeCollaborationDescription": "Reqable PC 앱과 협업하여 작업합니다.",
+  "workModeCollaborationDescriptionMore": "PC를 협업 기기로 추가하고 CA 인증서를 공유하며, Reqable PC 버전으로 휴대폰 네트워크 트래픽을 분석 및 조작합니다.",
+  "workModeCollaborationSetup": "휴대폰 협업 설정",
+
+  "workModeCollaborationScanTitle": "모바일 버전 스캔",
+  "workModeCollaborationAutoCloseQrcode": "자동 닫기",
+  "workModeOnlyApi": "API 테스트",
+  "workModeOnlyApiDescription": "클래식 REST API 요청 테스트 시나리오.",
+  "workModeOnlyTraffic": "API 캡처",
+  "workModeOnlyTrafficDescription": "MITM 프록시를 통해 트래픽을 캡처하고 분석합니다.",
+  "workModeAll": "위 모두",
+  "workModeAllDescription": "위의 모든 기능이 필요합니다.",
+  "workModeOptions": "모드 옵션",
+  "workModeTips": "다른 모드를 선택하면 앱 초기 구성에만 영향을 미치며, 다른 기능은 계속 정상적으로 사용할 수 있습니다."
+}

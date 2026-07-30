@@ -1,0 +1,25 @@
+{
+  "tabClose": "关闭",
+  "tabCloseForce": "强制关闭",
+  "tabCloseOthers": "关闭其他",
+  "tabCloseOthersForce": "强制关闭其他",
+  "tabCloseRight": "关闭右侧",
+  "tabCloseRightForce": "强制关闭右侧",
+  "tabCloseAll": "关闭所有",
+  "tabCloseAllForce": "强制关闭所有",
+
+  "workshopCreateHttp": "新建HTTP",
+  "workshopCreateWebSocket": "新建WebSocket",
+  "workshopImportFromCurl": "从cURL导入",
+  "workshopImportFromClipboard": "从剪贴板导入",
+  "workshopImportFromRaw": "从原始报文导入",
+
+  "workshopOpenFileFailed": "打开文件失败：",
+  "workshopWorkTypeLive": "调试",
+  "workshopCloseOtherTabs": "关闭其他",
+  "workshopForceCloseOtherTabs": "强制关闭其他",
+  "workshopCloseAllTabs": "关闭所有",
+  "workshopForceCloseAllTabs": "强制关闭所有",
+  "workshopCopyPath": "复制路径",
+  "workshopTooManyWorks": "一次性最多创建 %1 个标签页！"
+}

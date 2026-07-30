@@ -1,0 +1,18 @@
+{
+  "scriptCodeTemplate": "脚本模板",
+  "scriptCodeTemplateDefault": "默认模板",
+  "scriptCodeTemplateMinimal": "极简模板",
+  "scriptCodeTemplateRepo": "模板仓库",
+  "scriptCodeTemplateMime": "我的模板",
+  "scriptCodeTemplateSaveAs": "保存为模板",
+  "scriptCodeTemplateSaved": "模板已保存！",
+  "scriptCodeTemplateReplaceWarningMessage": "模板 %1 已存在，是否确定要覆盖？",
+  "scriptCodeTemplateDeleteWarningMessage": "是否确定删除模板 %1，注意此操作不可恢复！",
+  "scriptCodeTemplateUpdateDate": "更新于 %1",
+  "scriptCodeTemplateFork": "Fork模板",
+  "scriptCodeReset": "重置脚本",
+  "scriptCodeSelectionIndicator1": "行%1, 列%2",
+  "scriptCodeSelectionIndicator2": "行%1, 列%2（选择%3）",
+  "scriptCodeExport": "导出脚本",
+  "scriptCodeImport": "导入脚本"
+}

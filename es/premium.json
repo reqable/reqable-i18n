@@ -1,0 +1,34 @@
+{
+  "premiumUpgrade": "Actualizar a Premium",
+  "premiumBillingType": "Plan",
+  "premiumBillingTypeMonthly": "Mensual",
+  "premiumBillingTypeMonthlyDescription": "Válido por 30 días",
+  "premiumBillingTypeYearly": "Anual",
+  "premiumBillingTypeYearlyDescription": "Válido por 1 año",
+  "premiumBillingTypeLifetime": "De por vida",
+  "premiumBillingTypeLifetimeDescription": "Válido de por vida",
+  "premiumPurchaseTips": "%1 Premium está disponible en todas las plataformas, todas las actualizaciones futuras y hasta 6 dispositivos. Al comprar premium, acepta nuestros %2.",
+  "premiumPurchase": "Comprar ahora",
+  "premiumProductLoading": "Cargando información del producto...",
+  "premiumProductLoadError": "Error al cargar productos, toque para reintentar",
+  "premiumPurchaseEmailTip": "El recibo del pedido se enviará a esta dirección de correo electrónico. También puede usar este correo para acceder a sus privilegios premium comprados en otras plataformas.",
+  "premiumPurchaseEmailRegistered": "Este correo ya está registrado, inicie sesión para comprar.",
+  "premiumPurchaseEmailRegisterError": "Error al comprar con este correo, intente de nuevo más tarde.",
+  "premiumPurchaseHasLifetime": "Ya tiene una membresía de por vida.",
+  "premiumPurchaseOrderSubmitError": "Error al enviar el pedido, intente de nuevo más tarde.",
+  "premiumPurchaseOrderPayCancel": "El pago ha sido cancelado.",
+  "premiumPurchaseOrderPayError": "Error en el pago.",
+  "premiumPurchasing": "Comprando...",
+  "premiumPurchaseResultChecking": "Verificando estado del pago...",
+  "premiumPurchasePaymentNotVerified": "¡Lo sentimos, no se puede verificar el pago! Si ha pagado pero premium no se ha activado durante mucho tiempo, contacte a payment@reqable.com.",
+  "premiumPurchaseOrderStateError": "¡Lo sentimos, el estado del pedido no es válido! Si ha pagado pero no ha recibido un reembolso, contacte a payment@reqable.com.",
+  "premiumPurchaseNotUpgrade": "¡Lo sentimos, error al actualizar a premium! Si ha pagado pero no ha recibido un reembolso, contacte a payment@reqable.com.",
+
+  "premiumRequirementTypeAdvancedFeature": "Función avanzada para premium, inicie sesión y actualice a premium.",
+  "premiumRequirementTypeReachedLimit": "Alcanzó la cuota gratuita, inicie sesión y actualice a premium.",
+  "premiumRequirementTypeExceedLimit": "Excedió la cuota gratuita, inicie sesión y actualice a premium.",
+
+  "licenseMigrationNotificationTitle": "Guía de migración de licencia",
+  "licenseMigrationNotificationMessage": "Obtenga más información sobre cómo migrar su clave de licencia a premium."
+
+}

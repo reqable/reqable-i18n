@@ -1,0 +1,16 @@
+{
+  "shareApp": "Partager",
+  "shareAppMessage": "Reqable est un outil de débogage d'API avancé et un instrument de développement. Installez et essayez ! %1",
+  
+  "introduceDesktopBanner": "Application de bureau",
+  "introduceDesktopTitle": "Présenter l'application de bureau",
+  
+  "reviewApp": "Évaluer",
+  "reviewRequestMessage": "Merci d'utiliser Reqable. Si notre application vous est utile, pourriez-vous nous laisser un avis ?",
+  "reviewReject": "Plus tard",
+  "reviewApprove": "Évaluer",
+
+  "drawerTabs": "Onglets",
+  "drawerTools": "Outils",
+  "drawerOthers": "Autres"
+}

@@ -1,0 +1,36 @@
+{
+  "historyRest": "REST",
+  "historyTraffic": "Traffic",
+  "historyEmpty": "History is empty",
+  "historyClearAlertMessage": "Are you sure you want to permanently delete all history?",
+  "historyClearAlertMessage2": "Are you sure you want to permanently delete all history records (except stars)?",
+  "historyDeleteAlertMessage": "Are you sure you want to permanently delete history %1?",
+  "historyDeleteRecordsAlertMessage": "Are you sure you want to permanently delete selected records?",
+
+  "historySettings": "Cache Settings",
+
+  "historyRestTimelineMode": "Timeline Mode",
+  "historyRestUrlMode": "URL Mode",
+  "historyRestRestoreMessage": "Are you sure you want to restore this session? The current request will be overwritten!",
+
+  "historyCaptureSessionInfo": "Records: %1  Duration: %2",
+  "historyCaptureAddStar": "Add Star",
+  "historyCaptureRemoveStar": "Remove Star",
+
+  "historyCacheDuration": "Cache Duration",
+  "historyCacheDurationTips": "* Set the duration for which history data is stored on the device. Expired data will be automatically deleted.",
+
+  "historyCacheIncognitoMode": "Incognito Mode",
+  "historyCacheIncognitoModeTips": "* When incognito mode is enabled, data will not be saved to history.",
+
+  "historyCleanNotificationTitle": "Clean History",
+  "historyCleanNotificationMessage": "History data storage space is too large. Do you want to clean it now?",
+  "historyCleanNotificationText": "Goto Clean",
+
+  "cacheDurationDays3": "3 days",
+  "cacheDurationDays7": "7 days",
+  "cacheDurationDays30": "30 days",
+  "cacheDurationDaysForever": "Forever",
+  "cacheDurationTemporary": "Temporary"
+
+}

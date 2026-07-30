@@ -1,0 +1,12 @@
+{
+  "codeSnippet": "Code Snippet",
+  "codeSnippetSettings": "Code Settings",
+  "codeSnippetLanguage": "Language",
+  "codeSnippetMoreLanguage": "More language support?",
+  "codeSnippetIndentCount": "Indentation Count",
+  "codeSnippetIndentCountDescription": "Set the number of indentation characters to add for each code level.",
+  "codeSnippetIndentType": "Indentation Type",
+  "codeSnippetIndentTypeDescription": "Set the type of character used to indent code lines.",
+  "codeSnippetPythonRequestsUseParams": "Use Parameter Dictionary",
+  "codeSnippetPythonRequestsUseParamsDescription": "Whether to use a parameter dictionary to pass request parameters instead of using a concatenated URL."
+}

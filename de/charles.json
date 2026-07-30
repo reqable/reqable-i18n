@@ -1,0 +1,9 @@
+{
+  "charlesAppHome": "Charles App Home",
+  "charlesAppHomeSetup": "Charles-App-Startseite einrichten",
+  "charlesAppHomeSetupFailed": "Das Charles-Befehlszeilentool konnte nicht gefunden werden",
+  "charlesAppHomeSetupOk": "Der Home-Pfad der Charles-App ist gültig",
+  "charlesFileConvertTips": "Reqable kann das Charles-Dateiformat nicht analysieren und muss das Charles-Befehlszeilentool verwenden, um es in das Har-Format zu konvertieren.",
+  "charlesFileConvertFailed": "Konvertierung von Charles Session in HAR fehlgeschlagen!",
+  "charlesFileConverting": "Konvertieren der Charles Session-Datei..."
+}

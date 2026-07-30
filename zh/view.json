@@ -1,0 +1,19 @@
+{
+  "viewModeTable": "表格模式",
+  "viewModeGallery": "画廊模式",
+  "viewModeText": "文本模式",
+  "viewModeList": "列表模式",
+  "viewModeChat": "对话模式",
+
+  "viewCollapse": "收起",
+  "viewExpand": "展开",
+  "viewMaximize": "最大化",
+
+  "viewOrderReverse": "逆序",
+  "viewOrderPositive": "正序",
+
+  "viewClickAddValue": "点击添加值",
+
+  "openInNewWindow": "新窗口打开"
+
+}

@@ -1,0 +1,34 @@
+{
+  "premiumUpgrade": "开通会员",
+  "premiumBillingType": "会员套餐",
+  "premiumBillingTypeMonthly": "月度会员",
+  "premiumBillingTypeMonthlyDescription": "有效期30天",
+  "premiumBillingTypeYearly": "年度会员",
+  "premiumBillingTypeYearlyDescription": "有效期1年",
+  "premiumBillingTypeLifetime": "终身会员",
+  "premiumBillingTypeLifetimeDescription": "永久使用",
+  "premiumPurchaseTips": "%1 会员不限平台、不限更新、最多6台设备同时使用，过期后不会自动续期扣费。购买会员则代表您同意我们的%2。",
+  "premiumPurchase": "立即购买",
+  "premiumProductLoading": "正在加载商品信息...",
+  "premiumProductLoadError": "商品信息加载失败，点击重试",
+  "premiumPurchaseEmailTip": "订单回执将会发送到此邮箱地址，您还可以通过此邮箱在其他平台设备上获取已购买的会员权益。",
+  "premiumPurchaseEmailRegistered": "该邮箱已注册，请登录后购买。",
+  "premiumPurchaseEmailRegisterError": "此邮箱购买失败，请稍后重试。",
+  "premiumPurchaseHasLifetime": "您已拥有终身会员，无需再次购买。",
+  "premiumPurchaseOrderSubmitError": "订单提交失败，请稍后重试。",
+  "premiumPurchaseOrderPayCancel": "支付已取消。",
+  "premiumPurchaseOrderPayError": "支付失败。",
+  "premiumPurchasing": "正在购买...",
+  "premiumPurchaseResultChecking": "正在确认支付结果...",
+  "premiumPurchasePaymentNotVerified": "很抱歉，无法确认支付结果！如果您已支付但会员长时间未到账，请联系客服。",
+  "premiumPurchaseOrderStateError": "很抱歉，订单状态异常！如果您已支付但未收到退款，请联系客服。",
+  "premiumPurchaseNotUpgrade": "很抱歉，开通会员失败！如果您已支付但未收到退款，请联系客服。",
+
+  "premiumRequirementTypeAdvancedFeature": "高级会员专属功能，请登录并开通高级会员。",
+  "premiumRequirementTypeReachedLimit": "已达到免费限制，请登录并开通高级会员。",
+  "premiumRequirementTypeExceedLimit": "已超过免费限制，请登录并开通高级会员。",
+
+  "licenseMigrationNotificationTitle": "迁移许可证",
+  "licenseMigrationNotificationMessage": "如何将您的旧版本许可证迁移至新版本的会员体系，查看迁移指南。"
+
+}

@@ -1,0 +1,30 @@
+{
+  "curlOptions": "cURL 옵션",
+  "curlMultiline": "여러 줄 cURL",
+  "curlMultilineDescription": "cURL 명령을 여러 줄로 나누어 표시합니다.",
+  "curlLongFormOptions": "긴 옵션",
+  "curlLongFormOptionsDescription": "cURL 명령에서 긴 옵션을 사용합니다. 예: -X 대신 --request 사용.",
+  "curlLineContinuationChar": "줄 연속 문자",
+  "curlLineContinuationCharDescription": "여러 줄 cURL에서 줄 연속 문자를 설정합니다. 일반적으로 Linux 및 Mac에서는 \\, Windows CMD에서는 ^, PowerShell에서는 `를 사용합니다.",
+  "curlSingleQuote": "작은따옴표",
+  "curlSingleQuoteDescription": "cURL 명령에서 작은따옴표를 사용합니다. 일부 터미널은 작은따옴표를 지원하지 않을 수 있으므로(예: Windows CMD) 이 옵션을 비활성화할 수 있습니다.",
+  "curlExtractEnvVariable": "환경 변수 추출",
+  "curlExtractEnvVariableDescription": "환경 변수를 해당 값으로 대체할지 여부.",
+
+
+  "curlErrorMultiDataType": "여러 --data 매개변수 유형은 지원되지 않습니다",
+  "curlErrorMultiDataBinary": "여러 --data-binary 매개변수는 지원되지 않습니다",
+  "curlErrorUnsupportProtocol": "지원되지 않는 HTTP 프로토콜: ",
+  "curlErrorMalformedCurl": "cURL 형식 오류",
+  "curlErrorMalformedCurlWithMessage": "cURL 형식 오류: ",
+  "curlErrorUnknownMethod": "지원되지 않는 요청 메서드: ",
+  "curlErrorFileNotFound": "참조된 파일이 존재하지 않습니다: ",
+  "curlErrorFileArgInvalid": "파일 참조 형식 오류",
+  "curlErrorFileTooLarge": "파일이 50M를 초과하여 읽을 수 없습니다",
+  "curlErrorUrlEncodeInvalid": "--url-encode 옵션 데이터 형식 오류",
+  "curlErrorFormFormatInvalid": "--form 옵션 데이터 형식 오류",
+  "curlErrorMaxTimeFormatInvalid": "--max-time 옵션 데이터 형식 오류",
+  "curlErrorConnectTimeoutFormatInvalid": "--connect-timeout 옵션 데이터 형식 오류",
+  "curlErrorMaxRedirectFormatInvalid": "max-redirs 옵션 데이터 형식 오류",
+  "curlErrorUnknown": "이 cURL을 구문 분석할 수 없습니다"
+}

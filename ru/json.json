@@ -1,0 +1,18 @@
+{
+  "jsonInvalid": "Неверные данные JSON",
+  "jsonKeywordSearch": "Фильтр по ключевому слову",
+  "jsonKeywordSearchHint": "Введите ключевое слово для фильтрации",
+  "jsonPathSearch": "JSON Path",
+  "jsonPathSearchHint": "Введите JSON path, например $.store.book[0].title",
+  "jsonPathCopy": "Копировать путь",
+  "jsonPathCopy2": "Копировать JSON Path",
+  "jsonPathCopy3": "Копировать путь словаря (SQ)",
+  "jsonPathCopy4": "Копировать путь словаря (DQ)",
+  "jsonPathNode": "Узел",
+  "jsonPathParentNode": "Родительский узел",
+  "jsonCompressPerformanceWarningMessage": "Сжатие JSON не поддерживается для этого содержимого, что может вызвать проблемы с производительностью.",
+  "jsonEscape": "Экранировать",
+  "jsonUnescape": "Деэкранировать",
+  "jsonViewer": "Просмотрщик JSON",
+  "jsonConvertNotSupport": "Неподдерживаемый формат"
+}

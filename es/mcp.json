@@ -1,0 +1,11 @@
+{
+  "mcpServerSetup": "Configurar servidor MCP",
+  "mcpServerSetupTo": "Configurar MCP en {app}",
+  "mcpServerSetupManual": "Configuración manual de MCP",
+  "mcpServerActiveNone": "Ningún servidor está en ejecución",
+  "mcpServerActiveList": "{count} servidores están en ejecución",
+  "mcpClientList": "Clientes MCP",
+  "mcpClientListEmpty": "Ningún cliente está conectado.",
+  "mcpClientDisconnect": "Desconectar",
+  "mcpServerLaunchAt": "Conectado a las {timestamp}"
+}

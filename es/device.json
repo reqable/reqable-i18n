@@ -1,0 +1,74 @@
+{
+  "deviceName": "Nombre del dispositivo",
+  "deviceUnknown": "Dispositivo desconocido",
+
+  "deviceStateOnline": "Dispositivo en línea",
+  "deviceStateOffline": "Dispositivo fuera de línea",
+  "deviceStateConnecting": "Dispositivo conectando",
+  "deviceStateTapToConnect": "Toque la pantalla para reconectar",
+
+  "deviceHost": "Dispositivo host",
+  "deviceQrCode": "Código QR del dispositivo",
+  "deviceSwitchIP": "Cambiar IP",
+  "deviceMultipleIP": "Múltiples IPs detectadas",
+
+  "deviceEditName": "Editar nombre",
+  "deviceDiscover": "Descubrimiento de dispositivos",
+  "deviceRemoteControl": "Control remoto",
+  "deviceToken": "Token del dispositivo",
+  "deviceTokenTips": "Los dispositivos con el mismo token se descubrirán entre sí",
+
+  "deviceConnected": "Dispositivos conectados",
+  "deviceSaved": "Dispositivos guardados",
+  "deviceSavedEmpty": "No hay dispositivos guardados",
+  "deviceAvailable": "Dispositivos disponibles",
+  "deviceAvailableEmpty": "No hay dispositivos disponibles",
+
+  "deviceAdd": "Agregar dispositivo",
+
+  "deviceAddStep1": "1. Haga clic en el menú `Tráfico` -> `Dispositivo` -> `Código QR del dispositivo`, o abra la barra lateral `Dispositivo` y haga clic en el icono de código QR en su aplicación de escritorio.",
+  "deviceAddStep2": "2. Escanee el código QR mostrado en la aplicación de escritorio, o ingrese la dirección manualmente.",
+  "deviceAddStep3": "3. Espere a que se complete la conexión del dispositivo y la sincronización de datos.",
+  "deviceAddTips1": "Si se detectan múltiples IPs en el escritorio, seleccione manualmente la dirección IP en la misma LAN que el móvil.",
+  "deviceAddTips2": "El escritorio Windows necesita configurar el tipo de red como red privada en lugar de red pública en la configuración del sistema.",
+  "deviceAddTips3": "Asegúrese de que Configuración -> Privacidad -> Red local -> Reqable esté habilitado.",
+
+  "deviceCollaborationMyQrcode": "Código QR de colaboración",
+  "deviceCollaborationNoAddressTips": "Sin dirección IP válida",
+  "deviceCollaborationMobileTips": "Al reenviar tráfico de otros dispositivos al actual, se recomienda desactivar el modo VPN.",
+
+  "deviceConnecting": "Conectando...",
+  "deviceConnectFailedMessage": "Error de conexión, ¡verifique el estado de red de su dispositivo e intente de nuevo!",
+  "deviceSyncing": "Sincronizando…",
+  "deviceSyncFailedMessage": "Error de sincronización, ¡verifique el estado de red de su dispositivo e intente de nuevo!",
+
+  "deviceManagement": "Gestión de dispositivos",
+
+  "deviceInvalidQrcode": "¡Código QR no válido!",
+  "deviceSyncConnecting": "Conectando...",
+  "deviceQrcodePrepareMessage": "Está a punto de ingresar a la página de escaneo de código QR, abra el código QR en el escritorio de Reqable.",
+  "deviceCertificateWarningNotSame": "El dispositivo usa un certificado raíz diferente al de la aplicación actual. ¡Se recomienda mantenerlo consistente!",
+  "deviceCertificateWarningNotInstall": "¡El certificado raíz del dispositivo no está instalado, lo que causará fallos en las conexiones de red!",
+  "deviceCertificateWarningNotTrust": "¡El certificado raíz del dispositivo no está instalado en el directorio de certificados del sistema, lo que puede causar fallos en algunas conexiones de red!",
+  "deviceInputAddress": "Ingresar dirección de red",
+  "deviceInputAddressTips": "Ingrese la dirección IP y el número de puerto del dispositivo.",
+  "deviceInfo": "Información del dispositivo",
+  "deviceDeleteAlertMessage": "¿Está seguro de eliminar este dispositivo? ¡Necesitará escanear el código QR nuevamente para agregar este dispositivo!",
+  "deviceSyncCertificate": "Sincronizar certificado",
+  "deviceSyncCertificateAlertMessage": "¿Confirma sincronizar el certificado CA de este dispositivo al móvil? ¡Esto reemplazará el certificado CA existente de esta aplicación!",
+  "deviceSyncApiData": "Sincronizar datos de API",
+  "deviceSyncApiDataAlertMessage": "¿Confirma sincronizar las colecciones de API y entornos de este dispositivo al móvil? ¡Esto reemplazará todos los datos actuales!",
+  "deviceSyncDone": "¡Sincronización completada!",
+  "deviceSyncError": "¡Error de sincronización!",
+
+  "deviceUpgrade325Tips": "La versión de Reqable en {platform} es inferior a 3.2.5, lo que puede causar que algunas funciones no estén disponibles. ¡Actualice a la última versión!",
+
+  "deviceCertificateStatus": "Estado del certificado raíz",
+  "deviceCertificateNotMatch": "Certificado raíz diferente al de esta aplicación",
+  "deviceCertificateMatched": "Mismo certificado raíz que esta aplicación",
+  "deviceCertificateStatusNotInstall": "Este certificado raíz no está instalado en el móvil",
+  "deviceCertificateStatusInstalled": "Este certificado raíz se ha instalado en el móvil",
+  "deviceCertificateStatusSystemInstalled": "Este certificado raíz se ha instalado en el sistema",
+  "deviceCertificateStatusUserInstalled": "Este certificado raíz se ha instalado como certificado de usuario",
+  "deviceCertificateStatusUnknown": "Estado de instalación del certificado raíz desconocido"
+}

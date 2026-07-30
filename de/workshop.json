@@ -1,0 +1,23 @@
+{
+  "tabClose": "Schließen",
+  "tabCloseForce": "Schließen erzwingen",
+  "tabCloseOthers": "Andere schließen",
+  "tabCloseOthersForce": "Andere schließen (erzwingen)",
+  "tabCloseRight": "Rechts schließen",
+  "tabCloseRightForce": "Rechts schließen (erzwingen)",
+  "tabCloseAll": "Alle schließen",
+  "tabCloseAllForce": "Alle schließen erzwingen",
+  "workshopCreateHttp": "Neues HTTP",
+  "workshopCreateWebSocket": "Neuer WebSocket",
+  "workshopImportFromCurl": "Import aus cURL",
+  "workshopImportFromClipboard": "Aus der Zwischenablage importieren",
+  "workshopImportFromRaw": "Aus Raw importieren",
+  "workshopOpenFileFailed": "Datei konnte nicht geöffnet werden:",
+  "workshopWorkTypeLive": "Traffic",
+  "workshopCloseOtherTabs": "Schließen Andere",
+  "workshopForceCloseOtherTabs": "Schließen erzwingen Andere",
+  "workshopCloseAllTabs": "Alle schließen",
+  "workshopForceCloseAllTabs": "Alle schließen erzwingen",
+  "workshopCopyPath": "Pfad kopieren",
+  "workshopTooManyWorks": "Zu viele Tabs, höchstens %1 Tabs gleichzeitig!"
+}

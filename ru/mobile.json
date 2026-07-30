@@ -1,0 +1,13 @@
+{
+  "shareApp": "Поделиться приложением",
+  "shareAppMessage": "Reqable — это продвинутый прокси для отладки API и инструмент разработки. Установите и попробуйте! %1",
+  "introduceDesktopBanner": "Приложение для ПК",
+  "introduceDesktopTitle": "Представляем десктопное приложение",
+  "reviewApp": "Оценить приложение",
+  "reviewRequestMessage": "Спасибо за использование Reqable. Если наше приложение вам помогло, не могли бы вы оставить отзыв?",
+  "reviewReject": "Не сейчас",
+  "reviewApprove": "Оценить",
+  "drawerTabs": "Вкладки",
+  "drawerTools": "Инструменты",
+  "drawerOthers": "Другое"
+}

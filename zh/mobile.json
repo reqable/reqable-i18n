@@ -1,0 +1,16 @@
+{
+  "shareApp": "分享应用",
+  "shareAppMessage": "Reqable是新一代API调试 + 测试一体化工具，快来体验API新世界： %1",
+
+  "introduceDesktopBanner": "桌面端版本",
+  "introduceDesktopTitle": "介绍桌面端应用",
+
+  "reviewApp": "评价应用",
+  "reviewRequestMessage": "感谢使用Reqable，如果我们的应用对您有帮助，欢迎在应用商店给我们评分！",
+  "reviewReject": "暂不",
+  "reviewApprove": "鼓励一下",
+
+  "drawerTabs": "标签页",
+  "drawerTools": "功能",
+  "drawerOthers": "其他"
+}

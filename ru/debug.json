@@ -1,0 +1,11 @@
+{
+  "debugLogger": "Логгер",
+  "debugLoggerLevelDebug": "Отладка",
+  "debugLoggerLevelInfo": "Информация",
+  "debugLoggerLevelWarning": "Предупреждение",
+  "debugLoggerLevelError": "Ошибка",
+  "debugLoggerFileNotFound": "Файл журнала не найден!",
+  "debugLoggerFileTooLarge": "Файл слишком большой, загрузка не поддерживается!",
+  "debugLoggerOpenFolder": "Открыть папку",
+  "debugLoggerExport": "Экспорт"
+}

@@ -1,0 +1,18 @@
+{
+  "jsonInvalid": "Ungültige JSON-Daten",
+  "jsonKeywordSearch": "Schlüsselwortfilter",
+  "jsonKeywordSearchHint": "Geben Sie ein Schlüsselwort zum Filtern ein",
+  "jsonPathSearch": "JSON-Pfad",
+  "jsonPathSearchHint": "Geben Sie den JSON-Pfad ein, z. B. $.store.book[0].title",
+  "jsonPathCopy": "Pfad kopieren",
+  "jsonPathCopy2": "Kopieren Sie den JSON-Pfad",
+  "jsonPathCopy3": "Wörterbuchpfad kopieren (SQ)",
+  "jsonPathCopy4": "Wörterbuchpfad kopieren (DQ)",
+  "jsonPathNode": "Knoten",
+  "jsonPathParentNode": "Übergeordneter Knoten",
+  "jsonCompressPerformanceWarningMessage": "Die JSON-Komprimierung wird für diese Nutzlast nicht unterstützt, was zu Leistungsproblemen führen kann.",
+  "jsonEscape": "JSON Escape",
+  "jsonUnescape": "JSON Unescape",
+  "jsonViewer": "JSON-Viewer",
+  "jsonConvertNotSupport": "Nicht unterstütztes Format"
+}

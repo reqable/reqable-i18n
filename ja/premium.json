@@ -1,0 +1,33 @@
+{
+  "premiumUpgrade": "メンバーシップに登録",
+  "premiumBillingType": "メンバーシッププラン",
+  "premiumBillingTypeMonthly": "月額メンバーシップ",
+  "premiumBillingTypeMonthlyDescription": "有効期限30日",
+  "premiumBillingTypeYearly": "年間メンバーシップ",
+  "premiumBillingTypeYearlyDescription": "有効期限1年",
+  "premiumBillingTypeLifetime": "永久メンバーシップ",
+  "premiumBillingTypeLifetimeDescription": "永久に使用可能",
+  "premiumPurchaseTips": "%1 メンバーシップはプラットフォーム制限なし、更新制限なし、最大6台のデバイスで同時使用可能です。期限切れ後は自動更新されません。メンバーシップを購入すると、%2に同意したものとみなされます。",
+  "premiumPurchase": "今すぐ購入",
+  "premiumProductLoading": "商品情報を読み込み中...",
+  "premiumProductLoadError": "商品情報の読み込みに失敗しました。クリックして再試行",
+  "premiumPurchaseEmailTip": "注文確認書はこのメールアドレスに送信されます。このメールアドレスを使用して他のプラットフォームデバイスでも購入済みのメンバーシップ特典を取得できます。",
+  "premiumPurchaseEmailRegistered": "このメールアドレスは既に登録されています。ログインしてから購入してください。",
+  "premiumPurchaseEmailRegisterError": "このメールアドレスでの購入に失敗しました。後でもう一度お試しください。",
+  "premiumPurchaseHasLifetime": "永久メンバーシップを既にお持ちです。再度購入する必要はありません。",
+  "premiumPurchaseOrderSubmitError": "注文の送信に失敗しました。後でもう一度お試しください。",
+  "premiumPurchaseOrderPayCancel": "支払いがキャンセルされました。",
+  "premiumPurchaseOrderPayError": "支払いに失敗しました。",
+  "premiumPurchasing": "購入中...",
+  "premiumPurchaseResultChecking": "支払い結果を確認中...",
+  "premiumPurchasePaymentNotVerified": "申し訳ありませんが、支払い結果を確認できません！お支払い済みでメンバーシップが長時間反映されない場合は、カスタマーサポートにお問い合わせください。",
+  "premiumPurchaseOrderStateError": "申し訳ありませんが、注文状態が異常です！お支払い済みで返金されていない場合は、カスタマーサポートにお問い合わせください。",
+  "premiumPurchaseNotUpgrade": "申し訳ありませんが、メンバーシップの登録に失敗しました！お支払い済みで返金されていない場合は、カスタマーサポートにお問い合わせください。",
+
+  "premiumRequirementTypeAdvancedFeature": "プレミアムメンバーシップ限定機能です。ログインしてプレミアムメンバーシップに登録してください。",
+  "premiumRequirementTypeReachedLimit": "無料制限に達しました。ログインしてプレミアムメンバーシップに登録してください。",
+  "premiumRequirementTypeExceedLimit": "無料制限を超過しました。ログインしてプレミアムメンバーシップに登録してください。",
+
+  "licenseMigrationNotificationTitle": "ライセンス移行",
+  "licenseMigrationNotificationMessage": "旧バージョンのライセンスを新しいメンバーシップシステムに移行する方法については、移行ガイドをご覧ください。"
+}

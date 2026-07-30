@@ -1,0 +1,44 @@
+{
+  "fileSelectorDragFile": "拖拽文件到此处",
+  "fileSelectorFileNotExists": "该文件不存在",
+  "fileSelectorTooltipChooseFile": "选择文件",
+  "fileSaveDone": "文件保存成功",
+  "fileSaveDoneAndroidTips1": "成功保存到Download/Reqable目录！",
+  "fileSaveDoneAndroidTips2": "成功保存到Reqable沙盒目录！",
+  "fileSaveFailed": "文件保存失败：",
+  "fileSaveOpenAndroidFailed": "请手动删除Download下的Reqable目录后再试！",
+  "fileSaveOpenLocationFailed": "打开保存目录失败！",
+  "fileSaveLocaltionSuggestNameDefault": "未命名文件夹",
+  
+  "fileFormatUnknown": "未识别的文件类型：{type}",
+  "fileTypeNotSupport": "不支持打开的文件类型！",
+  "fileNotFound": "未找到文件：{path}",
+  "fileNone": "请选择文件",
+
+  "fileDownloading": "正在下载：",
+  "fileDownloadFailed": "下载失败：",
+  
+  "fileExportSuccess": "导出成功",
+  "fileExportFailure": "导出失败",
+  "fileExportPdf": "导出PDF",
+  "fileExportPdfError": "导出PDF失败",
+
+  "fileImportSuccess": "导入成功！",
+  "fileImportFailure": "导入失败：%1",
+  "fileImportProcessing": "正在导入，请稍等...",
+  "fileImportNone": "未发现有效的数据！",
+
+  "fileOpen": "打开文件",
+  "fileOpenFailure": "文件打开失败：%1",
+
+  "openWithBrowser": "浏览器打开",
+  "openWithAppVscode": "VS Code打开",
+  "openWithAppVscodeUnavailable": "请先安装Visual Studio Code命令行工具",
+
+  "folderNew": "新建文件夹",
+  "folderRename": "重命名文件夹",
+  "folderDeleteAlertMessage": "确定永久删除文件夹 %1 ？",
+  "folderClearAlertMessage": "确定永久清空文件夹 %1 的全部内容？",
+  "folderRoot": "根目录"
+  
+}

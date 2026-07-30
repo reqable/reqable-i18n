@@ -1,0 +1,43 @@
+{
+  "fileSelectorDragFile": "Перетащите файл",
+  "fileSelectorFileNotExists": "Файл не существует",
+  "fileSelectorTooltipChooseFile": "Выбрать файл",
+  "fileSaveDone": "Файл успешно сохранен",
+  "fileSaveDoneAndroidTips1": "Успешно сохранено в Download/Reqable",
+  "fileSaveDoneAndroidTips2": "Успешно сохранено в песочницу Reqable.",
+  "fileSaveFailed": "Не удалось сохранить файл: ",
+  "fileSaveOpenAndroidFailed": "Удалите папку Reqable в Download вручную и попробуйте снова!",
+  "fileSaveOpenLocationFailed": "Не удалось открыть место сохранения!",
+  "fileSaveLocaltionSuggestNameDefault": "Папка без названия",
+  
+  "fileFormatUnknown": "Нераспознанный тип файла: {type}",
+  "fileTypeNotSupport": "Тип файла не поддерживается!",
+  "fileNotFound": "Файл не найден: {path}",
+  "fileNone": "Выберите файл",
+
+  "fileOpen": "Открыть файл",
+  "fileOpenFailure": "Не удалось открыть файл: %1",
+
+  "fileDownloading": "Скачивание: ",
+  "fileDownloadFailed": "Ошибка скачивания: ",
+
+  "fileExportSuccess": "Успешно экспортировано",
+  "fileExportFailure": "Не удалось экспортировать.",
+  "fileExportPdf": "Экспорт PDF",
+  "fileExportPdfError": "Не удалось экспортировать PDF",
+
+  "fileImportSuccess": "Успешно импортировано!",
+  "fileImportFailure": "Не удалось импортировать: %1",
+  "fileImportProcessing": "Импорт выполняется, пожалуйста, подождите...",
+  "fileImportNone": "Подходящие данные не найдены!",
+
+  "openWithBrowser": "Открыть в браузере",
+  "openWithAppVscode": "Открыть в VS Code",
+  "openWithAppVscodeUnavailable": "Установите инструмент командной строки VS Code!",
+
+  "folderNew": "Новая папка",
+  "folderRename": "Переименовать папку",
+  "folderDeleteAlertMessage": "Удалить папку %1?",
+  "folderClearAlertMessage": "Очистить все элементы в папке %1?",
+  "folderRoot": "Корневая папка"
+}

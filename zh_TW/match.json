@@ -1,0 +1,6 @@
+{
+    "wildcardEnabled": "萬用字元已啟用",
+    "wildcardDisabled": "萬用字元已停用",
+    "regexEnabled": "正則已啟用",
+    "regexDisabled": "正則已停用"
+}

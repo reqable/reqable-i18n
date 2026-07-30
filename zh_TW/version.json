@@ -1,0 +1,16 @@
+{
+    "versionApp": "應用版本",
+    "versionUpdateTitle": "版本更新",
+    "versionNewUpdates": "{count}個新版本",
+    "versionUpdateNow": "立即更新",
+    "versionReleaseDate": "釋出日期：{date}",
+    "versionUpdateNoDescription": "暫無更新簡介。",
+    "versionUpdateDownloading": "下載中...",
+    "versionUpdateInstallError": "無法啟動安裝程式，請手動安裝！",
+    "versionNew": "新版本",
+    "versionUpdateTipStrategyNone": "永不提示",
+    "versionUpdateTipStrategyMajorVersion": "大版本",
+    "versionUpdateTipStrategyMinorVersion": "小版本",
+    "versionUpdateTipStrategyEveryVersion": "全部版本",
+    "versionDownloadPkgError": "下載安裝檔失敗，請重試"
+}

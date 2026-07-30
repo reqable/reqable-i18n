@@ -1,0 +1,9 @@
+{
+  "charlesAppHome": "Каталог Charles",
+  "charlesAppHomeSetup": "Указать каталог Charles",
+  "charlesAppHomeSetupFailed": "Не удалось найти инструмент командной строки Charles",
+  "charlesAppHomeSetupOk": "Путь к каталогу приложения Charles корректен",
+  "charlesFileConvertTips": "Reqable не может разобрать формат файлов Charles — для преобразования в HAR нужен инструмент командной строки Charles.",
+  "charlesFileConvertFailed": "Не удалось преобразовать сессию Charles в HAR!",
+  "charlesFileConverting": "Преобразование файла сессии Charles..."
+}

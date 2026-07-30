@@ -1,0 +1,74 @@
+{
+  "deviceName": "Device Name",
+  "deviceUnknown": "Unknown Device",
+
+  "deviceStateOnline": "Device Online",
+  "deviceStateOffline": "Device Offline",
+  "deviceStateConnecting": "Device Connecting",
+  "deviceStateTapToConnect": "Tap the screen to reconnect",
+
+  "deviceHost": "Host Device",
+  "deviceQrCode": "Device QR Code",
+  "deviceSwitchIP": "Switch IP",
+  "deviceMultipleIP": "Multiple IPs detected",
+
+  "deviceEditName": "Edit Name",
+  "deviceDiscover": "Device Discovery",
+  "deviceRemoteControl": "Remote Control",
+  "deviceToken": "Device Token",
+  "deviceTokenTips": "Devices with the same token will discover each other",
+
+  "deviceConnected": "Connected Devices",
+  "deviceSaved": "Saved Devices",
+  "deviceSavedEmpty": "No saved devices",
+  "deviceAvailable": "Available Devices",
+  "deviceAvailableEmpty": "No available devices",
+
+  "deviceAdd": "Add Device",
+
+  "deviceAddStep1": "1. Click the `Traffic` menu -> `Device` -> `Device QR Code`, or open the `Device` sidebar and click the QR Code icon on your desktop app.",
+  "deviceAddStep2": "2. Scan the QR code displayed on the desktop app, or input address manually.",
+  "deviceAddStep3": "3. Wait for device connection and data synchronization to complete.",
+  "deviceAddTips1": "If multiple IPs are detected on the desktop, please manually select the IP address in the same LAN as the mobile.",
+  "deviceAddTips2": "Windows desktop needs to set the network type to private network instead of public network in system settings.",
+  "deviceAddTips3": "Please ensure Settings -> Privacy -> Local Network -> Reqable is enabled.",
+
+  "deviceCollaborationMyQrcode": "Collaboration QR-code",
+  "deviceCollaborationNoAddressTips": "No valid IP address",
+  "deviceCollaborationMobileTips": "When forwarding traffic from other devices to current, it is recommended to turn off VPN mode.",
+
+  "deviceConnecting": "Connecting...",
+  "deviceConnectFailedMessage": "Connection failed, please check your device network status and try again!",
+  "deviceSyncing": "Syncing...",
+  "deviceSyncFailedMessage": "Sync failed, please check your device network status and try again!",
+
+  "deviceManagement": "Device Management",
+
+  "deviceInvalidQrcode": "Invalid qrcode!",
+  "deviceSyncConnecting": "Connecting...",
+  "deviceQrcodePrepareMessage": "You are about to enter the QR code scanning page, please open the QR code on the Reqable desktop.",
+  "deviceCertificateWarningNotSame": "The device uses a different root certificate than the current application. It is recommended to keep it consistent!",
+  "deviceCertificateWarningNotInstall": "The device's root certificate is not installed, which will cause network connections to fail!",
+  "deviceCertificateWarningNotTrust": "The device's root certificate is not installed into the system certificate directory, which may cause some network connections to fail!",
+  "deviceInputAddress": "Input Network Address",
+  "deviceInputAddressTips": "Please enter the device's IP address and port number.",
+  "deviceInfo": "Device Info",
+  "deviceDeleteAlertMessage": "Are you sure to delete this device? You need to scan the QR code again to add this device!",
+  "deviceSyncCertificate": "Sync Certificate",
+  "deviceSyncCertificateAlertMessage": "Do you confirm to synchronize the CA certificate of this device to the mobile? This will replace the existing CA certificate of this app!",
+  "deviceSyncApiData": "Sync API Data",
+  "deviceSyncApiDataAlertMessage": "Do you confirm to synchronize the API collections and environments of this device to the mobile? This will replace all the current data!",
+  "deviceSyncDone": "Synchronization completed!",
+  "deviceSyncError": "Synchronization failed!",
+
+  "deviceUpgrade325Tips": "The version of {platform} Reqable is lower than 3.2.5, which may cause some features to be unavailable, please upgrade to the latest version!",
+
+  "deviceCertificateStatus": "Root Certificate Status",
+  "deviceCertificateNotMatch": "Different root certificate from this app",
+  "deviceCertificateMatched": "Same root certificate as this app",
+  "deviceCertificateStatusNotInstall": "This root certificate is not installed on the mobile",
+  "deviceCertificateStatusInstalled": "This root certificate has been installed on the mobile",
+  "deviceCertificateStatusSystemInstalled": "This root certificate has been installed on the system",
+  "deviceCertificateStatusUserInstalled": "This root certificate has been installed as a user certificate",
+  "deviceCertificateStatusUnknown": "Unknown root certificate installation state"
+}

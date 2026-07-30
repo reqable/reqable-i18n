@@ -1,0 +1,9 @@
+{
+  "charlesAppHome": "Inicio de Charles App",
+  "charlesAppHomeSetup": "Configurar inicio de Charles App",
+  "charlesAppHomeSetupFailed": "Error al encontrar la herramienta de línea de comandos de Charles",
+  "charlesAppHomeSetupOk": "La ruta de inicio de Charles App es válida",
+  "charlesFileConvertTips": "Reqable no puede analizar el formato de archivo de Charles y necesita usar la herramienta de línea de comandos de Charles para convertirlo a formato har.",
+  "charlesFileConvertFailed": "¡Error al convertir Charles Session a HAR!",
+  "charlesFileConverting": "Convirtiendo archivo de Charles Session..."
+}

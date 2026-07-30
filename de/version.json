@@ -1,0 +1,16 @@
+{
+  "versionApp": "App-Version",
+  "versionUpdateTitle": "Neue Version",
+  "versionReleaseDate": "Erscheinungsdatum: {date}",
+  "versionNewUpdates": "{count} Neue Updates",
+  "versionUpdateNow": "Jetzt aktualisieren",
+  "versionUpdateNoDescription": "Keine Änderungsprotokolle.",
+  "versionUpdateDownloading": "Wird heruntergeladen...",
+  "versionUpdateInstallError": "Das Installationsprogramm kann nicht gestartet werden. Bitte manuell installieren!",
+  "versionNew": "Neue Version",
+  "versionUpdateTipStrategyNone": "Niemals",
+  "versionUpdateTipStrategyMajorVersion": "Großes Update",
+  "versionUpdateTipStrategyMinorVersion": "Kleineres Update",
+  "versionUpdateTipStrategyEveryVersion": "Jedes Update",
+  "versionDownloadPkgError": "Das Herunterladen des Installationspakets ist fehlgeschlagen. Bitte versuchen Sie es erneut"
+}

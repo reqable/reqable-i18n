@@ -1,0 +1,34 @@
+{
+  "premiumUpgrade": "Passer à Premium",
+  "premiumBillingType": "Formule",
+  "premiumBillingTypeMonthly": "Mensuel",
+  "premiumBillingTypeMonthlyDescription": "Valable 30 jours",
+  "premiumBillingTypeYearly": "Annuel",
+  "premiumBillingTypeYearlyDescription": "Valable 1 an",
+  "premiumBillingTypeLifetime": "À vie",
+  "premiumBillingTypeLifetimeDescription": "Valable à vie",
+  "premiumPurchaseTips": "%1 Premium est disponible sur toutes les plateformes, toutes les mises à jour futures et jusqu'à 6 appareils. En achetant premium, vous acceptez nos %2.",
+  "premiumPurchase": "Acheter",
+  "premiumProductLoading": "Chargement du produit...",
+  "premiumProductLoadError": "Échec de chargement, appuyez pour réessayer",
+  "premiumPurchaseEmailTip": "Reçu envoyé à cet e-mail. Utilisez-le aussi pour vos privilèges premium sur d'autres plateformes.",
+  "premiumPurchaseEmailRegistered": "E-mail déjà enregistré, connectez-vous pour acheter.",
+  "premiumPurchaseEmailRegisterError": "Échec d'achat avec cet e-mail, réessayez plus tard.",
+  "premiumPurchaseHasLifetime": "Vous avez déjà un abonnement à vie.",
+  "premiumPurchaseOrderSubmitError": "Échec de soumission, réessayez plus tard.",
+  "premiumPurchaseOrderPayCancel": "Le paiement a été annulé.",
+  "premiumPurchaseOrderPayError": "Échec du paiement.",
+  "premiumPurchasing": "Achat en cours...",
+  "premiumPurchaseResultChecking": "Vérification du paiement...",
+  "premiumPurchasePaymentNotVerified": "Désolé, impossible de vérifier le paiement ! Si vous avez payé mais que le premium n'a pas été crédité depuis longtemps, veuillez contacter payment@reqable.com.",
+  "premiumPurchaseOrderStateError": "Désolé, le statut de la commande est invalide ! Si vous avez payé mais n'avez pas reçu de remboursement, veuillez contacter payment@reqable.com.",
+  "premiumPurchaseNotUpgrade": "Désolé, échec du passage à premium ! Si vous avez payé mais n'avez pas reçu de remboursement, veuillez contacter payment@reqable.com.",
+
+  "premiumRequirementTypeAdvancedFeature": "Fonction premium. Connectez-vous et passez à premium.",
+  "premiumRequirementTypeReachedLimit": "Quota gratuit atteint. Connectez-vous et passez à premium.",
+  "premiumRequirementTypeExceedLimit": "Quota gratuit dépassé. Connectez-vous et passez à premium.",
+
+  "licenseMigrationNotificationTitle": "Guide de migration de licence",
+  "licenseMigrationNotificationMessage": "En savoir plus sur la migration de votre clé de licence vers premium."
+
+}

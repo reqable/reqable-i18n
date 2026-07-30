@@ -1,0 +1,26 @@
+{
+  "slogan": "Make API Faster and Simpler",
+
+  "eula": "License Agreement",
+  "eulaAccepted": "Accepted",
+
+  "workModes": "Work Modes",
+  "workModeStandalone": "Standalone Mode",
+  "workModeStandaloneDescription": "Only for standalone use on mobile phone.",
+  "workModeStandaloneDescriptionMore": "By using the Reqable mobile app exclusively, an independent CA certificate will be generated. Also, you can add other collaborative devices later as needed.",
+  "workModeCollaboration": "Collaborative Mode (*)",
+  "workModeCollaborationDescription": "Works together with the Reqable desktop app.",
+  "workModeCollaborationDescriptionMore": "Add a desktop device as the collaborative device, share CA certificates, and use Reqable desktop app to analyze and manipulate mobile network traffic.",
+  "workModeCollaborationSetup": "Mobile Collaboration Setup",
+  "workModeCollaborationScanTitle": "Scan with Mobile App",
+  "workModeCollaborationAutoCloseQrcode": "Automatic Dismiss",
+  "workModeOnlyApi": "API Testing",
+  "workModeOnlyApiDescription": "Classic REST API testing scenario.",
+  "workModeOnlyTraffic": "Traffic Capture",
+  "workModeOnlyTrafficDescription": "Capture and analyze traffic via MITM proxy.",
+  "workModeAll": "All the above",
+  "workModeAllDescription": "I need all the features above.",
+  "workModeOptions": "Mode Options",
+  "workModeTips": "Selecting a mode will only affect the initial configuration, and you can still use other features."
+
+}

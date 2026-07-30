@@ -1,0 +1,15 @@
+{
+  "cookieJar": "Cookie-Jar",
+  "cookieEdit": "Cookie bearbeiten",
+  "cookieAdd": "Cookie hinzufügen",
+  "cookieName": "Name",
+  "cookieValue": "Wert",
+  "cookieDomain": "Domäne",
+  "cookiePath": "Pfad",
+  "cookieExpires": "Läuft ab",
+  "cookieSecure": "Sicher",
+  "cookieHttpOnly": "HttpOnly",
+  "cookieDeleteAlertMessage": "Sind Sie sicher, dass Sie %1 dauerhaft löschen möchten?",
+  "cookieNone": "Es gibt kein Cookie.",
+  "cookieTextEditingHint": "Cookies werden durch Zeilenumbruch getrennt\nNamen und Werte werden durch : getrennt"
+}

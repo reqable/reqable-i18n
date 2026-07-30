@@ -1,0 +1,18 @@
+{
+  "scriptCodeTemplate": "Plantilla de script",
+  "scriptCodeTemplateDefault": "Plantilla predeterminada",
+  "scriptCodeTemplateMinimal": "Plantilla mínima",
+  "scriptCodeTemplateRepo": "Repositorio de plantillas",
+  "scriptCodeTemplateMime": "Mis plantillas",
+  "scriptCodeTemplateSaveAs": "Guardar como plantilla",
+  "scriptCodeTemplateSaved": "Plantilla guardada",
+  "scriptCodeTemplateReplaceWarningMessage": "La plantilla %1 ya existe, ¿está seguro de que desea sobrescribirla?",
+  "scriptCodeTemplateDeleteWarningMessage": "¿Está seguro de que desea eliminar permanentemente la plantilla %1?",
+  "scriptCodeTemplateUpdateDate": "Actualizado en %1",
+  "scriptCodeTemplateFork": "Bifurcar plantilla",
+  "scriptCodeReset": "Restablecer código",
+  "scriptCodeSelectionIndicator1": "Ln %1, Col %2",
+  "scriptCodeSelectionIndicator2": "Ln %1, Col %2 (%3 seleccionados)",
+  "scriptCodeExport": "Exportar script",
+  "scriptCodeImport": "Importar script"
+}

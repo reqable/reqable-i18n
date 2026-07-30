@@ -1,0 +1,11 @@
+{
+  "debugLogger": "로그",
+  "debugLoggerLevelDebug": "디버그",
+  "debugLoggerLevelInfo": "정보",
+  "debugLoggerLevelWarning": "경고",
+  "debugLoggerLevelError": "오류",
+  "debugLoggerFileNotFound": "로그 파일이 삭제되었습니다!",
+  "debugLoggerFileTooLarge": "파일이 너무 커서 열 수 없습니다!",
+  "debugLoggerOpenFolder": "디렉토리 열기",
+  "debugLoggerExport": "파일 내보내기"
+}

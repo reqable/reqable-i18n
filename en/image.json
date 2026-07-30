@@ -1,0 +1,6 @@
+{
+  "imageViewer": "Image Viewer",
+  "imageShowBorder": "Show Border",
+  "imageSize": "Size: ",
+  "imageDecodeError": "Failed to decode image data"
+}

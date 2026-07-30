@@ -1,0 +1,16 @@
+{
+  "shareApp": "앱 공유",
+  "shareAppMessage": "Reqable은 차세대 API 디버깅 + 테스트 통합 도구입니다. 새로운 API 세계를 경험해보세요: %1",
+
+  "introduceDesktopBanner": "데스크톱 버전",
+  "introduceDesktopTitle": "데스크톱 앱 소개",
+
+  "reviewApp": "앱 평가",
+  "reviewRequestMessage": "Reqable을 이용해 주셔서 감사합니다. 저희 앱이 도움이 되셨다면 앱 스토어에서 평가를 남겨주세요!",
+  "reviewReject": "나중에",
+  "reviewApprove": "격려하기",
+
+  "drawerTabs": "탭",
+  "drawerTools": "기능",
+  "drawerOthers": "기타"
+}

@@ -1,0 +1,34 @@
+{
+  "historyRest": "API",
+  "historyTraffic": "通信",
+  "historyEmpty": "履歴は空です",
+  "historyClearAlertMessage": "すべての履歴を完全に削除してもよろしいですか？",
+  "historyClearAlertMessage2": "すべての履歴（スター付きを除く）を完全に削除してもよろしいですか？",
+  "historyDeleteAlertMessage": "履歴 %1 を完全に削除してもよろしいですか？",
+  "historyDeleteRecordsAlertMessage": "選択した履歴を削除してもよろしいですか？削除後は復元できません！",
+
+  "historySettings": "キャッシュ設定",
+
+  "historyRestTimelineMode": "タイムラインモード",
+  "historyRestUrlMode": "URLモード",
+  "historyRestRestoreMessage": "このセッションを復元してもよろしいですか？この操作により現在のリクエストデータが上書きされます！",
+
+  "historyCaptureSessionInfo": "レコード数：%1  期間：%2",
+  "historyCaptureAddStar": "スターを追加",
+  "historyCaptureRemoveStar": "スターを削除",
+
+  "historyCacheDuration": "キャッシュ期間",
+  "historyCacheDurationTips": "* 履歴データをデバイスに保存する期間を設定します。期限切れ後は自動的に削除されます。",
+  "historyCacheIncognitoMode": "プライバシーモード",
+  "historyCacheIncognitoModeTips": "* プライバシーモードをオンにすると、データは履歴に保存されません。",
+
+  "historyCleanNotificationTitle": "履歴をクリーンアップ",
+  "historyCleanNotificationMessage": "履歴データのストレージ使用量が多すぎることが検出されました。今すぐクリーンアップしますか？",
+  "historyCleanNotificationText": "クリーンアップ",
+
+  "cacheDurationDays3": "3日",
+  "cacheDurationDays7": "7日",
+  "cacheDurationDays30": "30日",
+  "cacheDurationDaysForever": "永久",
+  "cacheDurationTemporary": "一時的"
+}

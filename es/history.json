@@ -1,0 +1,36 @@
+{
+  "historyRest": "REST",
+  "historyTraffic": "Tráfico",
+  "historyEmpty": "El historial está vacío",
+  "historyClearAlertMessage": "¿Está seguro de que desea eliminar permanentemente todo el historial?",
+  "historyClearAlertMessage2": "¿Está seguro de que desea eliminar permanentemente todos los registros del historial (excepto los destacados)?",
+  "historyDeleteAlertMessage": "¿Está seguro de que desea eliminar permanentemente el historial %1?",
+  "historyDeleteRecordsAlertMessage": "¿Está seguro de que desea eliminar permanentemente los registros seleccionados?",
+
+  "historySettings": "Configuración de caché",
+
+  "historyRestTimelineMode": "Modo línea de tiempo",
+  "historyRestUrlMode": "Modo URL",
+  "historyRestRestoreMessage": "¿Está seguro de que desea restaurar esta sesión? ¡La solicitud actual se sobrescribirá!",
+
+  "historyCaptureSessionInfo": "Registros: %1  Duración: %2",
+  "historyCaptureAddStar": "Agregar estrella",
+  "historyCaptureRemoveStar": "Quitar estrella",
+
+  "historyCacheDuration": "Duración de caché",
+  "historyCacheDurationTips": "* Establezca la duración durante la cual los datos del historial se almacenan en el dispositivo. Los datos caducados se eliminarán automáticamente.",
+
+  "historyCacheIncognitoMode": "Modo incógnito",
+  "historyCacheIncognitoModeTips": "* Cuando el modo incógnito está habilitado, los datos no se guardarán en el historial.",
+
+  "historyCleanNotificationTitle": "Limpiar historial",
+  "historyCleanNotificationMessage": "El espacio de almacenamiento del historial es demasiado grande. ¿Desea limpiarlo ahora?",
+  "historyCleanNotificationText": "Ir a limpiar",
+
+  "cacheDurationDays3": "3 días",
+  "cacheDurationDays7": "7 días",
+  "cacheDurationDays30": "30 días",
+  "cacheDurationDaysForever": "Para siempre",
+  "cacheDurationTemporary": "Temporal"
+
+}

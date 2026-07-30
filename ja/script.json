@@ -1,0 +1,18 @@
+{
+  "scriptCodeTemplate": "スクリプトテンプレート",
+  "scriptCodeTemplateDefault": "デフォルトテンプレート",
+  "scriptCodeTemplateMinimal": "ミニマルテンプレート",
+  "scriptCodeTemplateRepo": "テンプレートリポジトリ",
+  "scriptCodeTemplateMime": "マイテンプレート",
+  "scriptCodeTemplateSaveAs": "テンプレートとして保存",
+  "scriptCodeTemplateSaved": "テンプレートが保存されました！",
+  "scriptCodeTemplateReplaceWarningMessage": "テンプレート %1 は既に存在します。上書きしてもよろしいですか？",
+  "scriptCodeTemplateDeleteWarningMessage": "テンプレート %1 を削除してもよろしいですか？この操作は元に戻せません！",
+  "scriptCodeTemplateUpdateDate": "%1 に更新",
+  "scriptCodeTemplateFork": "テンプレートをFork",
+  "scriptCodeReset": "スクリプトをリセット",
+  "scriptCodeSelectionIndicator1": "行%1, 列%2",
+  "scriptCodeSelectionIndicator2": "行%1, 列%2（選択%3）",
+  "scriptCodeExport": "スクリプトをエクスポート",
+  "scriptCodeImport": "スクリプトをインポート"
+}

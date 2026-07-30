@@ -1,0 +1,12 @@
+{
+  "timedateFormatFuture": "未来",
+  "timedateFormatJustNow": "刚刚",
+  "timedateFormatMinutesAgo": "%1 分钟前",
+  "timedateFormatHoursAgo": "%1 小时前",
+  "timedateFormatDaysAgo": "%1 天前",
+  "timedateFormatYearsAgo": "%1 年前",
+  "timedateFormatToday": "今天",
+  "timedateFormatYesterday": "昨天",
+
+  "timedateFormat": "格式化时间戳"
+}

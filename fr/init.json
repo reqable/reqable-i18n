@@ -1,0 +1,26 @@
+{
+  "slogan": "Rendre les API plus rapides et plus simples",
+
+  "eula": "Contrat de licence",
+  "eulaAccepted": "Accepté",
+
+  "workModes": "Modes",
+  "workModeStandalone": "Autonome",
+  "workModeStandaloneDescription": "Uniquement pour une utilisation autonome sur téléphone mobile.",
+  "workModeStandaloneDescriptionMore": "En utilisant exclusivement l'application mobile Reqable, un certificat CA indépendant sera généré. Vous pouvez également ajouter d'autres appareils collaboratifs ultérieurement selon vos besoins.",
+  "workModeCollaboration": "Collaboratif (*)",
+  "workModeCollaborationDescription": "Fonctionne avec l'application de bureau Reqable.",
+  "workModeCollaborationDescriptionMore": "Ajoutez un appareil de bureau comme appareil collaboratif, partagez les certificats CA et utilisez l'application de bureau Reqable pour analyser et manipuler le trafic réseau mobile.",
+  "workModeCollaborationSetup": "Configuration de la collaboration mobile",
+  "workModeCollaborationScanTitle": "Scanner avec l'application mobile",
+  "workModeCollaborationAutoCloseQrcode": "Fermeture automatique",
+  "workModeOnlyApi": "Test d'API",
+  "workModeOnlyApiDescription": "Scénario classique de test d'API REST.",
+  "workModeOnlyTraffic": "Capture de trafic",
+  "workModeOnlyTrafficDescription": "Capturez et analysez le trafic via proxy MITM.",
+  "workModeAll": "Tout ce qui précède",
+  "workModeAllDescription": "J'ai besoin de toutes les fonctionnalités ci-dessus.",
+  "workModeOptions": "Options",
+  "workModeTips": "La sélection d'un mode n'affectera que la configuration initiale, et vous pourrez toujours utiliser les autres fonctionnalités."
+
+}
