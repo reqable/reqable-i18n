@@ -1,49 +1,39 @@
 {
   "deviceName": "Nom de l'appareil",
   "deviceUnknown": "Appareil inconnu",
-
   "deviceStateOnline": "Appareil en ligne",
   "deviceStateOffline": "Appareil hors ligne",
   "deviceStateConnecting": "Appareil en connexion",
   "deviceStateTapToConnect": "Appuyez sur l'écran pour reconnecter",
-
   "deviceHost": "Appareil hôte",
   "deviceQrCode": "QR code de l'appareil",
   "deviceSwitchIP": "Changer d'IP",
   "deviceMultipleIP": "Plusieurs IP détectées",
-
   "deviceEditName": "Modifier le nom",
   "deviceDiscover": "Découverte d'appareils",
   "deviceRemoteControl": "Contrôle à distance",
-  "deviceToken": "Jeton d'appareil",
-  "deviceTokenTips": "Les appareils avec le même jeton se découvriront mutuellement",
-
+  "deviceToken": "Token d'appareil",
+  "deviceTokenTips": "Les appareils avec le même token se découvriront mutuellement",
   "deviceConnected": "Appareils connectés",
   "deviceSaved": "Appareils enregistrés",
   "deviceSavedEmpty": "Aucun appareil enregistré",
   "deviceAvailable": "Appareils disponibles",
   "deviceAvailableEmpty": "Aucun appareil disponible",
-
   "deviceAdd": "Ajouter appareil",
-
   "deviceAddStep1": "1. Cliquez sur le menu `Trafic` -> `Appareil` -> `QR code de l'appareil`, ou ouvrez la barre latérale `Appareil` et cliquez sur l'icône QR code sur votre application de bureau.",
   "deviceAddStep2": "2. Scannez le QR code affiché sur l'application de bureau, ou saisissez l'adresse manuellement.",
   "deviceAddStep3": "3. Attendez la connexion de l'appareil et la synchronisation des données.",
   "deviceAddTips1": "Si plusieurs IP sont détectées sur le bureau, veuillez sélectionner manuellement l'adresse IP dans le même réseau local que le mobile.",
   "deviceAddTips2": "Le bureau Windows doit définir le type de réseau sur réseau privé au lieu de réseau public dans les paramètres système.",
   "deviceAddTips3": "Assurez-vous que Réglages -> Confidentialité -> Réseau local -> Reqable est activé.",
-
   "deviceCollaborationMyQrcode": "QR code de collaboration",
   "deviceCollaborationNoAddressTips": "Aucune adresse IP valide",
   "deviceCollaborationMobileTips": "Lors du transfert du trafic d'autres appareils vers l'appareil actuel, il est recommandé de désactiver le mode VPN.",
-
   "deviceConnecting": "Connexion...",
   "deviceConnectFailedMessage": "Échec de la connexion, veuillez vérifier l'état du réseau de votre appareil et réessayer !",
   "deviceSyncing": "Synchronisation...",
   "deviceSyncFailedMessage": "Échec de la synchronisation, veuillez vérifier l'état du réseau de votre appareil et réessayer !",
-
   "deviceManagement": "Gestion des appareils",
-
   "deviceInvalidQrcode": "QR code invalide !",
   "deviceSyncConnecting": "Connexion...",
   "deviceQrcodePrepareMessage": "Vous allez entrer sur la page de scan de QR code, veuillez ouvrir le QR code sur le bureau Reqable.",
@@ -56,13 +46,11 @@
   "deviceDeleteAlertMessage": "Supprimer cet appareil ? Vous devrez rescanner le QR code pour l'ajouter à nouveau !",
   "deviceSyncCertificate": "Sync certificat",
   "deviceSyncCertificateAlertMessage": "Confirmez-vous la synchronisation du certificat CA de cet appareil vers le mobile ? Cela remplacera le certificat CA existant de cette application !",
-  "deviceSyncApiData": "Sync données API",
+  "deviceSyncApiData": "Sync API",
   "deviceSyncApiDataAlertMessage": "Confirmez-vous la synchronisation des collections API et des environnements de cet appareil vers le mobile ? Cela remplacera toutes les données actuelles !",
   "deviceSyncDone": "Synchronisation terminée !",
   "deviceSyncError": "Échec de la synchronisation !",
-
   "deviceUpgrade325Tips": "La version de {platform} Reqable est inférieure à 3.2.5, ce qui peut rendre certaines fonctionnalités indisponibles, veuillez mettre à niveau vers la dernière version !",
-
   "deviceCertificateStatus": "Statut du certificat racine",
   "deviceCertificateNotMatch": "Certificat racine différent de cette application",
   "deviceCertificateMatched": "Même certificat racine que cette application",

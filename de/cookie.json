@@ -7,7 +7,7 @@
   "cookieDomain": "Domäne",
   "cookiePath": "Pfad",
   "cookieExpires": "Läuft ab",
-  "cookieSecure": "Sicher",
+  "cookieSecure": "Secure",
   "cookieHttpOnly": "HttpOnly",
   "cookieDeleteAlertMessage": "Sind Sie sicher, dass Sie %1 dauerhaft löschen möchten?",
   "cookieNone": "Es gibt kein Cookie.",

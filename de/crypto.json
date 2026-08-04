@@ -1,5 +1,5 @@
 {
-  "cryptoPadding": "Polsterung",
+  "cryptoPadding": "Padding",
   "cryptoKeyLength": "Schlüssellänge",
   "cryptoKey": "Schlüssel",
   "cryptoKeyHint": "Geben Sie Ihren geheimen Schlüssel ein",

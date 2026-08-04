@@ -6,7 +6,7 @@
   "websocketShowControlFrame": "Kontrollrahmen anzeigen",
   "sseStat": "Ereignis %1",
   "sseNotSupportPreview": "Vorschau wird nicht unterstützt",
-  "sseExtractorSetup": "Setup-Extraktor",
+  "sseExtractorSetup": "Einrichten",
   "sseExtractor": "SSE-Extraktoren",
   "sseExtractorEdit": "Extraktor bearbeiten",
   "sseExtractorInvalid": "Ungültiger JSON-Pfad",

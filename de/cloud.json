@@ -25,7 +25,7 @@
   "cloudDataUsageRule": "Regeln",
   "cloudDataUsageOther": "Andere",
   "cloudDataUsageMoreSpace": "Mehr Platz?",
-  "cloudDataUsageLimitWarningNotificationTitle": "Der Wolkenraum nähert sich dem Limit",
+  "cloudDataUsageLimitWarningNotificationTitle": "Cloud-Speicherplatz nähert sich dem Limit",
   "cloudDataUsageLimitWarningNotificationMessage": "Ihr Cloud-Speicherplatz geht zur Neige. Bitte erwägen Sie ein Upgrade oder die Bereinigung unnötiger Daten.",
   "cloudDataUsageLimitReachedNotificationTitle": "Das Cloud-Speicherplatzlimit wurde erreicht",
   "cloudDataUsageLimitReachedNotificationMessage": "Ihr Cloud-Speicherplatzlimit wurde erreicht. Bitte erwägen Sie ein Upgrade oder die Bereinigung unnötiger Daten."

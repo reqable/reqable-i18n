@@ -31,13 +31,11 @@
   "environmentTooltip": "Entorno: %1",
   "environmentNone": "Sin entorno",
   "environmentDeleteAlertMessage": "¿Está seguro de que desea eliminar permanentemente el entorno %1?",
-
   "environmentNameRequired": "El nombre es obligatorio",
-
   "environmentDynamicVariableDate": "Fecha y hora actual (yyyy-MM-dd) en la zona horaria local.",
   "environmentDynamicVariableDateTime": "Fecha y hora actual (yyyy-MM-dd HH:mm:ss) en la zona horaria local.",
   "environmentDynamicVariableGuid": "Un guid estilo v4.",
-  "environmentDynamicVariableRandomBoolean": "Un valor booleano aleatorio (verdadero/falso).",
+  "environmentDynamicVariableRandomBoolean": "Un valor booleano aleatorio (true/false).",
   "environmentDynamicVariableRandomColor": "Un nombre de color aleatorio.",
   "environmentDynamicVariableRandomCurrencyCode": "Un código de moneda aleatorio de 3 letras (ISO-4217).",
   "environmentDynamicVariableRandomCurrencyName": "Un nombre de moneda aleatorio.",
@@ -67,8 +65,6 @@
   "environmentDynamicVariableTimestampInSeconds": "La marca de tiempo actual en segundos.",
   "environmentDynamicVariableTimestampISO": "La marca de tiempo ISO actual en UTC cero.",
   "environmentDynamicVariableReqablePort": "El número de puerto del servidor proxy de Reqable.",
-
   "environmentSaveChanges": "Guardar cambios",
   "environmentSaveChangesMessage": "¿Desea guardar los cambios? ¡Sus cambios se perderán si no los guarda!"
-
 }

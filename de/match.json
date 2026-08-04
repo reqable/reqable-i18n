@@ -1,6 +1,6 @@
 {
-  "wildcardEnabled": "Platzhalter aktiviert",
-  "wildcardDisabled": "Platzhalter deaktiviert",
+  "wildcardEnabled": "Wildcard aktiviert",
+  "wildcardDisabled": "Wildcard deaktiviert",
   "regexEnabled": "Regex aktiviert",
   "regexDisabled": "Regex deaktiviert"
 }

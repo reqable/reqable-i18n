@@ -13,7 +13,6 @@
   "settingsCheckUpdate": "Vérifier les mises à jour",
   "settingsFeatures": "Fonctions",
   "settingsFeaturesInfo": "Quelques fonctionnalités globales",
-
   "settingsUiUx": "UI & UX",
   "settingsUiUxInfo": "Quelques options UI & UX",
   "settingsSwipeDelete": "Glisser-supprimer",
@@ -37,7 +36,6 @@
   "settingsPreferCreateHttpTips": "Lorsque vous cliquez sur le bouton `+` de la barre d'onglets pour créer une nouvelle API, créez directement une requête HTTP au lieu de développer le menu d'options. Après avoir activé cette option, le menu sera disponible via un clic droit.",
   "settingsVersionUpdateTipStrategy": "Conseils de mise à jour de version",
   "settingsVersionUpdateTipStrategyDescription": "Configurez la politique de notification lorsqu'une nouvelle version est détectée.",
-
   "settingsPrivacy": "Confidentialité",
   "settingsPrivacyTips": "Aidez à améliorer Reqable en envoyant automatiquement des données d'utilisation. Les données d'utilisation sont collectées anonymement et ne peuvent pas être utilisées pour vous identifier.",
   "settingsPrivacyShareAnalytics": "Partager les analyses",

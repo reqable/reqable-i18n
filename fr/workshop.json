@@ -7,13 +7,11 @@
   "tabCloseRightForce": "Forcer la fermeture à droite",
   "tabCloseAll": "Tout fermer",
   "tabCloseAllForce": "Forcer la fermeture de tout",
-
   "workshopCreateHttp": "Nouveau HTTP",
   "workshopCreateWebSocket": "Nouveau WebSocket",
   "workshopImportFromCurl": "Importer depuis cURL",
   "workshopImportFromClipboard": "Importer presse-papiers",
-  "workshopImportFromRaw": "Importer depuis le brut",
-
+  "workshopImportFromRaw": "Importer depuis Raw",
   "workshopOpenFileFailed": "Échec de l'ouverture du fichier : ",
   "workshopWorkTypeLive": "Trafic",
   "workshopCloseOtherTabs": "Fermer les autres",

@@ -18,7 +18,7 @@
   "historyCacheIncognitoMode": "Inkognito-Modus",
   "historyCacheIncognitoModeTips": "* Wenn der Inkognito-Modus aktiviert ist, werden Daten nicht im Verlauf gespeichert.",
   "historyCleanNotificationTitle": "Verlauf bereinigen",
-  "historyCleanNotificationMessage": "Der Speicherplatz für Verlaufsdaten ist zu groß. Möchten Sie es jetzt reinigen?",
+  "historyCleanNotificationMessage": "Der Speicherplatz für Verlaufsdaten ist zu groß. Möchten Sie ihn jetzt bereinigen?",
   "historyCleanNotificationText": "Gehe zu Bereinigen",
   "cacheDurationDays3": "3 Tage",
   "cacheDurationDays7": "7 Tage",

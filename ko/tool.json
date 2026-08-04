@@ -10,7 +10,6 @@
   "toolUriEncodeHint": "인코딩할 텍스트를 입력하세요",
   "toolUriDecodeHint": "디코딩할 텍스트를 입력하세요",
   "toolUriCodecType": "입력 유형",
-  "toolUriCodecTypeFull": "URL",
   "toolUriInvalidInput": "유효하지 않은 입력 형식입니다!",
 
   "toolJwtDecodeError": "입력 내용을 구문 분석할 수 없습니다",

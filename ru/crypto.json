@@ -1,5 +1,5 @@
 {
-  "cryptoPadding": "Дополнение",
+  "cryptoPadding": "Padding",
   "cryptoKeyLength": "Длина ключа",
   "cryptoKey": "Ключ",
   "cryptoKeyHint": "Введите секретный ключ",
@@ -30,6 +30,5 @@
   "cryptoAesGcmNonceMissing": "Введите nonce!",
   "cryptoAesGcmNonceInvalid": "Не удалось разобрать nonce!",
   "cryptoFileTooLarge": "Слишком большие данные, сохраните в файл!",
-
   "cryptoHashHint": "Сообщение для хеширования"
 }

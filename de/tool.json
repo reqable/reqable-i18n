@@ -17,7 +17,7 @@
   "toolUnicodeEncodeHint": "Geben Sie hier einen Text ein",
   "toolUnicodeDecodeHint": "Geben Sie hier Unicodes ein",
   "toolQrcodeInputHint": "Text eingeben",
-  "toolQrcodeErrorCorrect": "Fehler korrigieren",
+  "toolQrcodeErrorCorrect": "Fehlerkorrektur",
   "toolQrcodeGenerateError": "QRcode konnte nicht generiert werden!",
   "toolTimestampFormat": "Formatmodus",
   "toolTimestampParse": "Parse-Modus",
@@ -55,5 +55,5 @@
   "toolRegexResultMatchNone": "Keine Treffer",
   "toolRegexResultMatchCount": "Übereinstimmungsanzahl: {count}",
   "toolRegexResultMatchItem": "Übereinstimmung {index} : {value}",
-  "toolRegexReplaceResult": "Ergebnis ersetzen"
+  "toolRegexReplaceResult": "Ersetzungsergebnis"
 }

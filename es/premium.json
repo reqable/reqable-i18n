@@ -1,5 +1,5 @@
 {
-  "premiumUpgrade": "Actualizar a Premium",
+  "premiumUpgrade": "Pasar a Premium",
   "premiumBillingType": "Plan",
   "premiumBillingTypeMonthly": "Mensual",
   "premiumBillingTypeMonthlyDescription": "Válido por 30 días",
@@ -23,12 +23,9 @@
   "premiumPurchasePaymentNotVerified": "¡Lo sentimos, no se puede verificar el pago! Si ha pagado pero premium no se ha activado durante mucho tiempo, contacte a payment@reqable.com.",
   "premiumPurchaseOrderStateError": "¡Lo sentimos, el estado del pedido no es válido! Si ha pagado pero no ha recibido un reembolso, contacte a payment@reqable.com.",
   "premiumPurchaseNotUpgrade": "¡Lo sentimos, error al actualizar a premium! Si ha pagado pero no ha recibido un reembolso, contacte a payment@reqable.com.",
-
   "premiumRequirementTypeAdvancedFeature": "Función avanzada para premium, inicie sesión y actualice a premium.",
   "premiumRequirementTypeReachedLimit": "Alcanzó la cuota gratuita, inicie sesión y actualice a premium.",
   "premiumRequirementTypeExceedLimit": "Excedió la cuota gratuita, inicie sesión y actualice a premium.",
-
   "licenseMigrationNotificationTitle": "Guía de migración de licencia",
   "licenseMigrationNotificationMessage": "Obtenga más información sobre cómo migrar su clave de licencia a premium."
-
 }

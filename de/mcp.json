@@ -7,5 +7,5 @@
   "mcpClientList": "MCP-Clients",
   "mcpClientListEmpty": "Es ist kein Client verbunden.",
   "mcpClientDisconnect": "Trennen",
-  "mcpServerLaunchAt": "Verbunden unter {timestamp}"
+  "mcpServerLaunchAt": "Verbunden am {timestamp}"
 }

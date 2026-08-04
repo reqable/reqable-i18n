@@ -8,7 +8,7 @@
   "scriptCodeTemplateSaved": "Vorlage gespeichert",
   "scriptCodeTemplateReplaceWarningMessage": "Vorlage %1 existiert bereits. Möchten Sie sie wirklich überschreiben?",
   "scriptCodeTemplateDeleteWarningMessage": "Sind Sie sicher, dass Sie die Vorlage %1 dauerhaft löschen möchten?",
-  "scriptCodeTemplateUpdateDate": "Aktualisiert in %1",
+  "scriptCodeTemplateUpdateDate": "Aktualisiert am %1",
   "scriptCodeTemplateFork": "Fork-Vorlage",
   "scriptCodeReset": "Code zurücksetzen",
   "scriptCodeSelectionIndicator1": "Ln %1, Col %2",

@@ -9,7 +9,6 @@
     "toolUriEncodeHint": "請輸入待編碼文字",
     "toolUriDecodeHint": "請輸入待解碼文字",
     "toolUriCodecType": "輸入類型",
-    "toolUriCodecTypeFull": "URL",
     "toolUriInvalidInput": "無效的輸入格式！",
     "toolJwtDecodeError": "無法解析輸入內容",
     "toolJwtCodec": "JWT解碼",

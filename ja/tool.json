@@ -10,7 +10,6 @@
   "toolUriEncodeHint": "エンコードするテキストを入力してください",
   "toolUriDecodeHint": "デコードするテキストを入力してください",
   "toolUriCodecType": "入力タイプ",
-  "toolUriCodecTypeFull": "URL",
   "toolUriInvalidInput": "無効な入力形式です！",
 
   "toolJwtDecodeError": "入力内容を解析できません",

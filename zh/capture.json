@@ -58,7 +58,6 @@
   "captureProxyHelperToolNeedUpgrade": "工具需要更新",
   "captureProxyHelperToolVersion": "（版本 %1）",
   "captureProxyHelperNeedAuthorization": "（需要用户验证）",
-  "captureProxyHelperNetworksetupMode": "当前使用 %1 配置系统代理",
   "captureProxyHelperToolInstallFailure": "安装失败：%1",
   "captureProxyHelperToolUninstallFailure": "卸载失败：%1",
   "captureProxyConfigureMode": "当前使用 %1 配置系统代理。",
@@ -171,10 +170,6 @@
   "captureErrorSSLHandshakeWithClient": "客户端SSL握手失败",
   "captureErrorShutdown": "连接已断开",
 
-  "captureThrownErrorBreakpoint": "断点终止了该请求或响应",
-  "captureThrownErrorScript": "脚本终止了该请求或响应",
-  "captureThrownErrorRewrite": "重写终止了该请求或响应",
-  "captureThrownErrorGateway": "网关终止了该请求或响应",
 
   "captureThrownErrorGatewayBlockRequest": "网关屏蔽了该请求",
   "captureThrownErrorGatewayBlockResponse": "网关屏蔽了该响应",
@@ -237,7 +232,6 @@
   "captureBreakpointMultipartUnsupported": "不支持编辑",
 
   "captureScript": "脚本",
-  "captureScriptManage": "管理脚本",
   "captureScriptList": "脚本列表",
   "captureScriptEnabled": "脚本已启用",
   "captureScriptDisabled": "脚本已禁用",
@@ -269,7 +263,6 @@
   "captureScriptConsoleShowTimestamp": "显示时间戳",
 
   "captureReverseProxy": "反向代理",
-  "captureReverseProxyManage": "管理配置",
   "captureReverseProxyEnabled": "反向代理已启用",
   "captureReverseProxyDisabled": "反向代理已禁用",
   "captureReverseProxyEnableLabel": "启用反向代理",
@@ -296,7 +289,6 @@
   "captureReverseProxyServerError": "运行失败",
 
   "captureSecondaryProxy": "二级代理",
-  "captureSecondaryProxyManage": "管理配置",
   "captureSecondaryProxyEnabled": "二级代理已启用",
   "captureSecondaryProxyDisabled": "二级代理已禁用",
   "captureSecondaryProxyEnableLabel": "启用二级代理",
@@ -337,7 +329,6 @@
   "captureSSLProxyingRuleIsEmpty": "请配置至少一个域名规则！",
 
   "captureAccessControl": "访问控制",
-  "captureAccessControlManage": "管理配置",
   "captureAccessControlEnabled": "访问控制已启用",
   "captureAccessControlDisabled": "访问控制已禁用",
   "captureAccessControlEnableLabel": "启用访问控制",
@@ -359,7 +350,6 @@
   "captureAccessControlIpIsEmpty": "请配置至少一个IP地址！",
 
   "captureNetworkThrottling": "网络限制",
-  "captureNetworkThrottlingManage": "管理配置",
   "captureNetworkThrottlingEnabled": "网络限制已启用",
   "captureNetworkThrottlingDisabled": "网络限制已禁用",
   "captureNetworkThrottlingEnableLabel": "启用网络限制",
@@ -588,7 +578,6 @@
   "captureEnhancedModeNotSupportOnAndroidLowVersion": "无法在Android Q以下设备上关闭增强模式",
 
   "captureReportServer": "报告服务器",
-  "captureReportServerManage": "管理配置",
   "captureReportServerEnabled": "报告服务器已启用",
   "captureReportServerDisabled": "报告服务器已禁用",
   "captureReportServerEnableLabel": "启用报告服务器",

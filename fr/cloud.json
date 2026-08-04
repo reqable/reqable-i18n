@@ -14,10 +14,9 @@
   "cloudSyncRequired": "Sync cloud requise avant cette opération",
   "cloudSyncFromLocalTitle": "Sync local → cloud",
   "cloudSyncFromLocalDescription": "Les données hors ligne locales et les données cloud ne sont pas interopérables. Vous pouvez synchroniser les données hors ligne actuelles vers le cloud.",
-  "cloudSyncFromLocalButtonText": "Sync maintenant",
+  "cloudSyncFromLocalButtonText": "Synchroniser",
   "cloudSyncToLocalModeTips": "Pas de cloud ?",
   "cloudSyncToLocalModeText": "Mode hors ligne",
-
   "cloudDataUsage": "Utilisation du cloud",
   "cloudDataUsageLoadError": "Échec du chargement de l'utilisation des données cloud, veuillez cliquer pour réessayer !",
   "cloudDataUsageRemaining": "Restant",

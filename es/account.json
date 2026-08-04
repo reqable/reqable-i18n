@@ -1,10 +1,7 @@
 {
   "account": "Cuenta",
-
   "accountCenter": "Centro de cuenta",
-
   "accountData": "Datos",
-
   "accountDevices": "Dispositivos",
   "accountDeviceList": "Mis dispositivos",
   "accountDeviceLoadFailed": "Error al cargar dispositivos, haga clic para reintentar",
@@ -13,15 +10,13 @@
   "accountDeviceDeleteSuccess": "Dispositivo eliminado exitosamente",
   "accountDeviceDeleteFailed": "Error al eliminar dispositivo",
   "accountDeviceCurrent": "Dispositivo actual",
-
   "accountDataSource": "Fuente de datos",
   "accountLocalData": "Almacenamiento local",
   "accountCloudData": "Almacenamiento en la nube",
   "accountDataSourceSwitch": "Cambiar",
   "accountDataSourceSwitchAlertMessage": "Los datos fuera de línea y los datos en la nube no son interoperables. Cambiar la fuente de datos resultará en la pérdida de los cambios no guardados. ¿Está seguro de cambiar?",
-  "accountLocalDataDescription": "Los datos no se subirán a la nube y solo se pueden acceder y editar en el dispositivo actual (incluso sin iniciar sesión).",
-  "accountCloudDataDescription": "Los datos se sincronizarán con la nube y se pueden acceder y editar en tiempo real en múltiples dispositivos.",
-
+  "accountLocalDataDescription": "Los datos no se subirán a la nube y solo se pueden consultar y editar en el dispositivo actual (incluso sin iniciar sesión).",
+  "accountCloudDataDescription": "Los datos se sincronizarán con la nube y se pueden consultar y editar en tiempo real en múltiples dispositivos.",
   "accountDelete": "Eliminación de cuenta",
   "accountDeleteTitle": "Eliminar cuenta de Reqable",
   "accountDeleteTips": "Eliminar su cuenta tiene los siguientes riesgos:",
@@ -33,7 +28,6 @@
   "accountDeleteProcessing": "Eliminando cuenta...",
   "accountDeleteFailed": "Error al eliminar cuenta",
   "accountDeleteButton": "Eliminar",
-
   "accountEmail": "Email",
   "accountEmailRequired": "Ingrese su email",
   "accountEmailInvalid": "Email inválido",
@@ -49,11 +43,9 @@
   "accountEmailVerifyCodeSending": "Enviando código...",
   "accountEmailVerifyCodeVerifying": "Verificando código...",
   "accountEmailVerifyCodeResendAfter": "Reenviar después de %1 segundos",
-
   "accountLogout": "Cerrar sesión",
   "accountLogoutAlertMessage": "Cambiará al espacio de trabajo sin conexión al salir de su cuenta, ¿está seguro de cerrar sesión?",
   "accountLoggedOut": "Ha cerrado sesión",
-
   "accountMembership": "Membresía",
   "accountMembershipBasic": "Básica",
   "accountMembershipBasicDescription": "Actualice a premium para desbloquear privilegios VIP",
@@ -61,7 +53,7 @@
   "accountMembershipPremiumDescription": "%1 días hasta el vencimiento",
   "accountMembershipLifetime": "Premium de por vida",
   "accountMembershipLifetimeDescription": "Disfrute para siempre con Reqable",
-  "accountMembershipUpgrade": "Actualizar ahora",
+  "accountMembershipUpgrade": "Pasar a Premium",
   "accountMembershipRenew": "Renovar ahora",
   "accountMembershipLicense": "¿Tiene una licencia de versión anterior?",
   "accountMembershipLicenseBindTitle": "Vincular licencia",
@@ -71,7 +63,6 @@
   "accountMembershipLicenseUpgrading": "Procesando vinculación de licencia...",
   "accountMembershipLicenseInvalid": "La licencia no es válida, verifique e intente de nuevo.",
   "accountMembershipLicenseExpired": "La licencia ha expirado.",
-
   "accountOAuth": "OAuth",
   "accountOAuthGoogle": "Google",
   "accountOAuthGithub": "GitHub",
@@ -97,7 +88,6 @@
   "accountOAuthUnbinding": "Desvinculando...",
   "accountOAuthUnbindSuccess": "Cuenta OAuth desvinculada exitosamente",
   "accountOAuthUnbindFailed": "Error al desvincular cuenta OAuth",
-
   "accountPassword": "Contraseña",
   "accountPasswordRequired": "Por favor ingrese su contraseña",
   "accountPasswordMinLength": "La contraseña debe tener al menos %1 caracteres",
@@ -108,7 +98,7 @@
   "accountPasswordResetNew": "Nueva contraseña",
   "accountPasswordResetNewConfirm": "Confirmar nueva contraseña",
   "accountPasswordResetNewAgain": "Vuelva a ingresar su nueva contraseña",
-  "accountPasswordResetGiveUp": "¿Rendirse?",
+  "accountPasswordResetGiveUp": "¿Abandonar?",
   "accountPasswordResetProcessing": "Restableciendo contraseña...",
   "accountPasswordResetFailed": "Error al restablecer contraseña",
   "accountPasswordResetSuccess": "Contraseña restablecida exitosamente",
@@ -118,7 +108,6 @@
   "accountPasswordModifyProcessing": "Cambiando contraseña...",
   "accountPasswordModifyFailed": "Error al cambiar contraseña",
   "accountPasswordModifyTips": "Después de cambiar la contraseña, todos los dispositivos deberán iniciar sesión nuevamente con la nueva contraseña.",
-
   "accountPrivileges": "Privilegios",
   "accountPrivilegeMultiplePlatforms": "Multiplataforma",
   "accountPrivilegeMultiplePlatformsDescription": "Acceso en aplicaciones de escritorio y móviles",
@@ -138,10 +127,9 @@
   "accountPrivilegeVipBadgeDescription": "Insignia VIP exclusiva",
   "accountPrivilegeDataPrivateHosting": "Alojamiento privado",
   "accountPrivilegeDataPrivateHostingDescription": "Alojamiento de datos privado para garantizar la seguridad",
-  "accountPrivilegeComing": "Planificado",
+  "accountPrivilegeComing": "Próximamente",
   "accountPrivilegeVip": "Plan VIP",
   "accountPrivilegeUnlocked": "Desbloqueado",
-
   "accountProfile": "Perfil",
   "accountProfileAvatar": "Avatar",
   "accountProfileUsername": "Nombre de usuario",
@@ -149,12 +137,9 @@
   "accountProfileAvatarUpdate": "Actualizar avatar",
   "accountProfileUpdateFailed": "Error al actualizar perfil",
   "accountProfileDecodeAvatarFailed": "Datos de imagen no válidos",
-
   "accountRegisterTime": "Registro",
-
   "accountSettings": "Configuración",
   "accountSecurity": "Seguridad",
-
   "accountSignIn": "Iniciar sesión",
   "accountSignInTitle": "Iniciar sesión en Reqable",
   "accountSignInWith": "Iniciar sesión con",
@@ -165,14 +150,12 @@
   "accountSignInFailedAttemptsExceeded": "Demasiados intentos de inicio de sesión fallidos, intente de nuevo más tarde.",
   "accountSignInLocked": "La cuenta está bloqueada",
   "accountSignInLegacyRegistered": "Esta cuenta se registró con una versión anterior de Reqable. Regístrese nuevamente y puede vincular licencias en el perfil para desbloquear funciones premium.",
-
   "accountSignUp": "Registrarse",
   "accountSignUpTitle": "Registrarse en Reqable",
   "accountSignUpWith": "Registrarse con",
   "accountSignUpTerms": "Al crear una cuenta, acepta nuestros %1.",
   "accountSignUpHaveAccount": "¿Ya tiene cuenta en Reqable?",
   "accountSignUpProcessing": "Registrando...",
-
   "accountTeam": "Equipo",
   "accountTermOfService": "Términos de servicio"
 }

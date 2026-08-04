@@ -17,7 +17,6 @@
   "cloudSyncFromLocalButtonText": "Sincronizar",
   "cloudSyncToLocalModeTips": "¿No está en la nube?",
   "cloudSyncToLocalModeText": "Modo fuera de línea",
-
   "cloudDataUsage": "Uso de la nube",
   "cloudDataUsageLoadError": "Error al cargar el uso de datos en la nube, ¡haga clic para reintentar!",
   "cloudDataUsageRemaining": "Restante",
@@ -27,7 +26,7 @@
   "cloudDataUsageOther": "Otro",
   "cloudDataUsageMoreSpace": "¿Más espacio?",
   "cloudDataUsageLimitWarningNotificationTitle": "El espacio en la nube está cerca del límite",
-  "cloudDataUsageLimitWarningNotificationMessage": "Su espacio en la nube se está agotando, considere actualizar o limpiar datos innecesarios.",
+  "cloudDataUsageLimitWarningNotificationMessage": "Su espacio en la nube se está agotando, considere mejorar su plan o limpiar datos innecesarios.",
   "cloudDataUsageLimitReachedNotificationTitle": "Se ha alcanzado el límite de espacio en la nube",
-  "cloudDataUsageLimitReachedNotificationMessage": "Se ha alcanzado el límite de espacio en la nube, considere actualizar o limpiar datos innecesarios."
+  "cloudDataUsageLimitReachedNotificationMessage": "Se ha alcanzado el límite de espacio en la nube, considere mejorar su plan o limpiar datos innecesarios."
 }

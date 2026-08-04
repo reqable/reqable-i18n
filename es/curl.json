@@ -10,9 +10,8 @@
   "curlSingleQuoteDescription": "Usar comillas simples en el comando cURL. Algunos terminales pueden no admitir comillas simples (por ejemplo, Windows CMD), por lo que puede deshabilitar esta opción.",
   "curlExtractEnvVariable": "Extraer variables de entorno.",
   "curlExtractEnvVariableDescription": "Si las variables de entorno deben ser reemplazadas por sus valores.",
-
-  "curlErrorMultiDataType": "No se admite múltiples --data",
-  "curlErrorMultiDataBinary": "No se admite múltiples --data-binary",
+  "curlErrorMultiDataType": "No se admiten múltiples --data",
+  "curlErrorMultiDataBinary": "No se admiten múltiples --data-binary",
   "curlErrorUnsupportProtocol": "Protocolo no compatible: ",
   "curlErrorMalformedCurl": "Comando cURL mal formado",
   "curlErrorMalformedCurlWithMessage": "Comando cURL mal formado: ",

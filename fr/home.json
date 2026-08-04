@@ -27,7 +27,7 @@
   "homeTipsCapture8": "Trop de trafic dans la liste ? Essayez le filtrage rapide par appareil, application et domaine dans la barre latérale.",
   "homeTipsCapture9": "Les conditions de recherche de la liste de trafic peuvent être enregistrées comme préréglages pour la prochaine fois.",
   "homeTipsCapture10": "Le menu de surbrillance par clic droit peut prérégler des conditions pour mettre automatiquement en évidence le trafic correspondant.",
-  "homeTipsRest1": "Activez le suivi du trafic %1 et visualisez les messages bruts de REST dans la liste de trafic.",
+  "homeTipsRest1": "Activez le suivi du trafic et visualisez les messages bruts de REST dans la liste de trafic.",
   "homeTipsRest2": "Vous pouvez coller des commandes cURL directement dans le champ de saisie de requête API.",
   "homeTipsView1": "Police trop petite ou trop grande ? Essayez %1 ou %2 pour ajuster le ratio de zoom.",
   "homeTipsView2": "Pas satisfait du schéma de couleurs par défaut ? Personnalisez-le dans les paramètres !",

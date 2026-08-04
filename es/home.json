@@ -3,7 +3,6 @@
   "homeDesktopGuide2": "Crear API REST",
   "homeDesktopGuide3": "Abrir archivo",
   "homeMobileGuide1": "Haga clic en el botón flotante para iniciar la grabación",
-
   "homeTooltipCollapseSidebar": "Colapsar barra lateral",
   "homeTooltipExpandSidebar": "Expandir barra lateral",
   "homeTooltipVerticalLayout": "Diseño vertical",
@@ -16,7 +15,6 @@
   "homeTooltipZoomIn": "Acercar",
   "homeTooltipZoomOut": "Alejar",
   "homeTooltipZoomReset": "Restablecer zoom",
-
   "homeTipsCapture1": "Arrastre archivos HAR directamente a la ventana de Reqable para abrirlos.",
   "homeTipsCapture2": "Use %1 para ver el elemento de tráfico en una nueva ventana.",
   "homeTipsCapture3": "¿Quiere conservar los datos de tráfico? Guárdelos como HAR y ábralos la próxima vez.",
@@ -27,7 +25,7 @@
   "homeTipsCapture8": "¿Demasiado tráfico en la lista? Pruebe el filtrado rápido por dispositivo, aplicación y dominio en la barra lateral.",
   "homeTipsCapture9": "Las condiciones de búsqueda de la lista de tráfico se pueden guardar como preajustes para la próxima vez.",
   "homeTipsCapture10": "El menú de resaltado con clic derecho puede preestablecer condiciones para resaltar automáticamente el tráfico coincidente.",
-  "homeTipsRest1": "Habilite seguir tráfico %1 y vea los mensajes sin procesar de REST en la lista de tráfico.",
+  "homeTipsRest1": "Habilite seguir tráfico y vea los mensajes sin procesar de REST en la lista de tráfico.",
   "homeTipsRest2": "Puede pegar comandos cURL directamente en el campo de entrada de solicitud de API.",
   "homeTipsView1": "¿Fuente demasiado pequeña o demasiado grande? Pruebe %1 o %2 para ajustar la relación de zoom.",
   "homeTipsView2": "¿No está satisfecho con el esquema de color predeterminado? ¡Personalícelo en la configuración!",
@@ -35,7 +33,7 @@
   "homeTipsSelection1": "Seleccione una URL y haga clic derecho para generar un código QR.",
   "homeTipsSelection2": "Seleccione una URL y haga clic derecho para abrirla en su navegador predeterminado.",
   "homeTipsSelection3": "Seleccione una URL y haga clic derecho para crear una nueva pestaña de API.",
-  "homeTipsSelection4": "Seleccione un JSON y haga clic derecho para embellecerlo y verlo en una nueva ventana.",
+  "homeTipsSelection4": "Seleccione un JSON y haga clic derecho para formatearlo y verlo en una nueva ventana.",
   "homeTipsSelection5": "Seleccione datos Base64 o JWT y haga clic derecho para decodificarlos.",
   "homeTipsScript1": "Las variables de entorno se pueden leer y escribir en scripts de Python.",
   "homeTipsScript2": "¿No quiere escribir scripts usted mismo? Intente buscar algunos en el repositorio de plantillas.",
@@ -43,12 +41,10 @@
   "homeTipsScript4": "¿La plantilla de script de Python es demasiado verbosa? Intente cambiar a la plantilla minimalista.",
   "homeTipsClipboardQuickCreate": "Haga clic derecho en el `+` en la barra de pestañas para crear rápidamente una solicitud HTTP desde el portapapeles.",
   "homeTipsOfflineMode": "¿Preocupado por la seguridad o privacidad de los datos? Intente cambiar el modo de datos a modo fuera de línea.",
-
-  "homeDowngradeTitle": "¡NO REVIERTA LA VERSIÓN DE LA APLICACIÓN!",
-  "homeDowngradeMessage": "Revertir la aplicación puede causar pérdida de datos o comportamiento anormal de la aplicación.",
+  "homeDowngradeTitle": "¡NO INSTALE UNA VERSIÓN ANTERIOR DE LA APLICACIÓN!",
+  "homeDowngradeMessage": "Instalar una versión anterior puede causar pérdida de datos o comportamiento anormal de la aplicación.",
   "homeDowngradeButtonClose": "Cerrar aplicación",
   "homeDowngradeButtonLaunchAnyway": "Iniciar de todos modos",
-
   "tabExplorer": "Explorador",
   "tabCollection": "Colección",
   "tabEnvironment": "Entorno",
@@ -57,13 +53,11 @@
   "tabToolbox": "Herramientas",
   "tabSettings": "Configuración",
   "tabAccount": "Cuentas",
-
   "worktoolApiCollection": "Colección de API",
   "worktoolFavorite": "Mis favoritos",
   "worktoolHistory": "Historial",
   "worktoolDevice": "Gestión de dispositivos",
   "worktoolCertificate": "Gestión de certificados",
-
   "menuTitle": "Elegir la acción",
   "menuGroupFile": "Archivo",
   "menuGroupCloseTab": "Cerrar pestaña",
@@ -74,7 +68,6 @@
   "menuGroupCapture": "Tráfico",
   "menuGroupProxy": "Proxy",
   "menuGroupHelp": "Ayuda",
-
   "builtInMenubarQuitApp": "Salir de Reqable",
   "builtInMenubarAboutApp": "Acerca de Reqable",
   "builtInMenubarChangelogs": "Registro de cambios",
@@ -89,8 +82,6 @@
   "builtInMenubarZoom": "Zoom",
   "builtInMenubarWindow": "Ventana",
   "builtInMenubarHideOthers": "Ocultar otros",
-
   "appExiting": "Reqable se está cerrando...",
   "appExitDoubleBack": "Presione nuevamente para salir de la aplicación"
-
 }

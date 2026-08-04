@@ -5,27 +5,22 @@
   "toolBase64LoopMode": "Modo bucle",
   "toolBase64InvalidInput": "¡Datos de entrada base64 no válidos!",
   "toolBase64InvalidFile": "¡Archivo base64 no válido!",
-
   "toolUriCodec": "Códec URI",
   "toolUriEncodeHint": "Ingrese URI decodificado aquí",
   "toolUriDecodeHint": "Ingrese URI codificado aquí",
   "toolUriCodecType": "Tipo de entrada",
   "toolUriInvalidInput": "¡Datos de entrada URI no válidos!",
-
   "toolJwtCodec": "Decodificador JWT",
   "toolJwtDecodeHint": "Ingrese JWT codificado aquí",
   "toolJwtDecodeError": "Error al decodificar el contenido de entrada",
-
   "toolUnicodeCodec": "Códec Unicode",
   "toolUnicodeEncodeHint": "Ingrese un texto aquí",
   "toolUnicodeDecodeHint": "Ingrese unicodes aquí",
-
   "toolQrcodeInputHint": "Ingresar texto",
   "toolQrcodeErrorCorrect": "Corrección errores",
   "toolQrcodeGenerateError": "¡Error al generar código QR!",
-
   "toolTimestampFormat": "Modo formato",
-  "toolTimestampParse": "Modo parse",
+  "toolTimestampParse": "Parse Mode",
   "toolTimestampUnitSecond": "Segundo",
   "toolTimestampUnitMillisecond": "Milisegundo",
   "toolTimestampFormatSecondInputHint": "Ingrese marca de tiempo en segundos",
@@ -35,17 +30,13 @@
   "toolTimestampNow": "Ahora es ",
   "toolTimestampInputEmpty": "¡La entrada está vacía!",
   "toolTimestampFormatError": "¡Formato de entrada no válido!",
-
   "toolXmlViewer": "Visor XML",
-
   "toolUuidWithoutHyphen": "Sin guiones",
-
   "toolDiff": "Diff",
-  "toolDiffLeft": "Izquierdo",
-  "toolDiffRight": "Derecho",
-  "toolDiffSortHeader": "Ordenar headers",
-  "toolDiffLowercaseHeader": "Headers en minúsculas",
-
+  "toolDiffLeft": "Izquierda",
+  "toolDiffRight": "Derecha",
+  "toolDiffSortHeader": "Ordenar encabezados",
+  "toolDiffLowercaseHeader": "Encabezados en minúsculas",
   "toolRegex": "Regex",
   "toolRegexModeMatch": "Modo coincidir",
   "toolRegexModeReplace": "Modo reemplazo",

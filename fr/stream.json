@@ -13,7 +13,7 @@
   "sseExtractorList": "Liste d'extracteurs",
   "sseExtractorHint": "Chemin JSON, ex. $.delta.text",
   "sseExtractorTips1": "Extracteurs utilisés pour extraire des valeurs d'événements SSE pour l'aperçu.",
-  "sseExtractorTips2": "Hôtes acceptent wildcards, ex. *.example.com. Règles en syntaxe JSON Path.",
+  "sseExtractorTips2": "Hôtes acceptent les caractères génériques, ex. *.example.com. Règles en syntaxe JSON Path.",
   "sseExtractorHostRequired": "L'hôte est requis",
   "sseExtractorRuleRequired": "La règle est requise"
 }

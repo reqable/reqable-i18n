@@ -25,7 +25,7 @@
   "homeTipsCapture8": "Zu viel Traffic in der Liste? Versuchen Sie, in der Seitenleiste schnell nach Gerät, App und Domain zu filtern.",
   "homeTipsCapture9": "Suchbedingungen für Traffic-Listen können als Voreinstellungen für das nächste Mal gespeichert werden.",
   "homeTipsCapture10": "Durch Klicken mit der rechten Maustaste auf das Hervorhebungsmenü können Bedingungen voreingestellt werden, um passenden Traffic automatisch hervorzuheben.",
-  "homeTipsRest1": "Aktivieren Sie Follow Traffic %1 und zeigen Sie Rohnachrichten von REST in der Traffic-Liste an.",
+  "homeTipsRest1": "Aktivieren Sie Follow Traffic und zeigen Sie Rohnachrichten von REST in der Traffic-Liste an.",
   "homeTipsRest2": "Sie können cURL-Befehle direkt in das Eingabefeld der API-Anfrage einfügen.",
   "homeTipsView1": "Schrift zu klein oder zu groß? Versuchen Sie es mit %1 oder %2, um das Zoomverhältnis anzupassen.",
   "homeTipsView2": "Nicht zufrieden mit dem Standardfarbschema? Passen Sie es in den Einstellungen an!",
@@ -54,7 +54,7 @@
   "tabSettings": "Einstellungen",
   "tabAccount": "Konten",
   "worktoolApiCollection": "API-Sammlung",
-  "worktoolFavorite": "Mein Favorit",
+  "worktoolFavorite": "Meine Favoriten",
   "worktoolHistory": "Verlauf",
   "worktoolDevice": "Geräteverwaltung",
   "worktoolCertificate": "Zertifikatsverwaltung",
@@ -82,6 +82,6 @@
   "builtInMenubarZoom": "Zoom",
   "builtInMenubarWindow": "Fenster",
   "builtInMenubarHideOthers": "Andere ausblenden",
-  "appExiting": "Reqable gibt auf...",
+  "appExiting": "Reqable wird beendet...",
   "appExitDoubleBack": "Drücken Sie erneut, um die App zu verlassen"
 }

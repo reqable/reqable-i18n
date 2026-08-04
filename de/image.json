@@ -1,6 +1,6 @@
 {
   "imageViewer": "Bildbetrachter",
   "imageShowBorder": "Rand anzeigen",
-  "imageSize": "Größe:",
+  "imageSize": "Größe: ",
   "imageDecodeError": "Bilddaten konnten nicht dekodiert werden"
 }

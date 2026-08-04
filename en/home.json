@@ -27,7 +27,7 @@
   "homeTipsCapture8": "Too much traffic in list? Try quick filtering by device, app, and domain in the sidebar.",
   "homeTipsCapture9": "Traffic list search conditions can be saved as presets for next time.",
   "homeTipsCapture10": "Right-click highlight menu can preset conditions to automatically highlight matching traffic.",
-  "homeTipsRest1": "Enable follow traffic %1, and view raw messages of REST in traffic list.",
+  "homeTipsRest1": "Enable follow traffic, and view raw messages of REST in traffic list.",
   "homeTipsRest2": "You can paste cURL commands directly in the API request input field.",
   "homeTipsView1": "Font too small or too large? Try %1 or %2 to adjust the zoom ratio.",
   "homeTipsView2": "Not satisfied with the default color scheme? Customize it in the settings!",

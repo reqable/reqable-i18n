@@ -87,7 +87,7 @@
   "restResponseStateProcessing": "Обработка...",
   "restRequestTraces": "Трассировка",
   "restOpenInNewTab": "В новой вкладке",
-  "restAddToDiff": "Сравнить",
+  "restAddToDiff": "Diff",
   "restViewResponse": "Ответ",
   "restSettings": "Настройки запроса",
   "restSettingsProtocol": "Протокол",
