@@ -29,6 +29,6 @@
   "cryptoAesGcmNonceHint": "Введите nonce",
   "cryptoAesGcmNonceMissing": "Введите nonce!",
   "cryptoAesGcmNonceInvalid": "Не удалось разобрать nonce!",
-  "cryptoFileTooLarge": "Слишком большие данные, сохраните в файл!",
+  "cryptoFileTooLarge": "Слишком большой объём данных — сохраните в файл!",
   "cryptoHashHint": "Сообщение для хеширования"
 }

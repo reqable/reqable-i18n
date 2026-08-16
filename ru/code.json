@@ -4,9 +4,9 @@
   "codeSnippetLanguage": "Язык",
   "codeSnippetMoreLanguage": "Нужна поддержка других языков?",
   "codeSnippetIndentCount": "Размер отступа",
-  "codeSnippetIndentCountDescription": "Установите количество символов отступа для каждого уровня кода.",
+  "codeSnippetIndentCountDescription": "Укажите количество символов отступа для каждого уровня кода.",
   "codeSnippetIndentType": "Тип отступа",
-  "codeSnippetIndentTypeDescription": "Установите тип символа, используемого для отступа строк кода.",
+  "codeSnippetIndentTypeDescription": "Выберите тип символа, используемого для отступа строк кода.",
   "codeSnippetPythonRequestsUseParams": "Использовать словарь параметров",
   "codeSnippetPythonRequestsUseParamsDescription": "Использовать словарь параметров для передачи параметров запроса вместо URL со склеенными параметрами."
 }
