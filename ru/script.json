@@ -6,7 +6,7 @@
   "scriptCodeTemplateMime": "Мои шаблоны",
   "scriptCodeTemplateSaveAs": "Сохранить как шаблон",
   "scriptCodeTemplateSaved": "Шаблон сохранен",
-  "scriptCodeTemplateReplaceWarningMessage": "Шаблон %1 уже существует, вы уверены, что хотите перезаписать его?",
+  "scriptCodeTemplateReplaceWarningMessage": "Шаблон %1 уже существует. Вы уверены, что хотите перезаписать его?",
   "scriptCodeTemplateDeleteWarningMessage": "Удалить шаблон %1?",
   "scriptCodeTemplateUpdateDate": "Обновлено %1",
   "scriptCodeTemplateFork": "Копировать шаблон",

@@ -3,7 +3,7 @@
   "jsonKeywordSearch": "Фильтр по ключевому слову",
   "jsonKeywordSearchHint": "Введите ключевое слово для фильтрации",
   "jsonPathSearch": "JSON Path",
-  "jsonPathSearchHint": "Введите JSON path, например $.store.book[0].title",
+  "jsonPathSearchHint": "Введите JSON Path, например $.store.book[0].title",
   "jsonPathCopy": "Копировать путь",
   "jsonPathCopy2": "Копировать JSON Path",
   "jsonPathCopy3": "Копировать путь словаря (SQ)",

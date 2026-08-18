@@ -1,22 +1,22 @@
 {
-    "editorPerformancePasteLimit": "Для лучшей производительности вставка длинного текста отключена.",
+  "editorPerformancePasteLimit": "Для лучшей производительности вставка длинного текста отключена.",
 
-    "editorPrettifyFailed": "Не удалось форматировать: неизвестный формат",
-    "editorPrettifyJsonFailed": "Не удалось форматировать: неверный формат JSON",
-    "editorPrettifyXmlFailed": "Не удалось форматировать: неверный формат XML",
-    "editorCompressJsonFailed": "Не удалось сжать: неверный формат JSON",
+  "editorPrettifyFailed": "Не удалось выполнить форматирование: неизвестный формат",
+  "editorPrettifyJsonFailed": "Не удалось выполнить форматирование: неверный формат JSON",
+  "editorPrettifyXmlFailed": "Не удалось выполнить форматирование: неверный формат XML",
+  "editorCompressJsonFailed": "Не удалось выполнить сжатие: неверный формат JSON",
 
-    "editorThemeType": "Тема",
+  "editorThemeType": "Тема",
 
-    "editorFindNoResults": "Нет результатов",
-    "editorFindIndexResult": "%1 из %2",
-    "editorFindTooltipMatchCase": "С учетом регистра",
-    "editorFindTooltipUseRegularExpression": "Использовать регулярное выражение",
-    "editorFindTooltipReplace": "Заменить",
-    "editorFindTooltipReplaceAll": "Заменить все",
+  "editorFindNoResults": "Нет результатов",
+  "editorFindIndexResult": "%1 из %2",
+  "editorFindTooltipMatchCase": "С учётом регистра",
+  "editorFindTooltipUseRegularExpression": "Использовать регулярное выражение",
+  "editorFindTooltipReplace": "Заменить",
+  "editorFindTooltipReplaceAll": "Заменить все",
 
-    "editorTapToForceDisplayLargeText": "Двойной щелчок для загрузки больших данных",
-    "editorPayloadOversize": "Данные слишком большие, скачайте для просмотра",
+  "editorTapToForceDisplayLargeText": "Двойной щелчок для загрузки больших данных",
+  "editorPayloadOversize": "Данные слишком большие — скачайте файл для просмотра",
 
-    "editorInvalidCharset": "Неверная кодировка!"
+  "editorInvalidCharset": "Неверная кодировка!"
 }

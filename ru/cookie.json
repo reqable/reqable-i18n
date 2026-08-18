@@ -11,5 +11,5 @@
   "cookieHttpOnly": "HttpOnly",
   "cookieDeleteAlertMessage": "Удалить %1?",
   "cookieNone": "Cookie отсутствуют.",
-  "cookieTextEditingHint": "Cookie разделяются новой строкой\nИмена и значения разделяются символом :"
+  "cookieTextEditingHint": "Cookie разделяются новой строкой\nИмя и значение разделяются символом :"
 }
