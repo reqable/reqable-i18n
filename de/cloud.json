@@ -23,6 +23,7 @@
   "cloudDataUsageCollection": "Sammlungen",
   "cloudDataUsageEnvironment": "Umgebungen",
   "cloudDataUsageRule": "Regeln",
+  "cloudDataUsageSpec": "Spezifikationsdateien",
   "cloudDataUsageOther": "Andere",
   "cloudDataUsageMoreSpace": "Mehr Platz?",
   "cloudDataUsageLimitWarningNotificationTitle": "Cloud-Speicherplatz nähert sich dem Limit",

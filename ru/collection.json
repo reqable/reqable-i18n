@@ -1,9 +1,11 @@
 {
   "collection": "Коллекция",
+  "collectionFolder": "Папка коллекции",
   "collectionApi": "Коллекция API",
   "collectionEmpty": "Коллекция пуста",
   "collectionNew": "Новая коллекция",
   "collectionNewHttp": "Новый HTTP",
+  "collectionNewRaw": "Новый HTTP (Raw)",
   "collectionNewWebSocket": "Новый WebSocket",
   "collectionApiRename": "Переименовать API",
   "collectionSaveApi": "Сохранить API",

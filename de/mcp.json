@@ -1,10 +1,12 @@
 {
   "mcpServerSetup": "MCP-Server einrichten",
+  "mcpServerSetupDescription": "Reqable-MCP-Server in einem KI-Assistenten einrichten.",
   "mcpServerSetupTo": "MCP für {app} einrichten",
   "mcpServerSetupManual": "Manuelles MCP-Setup",
   "mcpServerActiveNone": "Kein Server läuft",
   "mcpServerActiveList": "{count} Server laufen",
   "mcpClientList": "MCP-Clients",
+  "mcpClientListDescription": "Verbundene MCP-Clients anzeigen und verwalten.",
   "mcpClientListEmpty": "Es ist kein Client verbunden.",
   "mcpClientDisconnect": "Trennen",
   "mcpServerLaunchAt": "Verbunden am {timestamp}"

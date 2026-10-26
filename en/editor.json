@@ -4,6 +4,7 @@
     "editorPrettifyFailed": "Cannot prettify: unknown format",
     "editorPrettifyJsonFailed": "Cannot prettify an invalid json format",
     "editorPrettifyXmlFailed": "Cannot prettify an invalid xml format",
+    "editorPrettifyYamlFailed": "Cannot prettify an invalid yaml format",
     "editorCompressJsonFailed": "Cannot compress an invalid json format",
 
     "editorThemeType": "Theme",

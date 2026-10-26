@@ -1,0 +1,20 @@
+{
+  "spec": "规范文件",
+
+  "specFileDeleteAlertMessage": "确定永久删除规范文件 %1 ?",
+  "specFileRename": "重命名文件",
+  "specNew": "新建规范文件夹",
+  "specFileNew": "新建文件",
+  "specFileNewProto": "新建Proto文件",
+  "specEmpty": "没有任何规范文件",
+
+  "specFileSaveChanges": "保存修改",
+  "specFileSaveChangesMessage": "是否保存修改？如果不保存所有修改都会丢失！",
+
+  "specSaveFile": "保存文件",
+  "specSaveApiMessage": "是否保存此规范文件？如果不保存修改内容将会丢失！",
+  "specMustInputName": "请输入规范文件的保存名称",
+  "specMustSelectOne": "请选择一个规范文件夹",
+
+  "specSaveTo": "保存至 %1"
+}

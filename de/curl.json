@@ -1,5 +1,6 @@
 {
   "curlOptions": "cURL-Optionen",
+  "curlOptionsDescription": "Formatoptionen für die Generierung von cURL-Befehlen konfigurieren.",
   "curlMultiline": "Mehrzeiliges cURL",
   "curlMultilineDescription": "Zeigen Sie den cURL-Befehl in mehreren Zeilen an.",
   "curlLongFormOptions": "Langform-Optionen",

@@ -1,5 +1,7 @@
 {
   "environments": "Umgebungen",
+  "environmentGlobal": "Globale Umgebung",
+  "environmentUser": "Benutzerumgebung",
   "environmentEmpty": "Umgebung ist leer",
   "environmentNew": "Neue Umgebung",
   "environmentEdit": "Umgebung bearbeiten",

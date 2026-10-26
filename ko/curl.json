@@ -1,5 +1,6 @@
 {
   "curlOptions": "cURL 옵션",
+  "curlOptionsDescription": "cURL 명령 생성 형식 옵션을 설정합니다.",
   "curlMultiline": "여러 줄 cURL",
   "curlMultilineDescription": "cURL 명령을 여러 줄로 나누어 표시합니다.",
   "curlLongFormOptions": "긴 옵션",

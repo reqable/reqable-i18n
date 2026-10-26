@@ -22,6 +22,7 @@
   "cloudDataUsageLoadError": "クラウドデータ使用量の取得に失敗しました。クリックして再試行してください！",
   "cloudDataUsageRemaining": "残り容量",
   "cloudDataUsageCollection": "コレクション",
+  "cloudDataUsageSpec": "仕様ファイル",
   "cloudDataUsageEnvironment": "環境変数",
   "cloudDataUsageRule": "ルール",
   "cloudDataUsageOther": "その他",

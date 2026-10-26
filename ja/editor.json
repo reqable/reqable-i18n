@@ -4,6 +4,7 @@
   "editorPrettifyFailed": "整形に失敗しました：サポートされていない形式",
   "editorPrettifyJsonFailed": "整形に失敗しました：不正なJSON形式",
   "editorPrettifyXmlFailed": "整形に失敗しました：不正なXML形式",
+  "editorPrettifyYamlFailed": "整形に失敗しました：不正なYAML形式",
   "editorCompressJsonFailed": "圧縮に失敗しました：不正なJSON形式",
 
   "editorThemeType": "テーマタイプ",

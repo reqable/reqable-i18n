@@ -13,9 +13,6 @@
 
   "jsonCompressPerformanceWarningMessage": "暂不支持此JSON压缩，可能会导致严重性能问题。",
 
-  "jsonEscape": "JSON转义",
-  "jsonUnescape": "JSON反转义",
-
   "jsonViewer": "JSON查看器",
 
   "jsonConvertNotSupport": "不支持的格式"

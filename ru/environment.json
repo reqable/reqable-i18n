@@ -1,5 +1,7 @@
 {
   "environments": "Окружения",
+  "environmentGlobal": "Глобальное окружение",
+  "environmentUser": "Пользовательское окружение",
   "environmentEmpty": "Список окружений пуст",
   "environmentNew": "Новое окружение",
   "environmentEdit": "Окружение",

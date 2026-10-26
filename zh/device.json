@@ -9,6 +9,8 @@
 
   "deviceHost": "本机设备",
   "deviceQrCode": "设备二维码",
+  "deviceQrCodeDescription": "手机Reqable扫描二维码连接到此设备",
+  "deviceQrCodeBindLoopbackAddress": "外部设备当前无法连接，请在设置中关闭本地监听选项！",
   "deviceSwitchIP": "切换IP",
   "deviceMultipleIP": "检测到多个IP",
 
@@ -28,10 +30,11 @@
   "deviceAddStep1": "1. 电脑端点击`调试`菜单 -> `设备` -> `设备二维码`，或者打开`设备`侧边栏，点击二维码按钮。",
   "deviceAddStep2": "2. 手机点击右上角扫描二维码，或手动输入电脑设备网络地址。",
   "deviceAddStep3": "3. 等待设备连接和和数据同步完成。",
-  "deviceAddTips1": "如果电脑端检测到多个IP，请手动选择与手机处于同一个局域网的IP地址。",
+  "deviceAddTips1": "电脑端设置中需关闭本地监听选项，如果检测到多个IP，请手动选择与手机处于同一个局域网的IP地址。",
   "deviceAddTips2": "Windows电脑需要在系统设置中将网络类型设置为专用网络而不是公用网络。",
   "deviceAddTips3": "如果无法连接电脑设备，请检查 设置 -> 隐私 -> 本地网络 -> Reqable 是否已经启用。",
 
+  "deviceCollaboration": "协同模式",
   "deviceCollaborationMyQrcode": "协同二维码",
   "deviceCollaborationNoAddressTips": "无有效IP地址",
   "deviceCollaborationMobileTips": "其他设备流量转发到当前设备时，建议关闭VPN模式。",
@@ -46,9 +49,9 @@
   "deviceInvalidQrcode": "未检测到有效二维码！",
   "deviceSyncConnecting": "正在连接...",
   "deviceQrcodePrepareMessage": "即将进入扫描二维码页面，请打开Reqable桌面端的二维码。",
-  "deviceCertificateWarningNotSame": "该设备使用了和当前设备不相同的根证书，建议进行同步保持一致！",
-  "deviceCertificateWarningNotInstall": "该设备根证书未安装，这会导致网络连接失败！",
-  "deviceCertificateWarningNotTrust": "该设备根证书未安装到系统证书目录，这可能会导致部分网络连接失败！",
+  "deviceCertificateWarningNotSame": "该设备使用了和当前设备不相同的CA证书，建议进行同步保持一致！",
+  "deviceCertificateWarningNotInstall": "该设备CA证书未安装，这会导致网络连接失败！",
+  "deviceCertificateWarningNotTrust": "该设备CA证书未安装到系统证书目录，这可能会导致部分网络连接失败！",
   "deviceInputAddress": "输入网络地址",
   "deviceInputAddressTips": "请输入设备的IP地址和端口号。",
   "deviceInfo": "设备信息",
@@ -62,12 +65,12 @@
 
   "deviceUpgrade325Tips": "当前 {platform} Reqable版本低于3.2.5，可能导致部分功能不可用，请升级到最新版本！",
 
-  "deviceCertificateStatus": "根证书状态",
-  "deviceCertificateNotMatch": "与当前应用根证书不一致",
-  "deviceCertificateMatched": "与当前应用根证书一致",
-  "deviceCertificateStatusNotInstall": "此根证书未安装到手机",
-  "deviceCertificateStatusInstalled": "此根证书已安装到手机",
-  "deviceCertificateStatusSystemInstalled": "此根证书已安装到系统目录",
-  "deviceCertificateStatusUserInstalled": "此根证书已安装到用户目录",
-  "deviceCertificateStatusUnknown": "此根证书安装状态未知"
+  "deviceCertificateStatus": "CA证书状态",
+  "deviceCertificateNotMatch": "与当前应用CA证书不一致",
+  "deviceCertificateMatched": "与当前应用CA证书一致",
+  "deviceCertificateStatusNotInstall": "此CA证书未安装到手机",
+  "deviceCertificateStatusInstalled": "此CA证书已安装到手机",
+  "deviceCertificateStatusSystemInstalled": "此CA证书已安装到系统目录",
+  "deviceCertificateStatusUserInstalled": "此CA证书已安装到用户目录",
+  "deviceCertificateStatusUnknown": "此CA证书安装状态未知"
 }

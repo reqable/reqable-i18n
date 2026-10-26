@@ -2,10 +2,12 @@
   "account": "アカウント",
 
   "accountCenter": "アカウントセンター",
+  "accountCenterDescription": "アカウント情報、メンバーシップ特典、データモード、ログインデバイスなどを管理します",
 
   "accountData": "データ管理",
 
   "accountDevices": "ログインデバイス",
+  "accountDevicesDescription": "ログイン中のデバイスを表示・管理します。",
   "accountDeviceList": "マイデバイス",
   "accountDeviceLoadFailed": "デバイスリストの読み込みに失敗しました。ページをクリックして再試行してください",
   "accountDeviceDeleteTooltip": "デバイスを削除",
@@ -27,6 +29,7 @@
   "accountDeleteButton": "削除",
 
   "accountDataSource": "データモード",
+  "accountDataSourceDescription": "現在のデータ保存モードと使用容量を表示します。",
   "accountLocalData": "オフラインデータ",
   "accountCloudData": "クラウドデータ",
   "accountDataSourceSwitch": "切り替え",
@@ -120,6 +123,7 @@
   "accountPasswordModifyTips": "パスワードを変更すると、すべてのデバイスで新しいパスワードで再ログインする必要があります。",
 
   "accountPrivileges": "メンバーシップ特典",
+  "accountPrivilegesDescription": "現在のメンバーシップレベルと特典を表示します。",
   "accountPrivilegeMultiplePlatforms": "全プラットフォーム",
   "accountPrivilegeMultiplePlatformsDescription": "デスクトップ＋モバイル全プラットフォーム対応",
   "accountPrivilegeCloudStorage": "クラウドストレージ",
@@ -151,6 +155,7 @@
   "accountProfileDecodeAvatarFailed": "画像内容の読み取りに失敗しました",
 
   "accountSettings": "アカウント設定",
+  "accountSettingsDescription": "アカウントのパスワードやサードパーティログインなどを管理します。",
   "accountSecurity": "アカウントセキュリティ",
 
   "accountRegisterTime": "登録日時",
@@ -163,7 +168,7 @@
   "accountSignInNotFound": "ユーザーが存在しません",
   "accountSignInPasswordNotMatch": "メールアドレスまたはパスワードが間違っています",
   "accountSignInFailedAttemptsExceeded": "連続して複数回ログインに失敗しました。しばらくしてから再試行してください",
-  "accountSignInLocked": "アカウントがロックされました",
+  "accountSignInLocked": "このアカウントは無効化されています",
   "accountSignInLegacyRegistered": "このアカウントは旧バージョンReqableで登録されています。再登録してください。登録後、アカウントセンターで旧バージョンライセンスを紐付けてプレミアムメンバーシップ特典を解除できます。",
 
   "accountSignUp": "登録",

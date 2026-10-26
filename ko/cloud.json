@@ -22,6 +22,7 @@
   "cloudDataUsageLoadError": "클라우드 데이터 사용량 조회 실패, 클릭하여 다시 시도하세요!",
   "cloudDataUsageRemaining": "남은 공간",
   "cloudDataUsageCollection": "컬렉션",
+  "cloudDataUsageSpec": "사양 파일",
   "cloudDataUsageEnvironment": "환경 변수",
   "cloudDataUsageRule": "규칙",
   "cloudDataUsageOther": "기타",

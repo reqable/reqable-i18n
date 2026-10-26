@@ -1,0 +1,20 @@
+{
+  "spec": "仕様",
+
+  "specFileDeleteAlertMessage": "仕様ファイル %1 を完全に削除してもよろしいですか？",
+  "specFileRename": "ファイル名を変更",
+  "specNew": "仕様フォルダーを新規作成",
+  "specFileNew": "ファイルを新規作成",
+  "specFileNewProto": "Protoファイルを新規作成",
+  "specEmpty": "仕様ファイルはありません",
+
+  "specFileSaveChanges": "変更を保存",
+  "specFileSaveChangesMessage": "変更を保存しますか？保存しない場合、すべての変更が失われます！",
+
+  "specSaveFile": "ファイルを保存",
+  "specSaveApiMessage": "この仕様ファイルを保存しますか？保存しない場合、変更内容が失われます！",
+  "specMustInputName": "仕様ファイルの保存名を入力してください",
+  "specMustSelectOne": "仕様フォルダーを選択してください",
+
+  "specSaveTo": "保存先：%1"
+}

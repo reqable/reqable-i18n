@@ -1,9 +1,11 @@
 {
   "collection": "컬렉션",
   "collectionApi": "API 컬렉션",
+  "collectionFolder": "컬렉션 폴더",
   "collectionEmpty": "컬렉션이 없습니다",
   "collectionNew": "새 컬렉션",
   "collectionNewHttp": "새 HTTP",
+  "collectionNewRaw": "새 HTTP (Raw)",
   "collectionNewWebSocket": "새 WebSocket",
   "collectionSaveApi": "API 저장",
   "collectionSaveApiMessage": "이 API를 컬렉션에 저장하시겠습니까? 저장하지 않으면 API 콘텐츠가 손실됩니다!",

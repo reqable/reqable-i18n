@@ -56,9 +56,8 @@
   "httpBytes": "%1 バイト",
   "httpCharacters": "文字数：%1",
   "httpRedirects": "リダイレクト",
-  "httpMetricsTiming": "時間",
+  "httpMetricsTiming": "所要時間",
   "httpMetricsSize": "トラフィック",
-  "httpMetricsTime": "時間",
   "httpMetricsCalculating": "計算中...",
   "httpMetricsCache": "キャッシュ",
   "httpMetricsSizeTips": "トラフィックは概算統計を使用しており、誤差が生じる可能性があります",
@@ -72,21 +71,25 @@
   "httpMetricsTimeOthers": "その他",
   "httpMetricsSizeUpload": "アップロード",
   "httpMetricsSizeHeader": "ヘッダー",
+  "httpMetricsSizeRequest": "リクエストサイズ",
   "httpMetricsSizeRequestBody": "リクエストボディ",
   "httpMetricsSizeRequestBodyZip": "リクエストボディ(圧縮)",
   "httpMetricsSizeRequestBodyUnzip": "リクエストボディ(解凍)",
   "httpMetricsSizeDownload": "ダウンロード",
+  "httpMetricsSizeResponse": "レスポンスサイズ",
   "httpMetricsSizeResponseBody": "レスポンスボディ",
   "httpMetricsSizeResponseBodyZip": "レスポンスボディ(圧縮)",
   "httpMetricsSizeResponseBodyUnzip": "レスポンスボディ(解凍)",
   "httpRequestAborted": "リクエスト中断",
   "httpResponseAborted": "レスポンス中断",
   "httpRequestId": "リクエストID",
+  "httpRequestTimestamp": "リクエスト時刻",
   "httpCopyRequestId": "リクエストIDをコピー",
   "httpCopyUrl": "URLをコピー",
   "httpCopyCurl": "cURLをコピー",
   "httpCopyHost": "ドメインをコピー",
   "httpCopyPath": "パスをコピー",
+  "httpEmptyUrl": "URLが設定されていません",
 
   "httpProtocolErrorMalformed": "不正なメッセージ形式",
 
@@ -113,5 +116,7 @@
   "tlsCipher": "アルゴリズム%1",
   "tlsCipherChoose": "アルゴリズムを選択",
   "tlsCertificateClient": "クライアント証明書",
-  "tlsCertificateServer": "サーバー証明書"
+  "tlsCertificateServer": "サーバー証明書",
+
+  "httpLabelConfig": "HTTPラベル設定"
 }

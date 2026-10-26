@@ -1,10 +1,12 @@
 {
   "mcpServerSetup": "Configurar servidor MCP",
+  "mcpServerSetupDescription": "Configura el servidor MCP de Reqable en un asistente de IA.",
   "mcpServerSetupTo": "Configurar MCP en {app}",
   "mcpServerSetupManual": "Configuración manual de MCP",
   "mcpServerActiveNone": "Ningún servidor está en ejecución",
   "mcpServerActiveList": "{count} servidores están en ejecución",
   "mcpClientList": "Clientes MCP",
+  "mcpClientListDescription": "Ver y gestionar clientes MCP conectados.",
   "mcpClientListEmpty": "Ningún cliente está conectado.",
   "mcpClientDisconnect": "Desconectar",
   "mcpServerLaunchAt": "Conectado a las {timestamp}"

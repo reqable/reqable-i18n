@@ -2,5 +2,6 @@
   "rengineErrorNetwork": "Netzwerkfehler",
   "rengineErrorCertificate": "Zertifikatsfehler",
   "rengineErrorClient": "Clientfehler",
-  "rengineErrorServer": "Serverfehler"
+  "rengineErrorServer": "Serverfehler",
+  "rengineErrorBlocked": "Anfrage wurde abgelehnt"
 }

@@ -1,3 +1,5 @@
 {
+  "searchGlobalHint": "搜索 API、工具、规则等",
+  "searchNoResult": "没有找到结果",
   "searchResultNotFound": "未找到 '%1'"
 }

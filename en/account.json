@@ -2,10 +2,12 @@
   "account": "Account",
 
   "accountCenter": "Account Center",
+  "accountCenterDescription": "Manage your account profile, VIP, data modes, and login devices",
 
   "accountData": "Data",
 
   "accountDevices": "Devices",
+  "accountDevicesDescription": "View and manage your logged-in devices",
   "accountDeviceList": "My Devices",
   "accountDeviceLoadFailed": "Failed to load devices, please click to retry",
   "accountDeviceDeleteTooltip": "Delete Device",
@@ -15,6 +17,7 @@
   "accountDeviceCurrent": "Current Device",
 
   "accountDataSource": "Data Source",
+  "accountDataSourceDescription": "View the current data storage mode and space usage.",
   "accountLocalData": "Local Storage",
   "accountCloudData": "Cloud Storage",
   "accountDataSourceSwitch": "Switch",
@@ -120,6 +123,7 @@
   "accountPasswordModifyTips": "After changing the password, all devices will need to log in again with the new password.",
 
   "accountPrivileges": "Privileges",
+  "accountPrivilegesDescription": "View your current membership type and privileges.",
   "accountPrivilegeMultiplePlatforms": "Multi-Platforms",
   "accountPrivilegeMultiplePlatformsDescription": "Access on desktop and mobile apps",
   "accountPrivilegeCloudStorage": "Cloud Storage",
@@ -153,6 +157,7 @@
   "accountRegisterTime": "Registration",
 
   "accountSettings": "Settings",
+  "accountSettingsDescription": "Manage your account password, OAuth, etc.",
   "accountSecurity": "Security",
 
   "accountSignIn": "Sign in",
@@ -163,7 +168,7 @@
   "accountSignInNotFound": "User was not found",
   "accountSignInPasswordNotMatch": "Password is incorrect",
   "accountSignInFailedAttemptsExceeded": "Too many failed login attempts, please try again later.",
-  "accountSignInLocked": "Account is locked",
+  "accountSignInLocked": "This account has been disabled",
   "accountSignInLegacyRegistered": "This account was registered with an older version of Reqable. Please sign up again, and you can bind licenses in profile to unlock premium features.",
 
   "accountSignUp": "Sign up",

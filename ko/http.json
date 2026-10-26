@@ -56,9 +56,8 @@
   "httpBytes": "%1 바이트",
   "httpCharacters": "글자 수: %1",
   "httpRedirects": "리디렉션",
-  "httpMetricsTiming": "시간",
+  "httpMetricsTiming": "소요 시간",
   "httpMetricsSize": "트래픽",
-  "httpMetricsTime": "시간",
   "httpMetricsCalculating": "계산 중...",
   "httpMetricsCache": "캐시",
   "httpMetricsSizeTips": "트래픽은 근사 통계를 사용하므로 편차가 있을 수 있습니다",
@@ -72,21 +71,25 @@
   "httpMetricsTimeOthers": "기타",
   "httpMetricsSizeUpload": "업로드",
   "httpMetricsSizeHeader": "헤더",
+  "httpMetricsSizeRequest": "요청 크기",
   "httpMetricsSizeRequestBody": "요청 본문",
   "httpMetricsSizeRequestBodyZip": "요청 본문(압축)",
   "httpMetricsSizeRequestBodyUnzip": "요청 본문(압축 해제)",
   "httpMetricsSizeDownload": "다운로드",
+  "httpMetricsSizeResponse": "응답 크기",
   "httpMetricsSizeResponseBody": "응답 본문",
   "httpMetricsSizeResponseBodyZip": "응답 본문(압축)",
   "httpMetricsSizeResponseBodyUnzip": "응답 본문(압축 해제)",
   "httpRequestAborted": "요청 중단됨",
   "httpResponseAborted": "응답 중단됨",
   "httpRequestId": "요청 ID",
+  "httpRequestTimestamp": "요청 시간",
   "httpCopyRequestId": "요청 ID 복사",
   "httpCopyUrl": "URL 복사",
   "httpCopyCurl": "cURL 복사",
   "httpCopyHost": "도메인 복사",
   "httpCopyPath": "경로 복사",
+  "httpEmptyUrl": "URL이 정의되지 않음",
 
   "httpProtocolErrorMalformed": "올바르지 않은 패킷 형식",
 
@@ -113,6 +116,8 @@
   "tlsCipher": "알고리즘 %1",
   "tlsCipherChoose": "알고리즘 선택",
   "tlsCertificateClient": "클라이언트 인증서",
-  "tlsCertificateServer": "서버 인증서"
+  "tlsCertificateServer": "서버 인증서",
+
+  "httpLabelConfig": "HTTP 라벨 설정"
 
 }

@@ -9,7 +9,10 @@
   "tabCloseAllForce": "すべて強制終了",
 
   "workshopCreateHttp": "HTTP新規作成",
+  "workshopCreateRaw": "HTTP（Raw）新規作成",
   "workshopCreateWebSocket": "WebSocket新規作成",
+  "workshopCreateGrpc": "gRPC新規作成",
+  "workshopCreateSpec": "仕様ファイル新規作成",
   "workshopImportFromCurl": "cURLからインポート",
   "workshopImportFromClipboard": "クリップボードからインポート",
   "workshopImportFromRaw": "生メッセージからインポート",

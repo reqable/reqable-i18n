@@ -1,0 +1,20 @@
+{
+  "spec": "Spezifikation",
+
+  "specFileDeleteAlertMessage": "Möchten Sie %1 wirklich dauerhaft löschen?",
+  "specFileRename": "Datei umbenennen",
+  "specNew": "Neue Spezifikation",
+  "specFileNew": "Neue Datei",
+  "specFileNewProto": "Neue Proto-Datei",
+  "specEmpty": "Keine Spezifikationsdateien",
+
+  "specFileSaveChanges": "Änderungen speichern",
+  "specFileSaveChangesMessage": "Möchten Sie die Änderungen speichern? Nicht gespeicherte Änderungen gehen verloren!",
+
+  "specSaveFile": "Datei speichern",
+  "specSaveApiMessage": "Möchten Sie diese Spezifikationsdatei speichern? Nicht gespeicherte Änderungen gehen verloren!",
+  "specMustInputName": "Bitte geben Sie den Namen der Spezifikationsdatei ein",
+  "specMustSelectOne": "Bitte wählen Sie einen Spezifikationsordner aus",
+
+  "specSaveTo": "In %1 speichern"
+}

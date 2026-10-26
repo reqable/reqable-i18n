@@ -2,10 +2,12 @@
   "account": "계정",
 
   "accountCenter": "계정 센터",
+  "accountCenterDescription": "계정 정보, 멤버십 혜택, 데이터 모드 및 로그인 기기 등을 관리합니다",
 
   "accountData": "데이터 관리",
 
   "accountDevices": "로그인 기기",
+  "accountDevicesDescription": "로그인한 기기를 보고 관리합니다.",
   "accountDeviceList": "내 기기",
   "accountDeviceLoadFailed": "기기 목록 로드 실패, 페이지를 클릭하여 다시 시도하세요",
   "accountDeviceDeleteTooltip": "기기 삭제",
@@ -27,6 +29,7 @@
   "accountDeleteButton": "삭제",
 
   "accountDataSource": "데이터 모드",
+  "accountDataSourceDescription": "현재 데이터 저장 모드와 공간 사용량을 확인합니다.",
   "accountLocalData": "오프라인 데이터",
   "accountCloudData": "클라우드 데이터",
   "accountDataSourceSwitch": "전환",
@@ -120,6 +123,7 @@
   "accountPasswordModifyTips": "비밀번호 변경 후 모든 기기에서 새 비밀번호로 다시 로그인해야 합니다.",
 
   "accountPrivileges": "멤버십 혜택",
+  "accountPrivilegesDescription": "현재 멤버십 등급과 혜택을 확인합니다.",
   "accountPrivilegeMultiplePlatforms": "모든 플랫폼",
   "accountPrivilegeMultiplePlatformsDescription": "데스크톱 + 모바일 모든 플랫폼 지원",
   "accountPrivilegeCloudStorage": "클라우드 저장소",
@@ -151,6 +155,7 @@
   "accountProfileDecodeAvatarFailed": "이미지 콘텐츠 읽기 실패",
 
   "accountSettings": "계정 설정",
+  "accountSettingsDescription": "계정 비밀번호, 서드파티 로그인 등을 관리합니다.",
   "accountSecurity": "계정 보안",
 
   "accountRegisterTime": "가입일",
@@ -163,7 +168,7 @@
   "accountSignInNotFound": "사용자가 존재하지 않습니다",
   "accountSignInPasswordNotMatch": "이메일 또는 비밀번호가 잘못되었습니다",
   "accountSignInFailedAttemptsExceeded": "연속 로그인 실패 횟수 초과, 잠시 후 다시 시도하세요",
-  "accountSignInLocked": "계정이 잠겼습니다",
+  "accountSignInLocked": "이 계정은 비활성화되었습니다",
   "accountSignInLegacyRegistered": "이 계정은 이전 버전 Reqable로 등록되었습니다. 재등록해 주세요. 등록 후 계정 센터에서 이전 버전 라이선스를 연결하여 프리미엄 멤버십 혜택을 잠금 해제할 수 있습니다.",
 
   "accountSignUp": "회원가입",

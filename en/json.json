@@ -13,9 +13,6 @@
 
   "jsonCompressPerformanceWarningMessage": "JSON compression is not supported for this payload, which may cause performance issues.",
 
-  "jsonEscape": "JSON Escape",
-  "jsonUnescape": "JSON Unescape",
-
   "jsonViewer": "JSON Viewer",
 
   "jsonConvertNotSupport": "Unsupported format"

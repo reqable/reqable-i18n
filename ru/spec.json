@@ -1,0 +1,20 @@
+{
+  "spec": "Спецификация",
+
+  "specFileDeleteAlertMessage": "Удалить файл спецификации %1 без возможности восстановления?",
+  "specFileRename": "Переименовать файл",
+  "specNew": "Новая спецификация",
+  "specFileNew": "Новый файл",
+  "specFileNewProto": "Новый файл Proto",
+  "specEmpty": "Нет файлов спецификаций",
+
+  "specFileSaveChanges": "Сохранить изменения",
+  "specFileSaveChangesMessage": "Сохранить изменения? Несохраненные изменения будут потеряны!",
+
+  "specSaveFile": "Сохранить файл",
+  "specSaveApiMessage": "Сохранить файл спецификации? Несохраненные изменения будут потеряны!",
+  "specMustInputName": "Введите имя файла спецификации",
+  "specMustSelectOne": "Выберите папку спецификаций",
+
+  "specSaveTo": "Сохранить в %1"
+}

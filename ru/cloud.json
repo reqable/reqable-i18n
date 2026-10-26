@@ -22,6 +22,7 @@
   "cloudDataUsageLoadError": "Не удалось загрузить данные об использовании облака. Нажмите, чтобы повторить!",
   "cloudDataUsageRemaining": "Осталось",
   "cloudDataUsageCollection": "Коллекции",
+  "cloudDataUsageSpec": "Файлы спецификаций",
   "cloudDataUsageEnvironment": "Среды",
   "cloudDataUsageRule": "Правила",
   "cloudDataUsageOther": "Прочее",

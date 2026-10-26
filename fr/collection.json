@@ -1,9 +1,11 @@
 {
   "collection": "Collection",
+  "collectionFolder": "Dossier de collection",
   "collectionApi": "Collection d'API",
   "collectionEmpty": "La collection est vide",
   "collectionNew": "Nouvelle collection",
   "collectionNewHttp": "Nouveau HTTP",
+  "collectionNewRaw": "Nouveau HTTP (Raw)",
   "collectionNewWebSocket": "Nouveau WebSocket",
   "collectionApiRename": "Renommer l'API",
   "collectionSaveApi": "Enregistrer l'API",

@@ -1,9 +1,11 @@
 {
   "collection": "コレクション",
   "collectionApi": "APIコレクション",
+  "collectionFolder": "コレクションフォルダー",
   "collectionEmpty": "コレクションはありません",
   "collectionNew": "コレクション新規作成",
   "collectionNewHttp": "HTTP新規作成",
+  "collectionNewRaw": "HTTP（Raw）新規作成",
   "collectionNewWebSocket": "WebSocket新規作成",
   "collectionSaveApi": "APIを保存",
   "collectionSaveApiMessage": "このAPIをコレクションに保存しますか？保存しない場合、このAPIの内容は失われます！",

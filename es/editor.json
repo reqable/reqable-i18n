@@ -3,6 +3,7 @@
   "editorPrettifyFailed": "No se puede formatear: formato desconocido",
   "editorPrettifyJsonFailed": "No se puede formatear un formato json no válido",
   "editorPrettifyXmlFailed": "No se puede formatear un formato xml no válido",
+  "editorPrettifyYamlFailed": "No se puede formatear un formato yaml no válido",
   "editorCompressJsonFailed": "No se puede comprimir un formato json no válido",
   "editorThemeType": "Tema",
   "editorFindNoResults": "Sin resultados",

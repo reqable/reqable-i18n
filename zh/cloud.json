@@ -22,6 +22,7 @@
   "cloudDataUsageLoadError": "获取云端数据用量失败，请点击重试！",
   "cloudDataUsageRemaining": "剩余空间",
   "cloudDataUsageCollection": "集合",
+  "cloudDataUsageSpec": "规范文件",
   "cloudDataUsageEnvironment": "环境变量",
   "cloudDataUsageRule": "规则",
   "cloudDataUsageOther": "其他",

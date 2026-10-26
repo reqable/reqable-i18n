@@ -1,9 +1,11 @@
 {
   "collection": "集合",
   "collectionApi": "API集合",
+  "collectionFolder": "集合文件夹",
   "collectionEmpty": "没有任何集合",
   "collectionNew": "新建集合",
   "collectionNewHttp": "新建HTTP",
+  "collectionNewRaw": "新建HTTP报文",
   "collectionNewWebSocket": "新建WebSocket",
   "collectionSaveApi": "保存API",
   "collectionSaveApiMessage": "是否保存此API到集合？如果不保存此API内容将会丢失！",

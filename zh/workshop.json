@@ -9,7 +9,10 @@
   "tabCloseAllForce": "强制关闭所有",
 
   "workshopCreateHttp": "新建HTTP",
+  "workshopCreateRaw": "新建HTTP报文",
   "workshopCreateWebSocket": "新建WebSocket",
+  "workshopCreateGrpc": "新建gRPC",
+  "workshopCreateSpec": "新建规范文件",
   "workshopImportFromCurl": "从cURL导入",
   "workshopImportFromClipboard": "从剪贴板导入",
   "workshopImportFromRaw": "从原始报文导入",

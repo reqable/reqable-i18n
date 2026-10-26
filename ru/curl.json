@@ -1,5 +1,6 @@
 {
   "curlOptions": "Параметры cURL",
+  "curlOptionsDescription": "Настройка параметров формата генерации команд cURL.",
   "curlMultiline": "Многострочный cURL",
   "curlMultilineDescription": "Отображать команду cURL в несколько строк.",
   "curlLongFormOptions": "Длинная форма параметров",

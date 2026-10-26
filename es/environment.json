@@ -1,5 +1,7 @@
 {
   "environments": "Entornos",
+  "environmentGlobal": "Entorno global",
+  "environmentUser": "Entorno de usuario",
   "environmentEmpty": "El entorno está vacío",
   "environmentNew": "Nuevo entorno",
   "environmentEdit": "Editar entorno",

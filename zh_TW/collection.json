@@ -1,9 +1,11 @@
 {
     "collection": "集合",
     "collectionApi": "API集合",
+    "collectionFolder": "集合資料夾",
     "collectionEmpty": "沒有任何集合",
     "collectionNew": "新增集合",
     "collectionNewHttp": "新增HTTP",
+    "collectionNewRaw": "新增HTTP原始訊息",
     "collectionNewWebSocket": "新增WebSocket",
     "collectionSaveApi": "儲存API",
     "collectionSaveApiMessage": "是否儲存此API到集合？如果不儲存此API內容將會遺失！",

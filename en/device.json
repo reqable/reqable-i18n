@@ -9,6 +9,8 @@
 
   "deviceHost": "Host Device",
   "deviceQrCode": "Device QR Code",
+  "deviceQrCodeDescription": "Scan QR code with the Reqable mobile app to connect.",
+  "deviceQrCodeBindLoopbackAddress": "External devices cannot connect currently. Please disable Listen on Loopback option in the settings!",
   "deviceSwitchIP": "Switch IP",
   "deviceMultipleIP": "Multiple IPs detected",
 
@@ -29,10 +31,11 @@
   "deviceAddStep1": "1. Click the `Traffic` menu -> `Device` -> `Device QR Code`, or open the `Device` sidebar and click the QR Code icon on your desktop app.",
   "deviceAddStep2": "2. Scan the QR code displayed on the desktop app, or input address manually.",
   "deviceAddStep3": "3. Wait for device connection and data synchronization to complete.",
-  "deviceAddTips1": "If multiple IPs are detected on the desktop, please manually select the IP address in the same LAN as the mobile.",
+  "deviceAddTips1": "Ensure `Listen on Loopback` option is disabled on the desktop. If multiple IPs are detected, please manually select the IP address in the same LAN as the mobile.",
   "deviceAddTips2": "Windows desktop needs to set the network type to private network instead of public network in system settings.",
   "deviceAddTips3": "Please ensure Settings -> Privacy -> Local Network -> Reqable is enabled.",
 
+  "deviceCollaboration": "Collaboration Mode",
   "deviceCollaborationMyQrcode": "Collaboration QR-code",
   "deviceCollaborationNoAddressTips": "No valid IP address",
   "deviceCollaborationMobileTips": "When forwarding traffic from other devices to current, it is recommended to turn off VPN mode.",
@@ -47,9 +50,9 @@
   "deviceInvalidQrcode": "Invalid qrcode!",
   "deviceSyncConnecting": "Connecting...",
   "deviceQrcodePrepareMessage": "You are about to enter the QR code scanning page, please open the QR code on the Reqable desktop.",
-  "deviceCertificateWarningNotSame": "The device uses a different root certificate than the current application. It is recommended to keep it consistent!",
-  "deviceCertificateWarningNotInstall": "The device's root certificate is not installed, which will cause network connections to fail!",
-  "deviceCertificateWarningNotTrust": "The device's root certificate is not installed into the system certificate directory, which may cause some network connections to fail!",
+  "deviceCertificateWarningNotSame": "The device uses a different CA certificate than the current application. It is recommended to keep it consistent!",
+  "deviceCertificateWarningNotInstall": "The device's CA certificate is not installed, which will cause network connections to fail!",
+  "deviceCertificateWarningNotTrust": "The device's CA certificate is not installed into the system certificate directory, which may cause some network connections to fail!",
   "deviceInputAddress": "Input Network Address",
   "deviceInputAddressTips": "Please enter the device's IP address and port number.",
   "deviceInfo": "Device Info",
@@ -63,12 +66,12 @@
 
   "deviceUpgrade325Tips": "The version of {platform} Reqable is lower than 3.2.5, which may cause some features to be unavailable, please upgrade to the latest version!",
 
-  "deviceCertificateStatus": "Root Certificate Status",
-  "deviceCertificateNotMatch": "Different root certificate from this app",
-  "deviceCertificateMatched": "Same root certificate as this app",
-  "deviceCertificateStatusNotInstall": "This root certificate is not installed on the mobile",
-  "deviceCertificateStatusInstalled": "This root certificate has been installed on the mobile",
-  "deviceCertificateStatusSystemInstalled": "This root certificate has been installed on the system",
-  "deviceCertificateStatusUserInstalled": "This root certificate has been installed as a user certificate",
-  "deviceCertificateStatusUnknown": "Unknown root certificate installation state"
+  "deviceCertificateStatus": "CA Certificate Status",
+  "deviceCertificateNotMatch": "Different CA certificate from this app",
+  "deviceCertificateMatched": "Same CA certificate as this app",
+  "deviceCertificateStatusNotInstall": "This CA certificate is not installed on the mobile",
+  "deviceCertificateStatusInstalled": "This CA certificate has been installed on the mobile",
+  "deviceCertificateStatusSystemInstalled": "This CA certificate has been installed on the system",
+  "deviceCertificateStatusUserInstalled": "This CA certificate has been installed as a user certificate",
+  "deviceCertificateStatusUnknown": "Unknown CA certificate installation state"
 }

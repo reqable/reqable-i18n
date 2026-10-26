@@ -11,8 +11,6 @@
   "jsonPathNode": "Узел",
   "jsonPathParentNode": "Родительский узел",
   "jsonCompressPerformanceWarningMessage": "Сжатие JSON не поддерживается для этого содержимого, что может вызвать проблемы с производительностью.",
-  "jsonEscape": "Экранировать",
-  "jsonUnescape": "Деэкранировать",
   "jsonViewer": "Просмотрщик JSON",
   "jsonConvertNotSupport": "Неподдерживаемый формат"
 }

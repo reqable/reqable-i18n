@@ -11,8 +11,6 @@
   "jsonPathNode": "Knoten",
   "jsonPathParentNode": "Übergeordneter Knoten",
   "jsonCompressPerformanceWarningMessage": "Die JSON-Komprimierung wird für diese Nutzlast nicht unterstützt, was zu Leistungsproblemen führen kann.",
-  "jsonEscape": "JSON Escape",
-  "jsonUnescape": "JSON Unescape",
   "jsonViewer": "JSON-Viewer",
   "jsonConvertNotSupport": "Nicht unterstütztes Format"
 }

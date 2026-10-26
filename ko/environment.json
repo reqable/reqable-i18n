@@ -1,5 +1,7 @@
 {
   "environments": "환경",
+  "environmentGlobal": "전역 환경",
+  "environmentUser": "사용자 환경",
   "environmentEmpty": "사용자 정의 환경이 없습니다",
   "environmentNew": "새 환경",
   "environmentEdit": "환경 편집",

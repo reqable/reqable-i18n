@@ -9,7 +9,10 @@
   "tabCloseAllForce": "모두 강제 닫기",
 
   "workshopCreateHttp": "새 HTTP",
+  "workshopCreateRaw": "새 HTTP (Raw)",
   "workshopCreateWebSocket": "새 WebSocket",
+  "workshopCreateGrpc": "새 gRPC",
+  "workshopCreateSpec": "새 사양 파일",
   "workshopImportFromCurl": "cURL에서 가져오기",
   "workshopImportFromClipboard": "클립보드에서 가져오기",
   "workshopImportFromRaw": "원본 패킷에서 가져오기",

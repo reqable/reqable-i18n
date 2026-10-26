@@ -1,5 +1,6 @@
 {
   "curlOptions": "cURLオプション",
+  "curlOptionsDescription": "cURLコマンド生成時の形式オプションを設定します。",
   "curlMultiline": "複数行cURL",
   "curlMultilineDescription": "cURLコマンドを複数行で表示します。",
   "curlLongFormOptions": "長いオプション",

@@ -1,5 +1,6 @@
 {
   "curlOptions": "Opciones de cURL",
+  "curlOptionsDescription": "Configura las opciones de formato para generar comandos cURL.",
   "curlMultiline": "cURL multilínea",
   "curlMultilineDescription": "Mostrar el comando cURL en múltiples líneas.",
   "curlLongFormOptions": "Opciones de formato largo",

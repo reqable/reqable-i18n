@@ -1,5 +1,7 @@
 {
     "environments": "環境",
+    "environmentGlobal": "全域環境",
+    "environmentUser": "使用者環境",
     "environmentEmpty": "沒有自訂環境",
     "environmentNew": "新增環境",
     "environmentEdit": "編輯環境",

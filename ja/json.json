@@ -13,9 +13,6 @@
 
   "jsonCompressPerformanceWarningMessage": "このJSON圧縮は現在サポートされていません。深刻なパフォーマンス問題を引き起こす可能性があります。",
 
-  "jsonEscape": "JSONエスケープ",
-  "jsonUnescape": "JSONアンエスケープ",
-
   "jsonViewer": "JSONビューア",
 
   "jsonConvertNotSupport": "サポートされていない形式"

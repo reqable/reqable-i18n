@@ -4,6 +4,7 @@
     "editorPrettifyFailed": "美化失败：不支持的格式",
     "editorPrettifyJsonFailed": "美化失败：非法JSON格式",
     "editorPrettifyXmlFailed": "美化失败：非法XML格式",
+    "editorPrettifyYamlFailed": "美化失败：非法YAML格式",
     "editorCompressJsonFailed": "压缩失败：非法JSON格式",
 
     "editorThemeType": "主题类型",

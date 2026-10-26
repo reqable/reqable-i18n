@@ -56,9 +56,8 @@
   "httpBytes": "%1 字节",
   "httpCharacters": "字数：%1",
   "httpRedirects": "重定向",
-  "httpMetricsTiming": "时间",
+  "httpMetricsTiming": "用时",
   "httpMetricsSize": "流量",
-  "httpMetricsTime": "时间",
   "httpMetricsCalculating": "正在计算中...",
   "httpMetricsCache": "缓存",
   "httpMetricsSizeTips": "流量使用近似统计，可能存在偏差",
@@ -72,6 +71,8 @@
   "httpMetricsTimeOthers": "其他",
   "httpMetricsSizeUpload": "上传",
   "httpMetricsSizeHeader": "头部",
+  "httpMetricsSizeRequest": "请求大小",
+  "httpMetricsSizeResponse": "响应大小",
   "httpMetricsSizeRequestBody": "请求体",
   "httpMetricsSizeRequestBodyZip": "请求体(压缩)",
   "httpMetricsSizeRequestBodyUnzip": "请求体(解压)",
@@ -82,11 +83,14 @@
   "httpRequestAborted": "请求中断",
   "httpResponseAborted": "响应中断",
   "httpRequestId": "请求ID",
+  "httpRequestTimestamp": "请求时间",
   "httpCopyRequestId": "复制请求ID",
   "httpCopyUrl": "复制URL",
   "httpCopyCurl": "复制cURL",
   "httpCopyHost": "复制域名",
   "httpCopyPath": "复制路径",
+
+  "httpEmptyUrl": "未定义URL",
 
   "httpProtocolErrorMalformed": "不正确的报文格式",
 
@@ -113,6 +117,8 @@
   "tlsCipher": "算法%1",
   "tlsCipherChoose": "选择算法",
   "tlsCertificateClient": "客户端证书",
-  "tlsCertificateServer": "服务端证书"
+  "tlsCertificateServer": "服务端证书",
+
+  "httpLabelConfig": "HTTP标签配置"
 
 }

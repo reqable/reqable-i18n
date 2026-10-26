@@ -51,6 +51,7 @@
 
   "tabExplorer": "Explorer",
   "tabCollection": "Collection",
+  "tabSpec": "Specification",
   "tabEnvironment": "Environment",
   "tabHistory": "History",
   "tabDevice": "Device",
@@ -58,7 +59,20 @@
   "tabSettings": "Settings",
   "tabAccount": "Accounts",
 
-  "worktoolApiCollection": "API Collection",
+  "feedback": "Feedback",
+  "feedbackDescription": "Provide your suggestions and issues to help us improve the product.",
+  "shortcuts": "Shortcuts",
+  "shortcutsDescription": "View Reqable's shortcut documentation.",
+  "homeWebsite": "Website",
+  "homeWebsiteDescription": "Visit the official Reqable website for more information.",
+  "homeDocumentation": "Documentation",
+  "homeDocumentationDescription": "View the Reqable documentation.",
+  "homeInstallAndroid": "Install Android App",
+  "homeInstallAndroidDescription": "Download and install the Reqable Android app from the Play Store.",
+  "homeInstalliOS": "Install iOS App",
+  "homeInstalliOSDescription": "Download and install the Reqable iOS app from the App Store.",
+
+  "worktoolApiCollection": "API Collections",
   "worktoolFavorite": "My Favorite",
   "worktoolHistory": "History",
   "worktoolDevice": "Device Management",
@@ -74,6 +88,8 @@
   "menuGroupCapture": "Traffic",
   "menuGroupProxy": "Proxy",
   "menuGroupHelp": "Help",
+
+  "commandPalette": "Command Palette",
 
   "builtInMenubarQuitApp": "Quit Reqable",
   "builtInMenubarAboutApp": "About Reqable",

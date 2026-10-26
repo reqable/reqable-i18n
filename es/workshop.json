@@ -9,7 +9,10 @@
   "tabCloseAllForce": "Forzar cierre de todo",
 
   "workshopCreateHttp": "Nuevo HTTP",
+  "workshopCreateRaw": "Nuevo HTTP (Raw)",
   "workshopCreateWebSocket": "Nuevo WebSocket",
+  "workshopCreateGrpc": "Nuevo gRPC",
+  "workshopCreateSpec": "Nuevo archivo de especificación",
   "workshopImportFromCurl": "Importar desde cURL",
   "workshopImportFromClipboard": "Importar desde portapapeles",
   "workshopImportFromRaw": "Importar desde Raw",

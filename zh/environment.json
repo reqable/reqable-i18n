@@ -1,5 +1,7 @@
 {
-  "environments": "环境",
+  "environments": "环境变量",
+  "environmentGlobal": "全局环境",
+  "environmentUser": "用户环境",
   "environmentEmpty": "没有自定义环境",
   "environmentNew": "新建环境",
   "environmentEdit": "编辑环境",

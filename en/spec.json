@@ -1,0 +1,20 @@
+{
+  "spec": "Specification",
+
+  "specFileDeleteAlertMessage": "Are you sure you want to permanently delete %1 ?",
+  "specFileRename": "Rename File",
+  "specNew": "New Specification",
+  "specFileNew": "New File",
+  "specFileNewProto": "New Proto File",
+  "specEmpty": "No specification files",
+
+  "specFileSaveChanges": "Save Changes",
+  "specFileSaveChangesMessage": "Do you want to save the changes? Your changes will be lost if you don't save them!",
+
+  "specSaveFile": "Save File",
+  "specSaveApiMessage": "Do you want to save this specification file? Your changes will be lost if you don't save them!",
+  "specMustInputName": "Please enter the spec file name",
+  "specMustSelectOne": "Please select a spec folder",
+
+  "specSaveTo": "Save to %1"
+}

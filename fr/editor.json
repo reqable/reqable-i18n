@@ -4,6 +4,7 @@
     "editorPrettifyFailed": "Impossible de formater : format inconnu",
     "editorPrettifyJsonFailed": "Impossible de formater un format JSON invalide",
     "editorPrettifyXmlFailed": "Impossible de formater un format XML invalide",
+    "editorPrettifyYamlFailed": "Impossible de formater un format YAML invalide",
     "editorCompressJsonFailed": "Impossible de compresser un format JSON invalide",
 
     "editorThemeType": "Thème",

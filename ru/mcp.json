@@ -1,10 +1,12 @@
 {
   "mcpServerSetup": "Настройка MCP-сервера",
+  "mcpServerSetupDescription": "Настройте сервер MCP Reqable в ИИ-ассистенте.",
   "mcpServerSetupTo": "MCP для {app}",
   "mcpServerSetupManual": "Ручная настройка MCP",
   "mcpServerActiveNone": "Нет запущенных серверов",
   "mcpServerActiveList": "Запущено серверов: {count}",
   "mcpClientList": "MCP-клиенты",
+  "mcpClientListDescription": "Просмотр и управление подключёнными MCP-клиентами.",
   "mcpClientListEmpty": "Нет подключенных клиентов.",
   "mcpClientDisconnect": "Отключить",
   "mcpServerLaunchAt": "Подключен: {timestamp}"

@@ -1,3 +1,5 @@
 {
+  "searchGlobalHint": "APIs, Tools, Regeln und mehr suchen",
+  "searchNoResult": "Keine Ergebnisse gefunden",
   "searchResultNotFound": "Für „%1“ wurde nichts gefunden"
 }

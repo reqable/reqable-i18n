@@ -1,10 +1,12 @@
 {
   "mcpServerSetup": "Configurer le serveur MCP",
+  "mcpServerSetupDescription": "Configurer le serveur MCP Reqable dans un assistant IA.",
   "mcpServerSetupTo": "Configurer MCP pour {app}",
   "mcpServerSetupManual": "Configuration manuelle MCP",
   "mcpServerActiveNone": "Aucun serveur actif",
   "mcpServerActiveList": "{count} serveurs actifs",
   "mcpClientList": "Clients MCP",
+  "mcpClientListDescription": "Afficher et gérer les clients MCP connectés.",
   "mcpClientListEmpty": "Aucun client connecté.",
   "mcpClientDisconnect": "Déconnecter",
   "mcpServerLaunchAt": "Connecté à {timestamp}"

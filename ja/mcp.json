@@ -1,10 +1,12 @@
 {
   "mcpServerSetup": "MCPサーバーを設定",
+  "mcpServerSetupDescription": "AIアシスタントにReqable MCPサーバーを設定します。",
   "mcpServerSetupTo": "{app}にMCPを設定",
   "mcpServerSetupManual": "MCPを手動設定",
   "mcpServerActiveNone": "実行中のMCPサーバーはありません",
   "mcpServerActiveList": "{count} 件のMCPサーバーインスタンス",
   "mcpClientList": "MCPクライアント",
+  "mcpClientListDescription": "接続済みのMCPクライアントを表示・管理します。",
   "mcpClientListEmpty": "接続中のクライアントはありません",
   "mcpClientDisconnect": "切断",
   "mcpServerLaunchAt": "接続日時：{timestamp}"

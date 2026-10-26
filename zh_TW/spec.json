@@ -1,0 +1,16 @@
+{
+    "spec": "規範檔案",
+    "specFileDeleteAlertMessage": "確定永久刪除規範檔案 %1 ?",
+    "specFileRename": "重新命名檔案",
+    "specNew": "新增規範資料夾",
+    "specFileNew": "新增檔案",
+    "specFileNewProto": "新增Proto檔案",
+    "specEmpty": "沒有任何規範檔案",
+    "specFileSaveChanges": "儲存修改",
+    "specFileSaveChangesMessage": "是否儲存修改？如果不儲存所有修改都會遺失！",
+    "specSaveFile": "儲存檔案",
+    "specSaveApiMessage": "是否儲存此規範檔案？如果不儲存修改內容將會遺失！",
+    "specMustInputName": "請輸入規範檔案的儲存名稱",
+    "specMustSelectOne": "請選擇一個規範資料夾",
+    "specSaveTo": "儲存至 %1"
+}

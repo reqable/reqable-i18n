@@ -3,6 +3,7 @@
     "editorPrettifyFailed": "美化失敗：不支援的格式",
     "editorPrettifyJsonFailed": "美化失敗：非法JSON格式",
     "editorPrettifyXmlFailed": "美化失敗：非法XML格式",
+    "editorPrettifyYamlFailed": "美化失敗：非法YAML格式",
     "editorCompressJsonFailed": "壓縮失敗：非法JSON格式",
     "editorThemeType": "主題類型",
     "editorFindNoResults": "無結果",

@@ -9,6 +9,8 @@
 
   "deviceHost": "Dispositivo host",
   "deviceQrCode": "Código QR del dispositivo",
+  "deviceQrCodeDescription": "Escanea el código QR con la app móvil de Reqable para conectar.",
+  "deviceQrCodeBindLoopbackAddress": "Los dispositivos externos no pueden conectarse actualmente. ¡Deshabilite la opción Escuchar en loopback en la configuración!",
   "deviceSwitchIP": "Cambiar IP",
   "deviceMultipleIP": "Múltiples IPs detectadas",
 
@@ -29,9 +31,10 @@
   "deviceAddStep1": "1. Haga clic en el menú `Tráfico` -> `Dispositivo` -> `Código QR del dispositivo`, o abra la barra lateral `Dispositivo` y haga clic en el icono de código QR en su aplicación de escritorio.",
   "deviceAddStep2": "2. Escanee el código QR mostrado en la aplicación de escritorio, o ingrese la dirección manualmente.",
   "deviceAddStep3": "3. Espere a que se complete la conexión del dispositivo y la sincronización de datos.",
-  "deviceAddTips1": "Si se detectan múltiples IPs en el escritorio, seleccione manualmente la dirección IP en la misma LAN que el móvil.",
+  "deviceAddTips1": "Asegúrese de que la opción `Escuchar en loopback` esté deshabilitada en el escritorio. Si se detectan varias IPs, seleccione manualmente la dirección IP en la misma LAN que el móvil.",
   "deviceAddTips2": "El escritorio Windows necesita configurar el tipo de red como red privada en lugar de red pública en la configuración del sistema.",
   "deviceAddTips3": "Asegúrese de que Configuración -> Privacidad -> Red local -> Reqable esté habilitado.",
+  "deviceCollaboration": "Modo colaboración",
 
   "deviceCollaborationMyQrcode": "Código QR de colaboración",
   "deviceCollaborationNoAddressTips": "Sin dirección IP válida",
@@ -47,9 +50,9 @@
   "deviceInvalidQrcode": "¡Código QR no válido!",
   "deviceSyncConnecting": "Conectando...",
   "deviceQrcodePrepareMessage": "Está a punto de ingresar a la página de escaneo de código QR, abra el código QR en el escritorio de Reqable.",
-  "deviceCertificateWarningNotSame": "El dispositivo usa un certificado raíz diferente al de la aplicación actual. ¡Se recomienda mantenerlo consistente!",
-  "deviceCertificateWarningNotInstall": "¡El certificado raíz del dispositivo no está instalado, lo que causará fallos en las conexiones de red!",
-  "deviceCertificateWarningNotTrust": "¡El certificado raíz del dispositivo no está instalado en el directorio de certificados del sistema, lo que puede causar fallos en algunas conexiones de red!",
+  "deviceCertificateWarningNotSame": "El dispositivo usa un certificado CA diferente al de la aplicación actual. ¡Se recomienda mantenerlo consistente!",
+  "deviceCertificateWarningNotInstall": "¡El certificado CA del dispositivo no está instalado, lo que causará fallos en las conexiones de red!",
+  "deviceCertificateWarningNotTrust": "¡El certificado CA del dispositivo no está instalado en el directorio de certificados del sistema, lo que puede causar fallos en algunas conexiones de red!",
   "deviceInputAddress": "Ingresar dirección de red",
   "deviceInputAddressTips": "Ingrese la dirección IP y el número de puerto del dispositivo.",
   "deviceInfo": "Información del dispositivo",
@@ -63,12 +66,12 @@
 
   "deviceUpgrade325Tips": "La versión de Reqable en {platform} es inferior a 3.2.5, lo que puede causar que algunas funciones no estén disponibles. ¡Actualice a la última versión!",
 
-  "deviceCertificateStatus": "Estado del certificado raíz",
-  "deviceCertificateNotMatch": "Certificado raíz diferente al de esta aplicación",
-  "deviceCertificateMatched": "Mismo certificado raíz que esta aplicación",
-  "deviceCertificateStatusNotInstall": "Este certificado raíz no está instalado en el móvil",
-  "deviceCertificateStatusInstalled": "Este certificado raíz se ha instalado en el móvil",
-  "deviceCertificateStatusSystemInstalled": "Este certificado raíz se ha instalado en el sistema",
-  "deviceCertificateStatusUserInstalled": "Este certificado raíz se ha instalado como certificado de usuario",
-  "deviceCertificateStatusUnknown": "Estado de instalación del certificado raíz desconocido"
+  "deviceCertificateStatus": "Estado del certificado CA",
+  "deviceCertificateNotMatch": "Certificado CA diferente al de esta aplicación",
+  "deviceCertificateMatched": "Mismo certificado CA que esta aplicación",
+  "deviceCertificateStatusNotInstall": "Este certificado CA no está instalado en el móvil",
+  "deviceCertificateStatusInstalled": "Este certificado CA se ha instalado en el móvil",
+  "deviceCertificateStatusSystemInstalled": "Este certificado CA se ha instalado en el sistema",
+  "deviceCertificateStatusUserInstalled": "Este certificado CA se ha instalado como certificado de usuario",
+  "deviceCertificateStatusUnknown": "Estado de instalación del certificado CA desconocido"
 }

@@ -11,8 +11,6 @@
     "jsonPathNode": "節點",
     "jsonPathParentNode": "父節點",
     "jsonCompressPerformanceWarningMessage": "暫不支援此JSON壓縮，可能會導致嚴重效能問題。",
-    "jsonEscape": "JSON跳脫",
-    "jsonUnescape": "JSON反向跳脫",
     "jsonViewer": "JSON檢視器",
     "jsonConvertNotSupport": "不支援的格式"
 }

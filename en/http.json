@@ -58,7 +58,6 @@
   "httpRedirects": "Redirects",
   "httpMetricsTiming": "Timing",
   "httpMetricsSize": "Size",
-  "httpMetricsTime": "Time",
   "httpMetricsCalculating": "Calculating...",
   "httpMetricsCache": "Cache",
   "httpMetricsSizeTips": "All size calculations are approximate",
@@ -72,21 +71,26 @@
   "httpMetricsTimeOthers": "Others",
   "httpMetricsSizeUpload": "Upload",
   "httpMetricsSizeHeader": "Header",
+  "httpMetricsSizeRequest": "Request Size",
   "httpMetricsSizeRequestBody": "Body",
   "httpMetricsSizeRequestBodyZip": "Body(Compressed)",
   "httpMetricsSizeRequestBodyUnzip": "Body(Uncompressed)",
   "httpMetricsSizeDownload": "Download",
+  "httpMetricsSizeResponse": "Response Size",
   "httpMetricsSizeResponseBody": "Body",
   "httpMetricsSizeResponseBodyZip": "Body(Compressed)",
   "httpMetricsSizeResponseBodyUnzip": "Body(Uncompressed)",
   "httpRequestAborted": "Request aborted",
   "httpResponseAborted": "Response aborted",
-  "httpRequestId": "Request-Id",
+  "httpRequestId": "Request Id",
+  "httpRequestTimestamp": "Request Time",
   "httpCopyRequestId": "Copy Request-Id",
   "httpCopyUrl": "Copy URL",
   "httpCopyCurl": "Copy cURL",
   "httpCopyHost": "Copy Host",
   "httpCopyPath": "Copy Path",
+
+  "httpEmptyUrl": "URL is undefined",
 
   "httpProtocolErrorMalformed": "Malformed protocol message",
 
@@ -113,5 +117,7 @@
   "tlsCipher": "Cipher Suite %1",
   "tlsCipherChoose": "Cipher Suite Choose",
   "tlsCertificateClient": "Client Certificate",
-  "tlsCertificateServer": "Server Certificate"
+  "tlsCertificateServer": "Server Certificate",
+
+  "httpLabelConfig": "HTTP Label Configuration"
 }

@@ -1,5 +1,6 @@
 {
     "curlOptions": "cURL選項",
+    "curlOptionsDescription": "設定產生cURL命令的格式選項。",
     "curlMultiline": "多行cURL",
     "curlMultilineDescription": "將cURL命令分成多行顯示。",
     "curlLongFormOptions": "長選項",

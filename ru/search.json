@@ -1,3 +1,5 @@
 {
+  "searchGlobalHint": "Поиск API, инструментов, правил и не только",
+  "searchNoResult": "Ничего не найдено",
   "searchResultNotFound": "Ничего не найдено по запросу '%1'"
 }

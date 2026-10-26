@@ -21,6 +21,7 @@
   "cloudDataUsageLoadError": "Error al cargar el uso de datos en la nube, ¡haga clic para reintentar!",
   "cloudDataUsageRemaining": "Restante",
   "cloudDataUsageCollection": "Colecciones",
+  "cloudDataUsageSpec": "Archivos de especificación",
   "cloudDataUsageEnvironment": "Entornos",
   "cloudDataUsageRule": "Reglas",
   "cloudDataUsageOther": "Otro",

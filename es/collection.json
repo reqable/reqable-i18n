@@ -1,9 +1,11 @@
 {
   "collection": "Colección",
+  "collectionFolder": "Carpeta de colección",
   "collectionApi": "Colección de API",
   "collectionEmpty": "La colección está vacía",
   "collectionNew": "Nueva colección",
   "collectionNewHttp": "Nuevo HTTP",
+  "collectionNewRaw": "Nuevo HTTP (Raw)",
   "collectionNewWebSocket": "Nuevo WebSocket",
   "collectionApiRename": "Renombrar API",
   "collectionSaveApi": "Guardar API",

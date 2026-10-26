@@ -4,6 +4,7 @@
     "editorPrettifyFailed": "포맷 정리 실패: 지원되지 않는 형식",
     "editorPrettifyJsonFailed": "포맷 정리 실패: 잘못된 JSON 형식",
     "editorPrettifyXmlFailed": "포맷 정리 실패: 잘못된 XML 형식",
+    "editorPrettifyYamlFailed": "포맷 정리 실패: 잘못된 YAML 형식",
     "editorCompressJsonFailed": "압축 실패: 잘못된 JSON 형식",
 
     "editorThemeType": "테마 유형",

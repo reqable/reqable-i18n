@@ -21,6 +21,7 @@
   "cloudDataUsageLoadError": "Échec du chargement de l'utilisation des données cloud, veuillez cliquer pour réessayer !",
   "cloudDataUsageRemaining": "Restant",
   "cloudDataUsageCollection": "Collections",
+  "cloudDataUsageSpec": "Fichiers de spécification",
   "cloudDataUsageEnvironment": "Environnements",
   "cloudDataUsageRule": "Règles",
   "cloudDataUsageOther": "Autre",
