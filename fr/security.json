@@ -1,0 +1,11 @@
+{
+  "securityAccessToken": "Jeton d'accès",
+  "securityAccessTokenManage": "Gérer les jetons d'accès",
+  "securityAccessTokenManageDescription": "Activez, ajoutez et supprimez des jetons d'accès pour le service API de Reqable.",
+  "securityAccessTokenEmptyText": "Aucun jeton d'accès",
+  "securityAccessTokenCreate": "Créer un jeton d'accès",
+  "securityAccessTokenNoActivity": "Aucune activité",
+  "securityAccessTokenLastActivity1": "Dernière activité : {accessAt}",
+  "securityAccessTokenLastActivity2": "Dernière activité : {accessAt} ({ip})",
+  "securityAccessTokenDeleteAlertMessage": "Voulez-vous vraiment supprimer le jeton d'accès %1 ? Après suppression, les requêtes utilisant ce jeton seront refusées."
+}

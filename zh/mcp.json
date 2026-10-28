@@ -3,11 +3,16 @@
   "mcpServerSetupDescription": "在AI助手中配置Reqable MCP服务器。",
   "mcpServerSetupTo": "配置MCP到{app}",
   "mcpServerSetupManual": "手动配置MCP",
+  "mcpServerSetupModeStdio": "Stdio模式",
+  "mcpServerSetupModeHttp": "HTTP模式",
   "mcpServerActiveNone": "没有运行中的MCP服务器",
   "mcpServerActiveList": "{count} 个MCP服务器实例",
+  "mcpServerLaunchAt": "连接于：{timestamp}",
+  "mcpServerNoLanAddress": "局域网地址不可用",
+
   "mcpClientList": "MCP客户端",
   "mcpClientListDescription": "查看和管理已连接的MCP客户端。",
   "mcpClientListEmpty": "没有连接上的客户端",
-  "mcpClientDisconnect": "断开连接",
-  "mcpServerLaunchAt": "连接于：{timestamp}"
+  "mcpClientDisconnect": "断开连接"
+
 }

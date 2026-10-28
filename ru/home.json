@@ -71,6 +71,7 @@
   "worktoolHistory": "История",
   "worktoolDevice": "Устройства",
   "worktoolCertificate": "Сертификаты",
+  "worktoolMcp": "Сервис MCP",
   "menuTitle": "Выберите действие",
   "menuGroupFile": "Файл",
   "menuGroupCloseTab": "Закрыть вкладку",

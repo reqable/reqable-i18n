@@ -13,6 +13,8 @@
   "settingsCheckUpdate": "Buscar actualizaciones",
   "settingsFeatures": "Funciones",
   "settingsFeaturesInfo": "Algunas funciones globales",
+  "settingsSecurityAndPrivacy": "Seguridad y privacidad",
+  "settingsSecurityAndPrivacyInfo": "Opciones de seguridad y privacidad",
 
   "settingsUiUx": "IU y UX",
   "settingsUiUxInfo": "Algunas opciones de IU y UX",
@@ -41,6 +43,8 @@
   "settingsPreferHttpMessageTips": "Al editar solicitudes HTTP desde la lista de tráfico, usar el modo de edición del mensaje raw en lugar del modo de varias pestañas al estilo Postman.",
   "settingsVersionUpdateTipStrategy": "Consejos de actualización de versión",
   "settingsVersionUpdateTipStrategyDescription": "Configure la política de notificación cuando se detecte una nueva versión.",
+  "settingsAccessTokenRequired": "Token de acceso",
+  "settingsAccessTokenRequiredTips": "Cuando está habilitado, el acceso a los servicios de la aplicación (como el servidor MCP, excluyendo el proxy de depuración) requerirá un token de acceso válido.",
 
   "settingsPrivacy": "Privacidad",
   "settingsPrivacyTips": "Ayude a mejorar Reqable enviando automáticamente datos de uso. Los datos de uso se recopilan de forma anónima y no pueden usarse para identificarlo.",

@@ -1,0 +1,11 @@
+{
+  "securityAccessToken": "Zugriffstoken",
+  "securityAccessTokenManage": "Zugriffstoken verwalten",
+  "securityAccessTokenManageDescription": "Aktivieren, Hinzufügen und Löschen von Zugriffstoken für den Reqable-API-Dienst.",
+  "securityAccessTokenEmptyText": "Keine Zugriffstoken",
+  "securityAccessTokenCreate": "Zugriffstoken erstellen",
+  "securityAccessTokenNoActivity": "Keine Aktivität",
+  "securityAccessTokenLastActivity1": "Letzte Aktivität: {accessAt}",
+  "securityAccessTokenLastActivity2": "Letzte Aktivität: {accessAt} ({ip})",
+  "securityAccessTokenDeleteAlertMessage": "Möchten Sie den Zugriffstoken %1 wirklich löschen? Nach dem Löschen werden Anfragen mit diesem Token abgelehnt."
+}

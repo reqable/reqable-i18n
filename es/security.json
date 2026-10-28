@@ -1,0 +1,11 @@
+{
+  "securityAccessToken": "Token de acceso",
+  "securityAccessTokenManage": "Administrar tokens de acceso",
+  "securityAccessTokenManageDescription": "Habilite, agregue y elimine tokens de acceso para el servicio de API de Reqable.",
+  "securityAccessTokenEmptyText": "No hay tokens de acceso",
+  "securityAccessTokenCreate": "Crear token de acceso",
+  "securityAccessTokenNoActivity": "Sin actividad",
+  "securityAccessTokenLastActivity1": "Última actividad: {accessAt}",
+  "securityAccessTokenLastActivity2": "Última actividad: {accessAt} ({ip})",
+  "securityAccessTokenDeleteAlertMessage": "¿Está seguro de que desea eliminar el token de acceso %1? Después de eliminarlo, las solicitudes que usen este token serán rechazadas."
+}

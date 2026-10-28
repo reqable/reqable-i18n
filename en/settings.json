@@ -14,6 +14,9 @@
   "settingsFeatures": "Features",
   "settingsFeaturesInfo": "Some global features",
 
+  "settingsSecurityAndPrivacy": "Security & Privacy",
+  "settingsSecurityAndPrivacyInfo": "Some security and privacy related options",
+
   "settingsUiUx": "UI & UX",
   "settingsUiUxInfo": "Some UI & UX options",
   "settingsSwipeDelete": "Swipe Delete",
@@ -41,6 +44,8 @@
   "settingsPreferHttpMessageTips": "When editing HTTP requests from the traffic list, use the raw message editing mode instead of the Postman-style multi-tab editing mode.",
   "settingsVersionUpdateTipStrategy": "Version Update Tips",
   "settingsVersionUpdateTipStrategyDescription": "Configure the notification policy for when a new version is detected.",
+  "settingsAccessTokenRequired": "Access Token",
+  "settingsAccessTokenRequiredTips": "When enabled, accessing the application's service (such as the MCP server, excluding debugging proxy) will require a valid access token.",
 
   "settingsPrivacy": "Privacy",
   "settingsPrivacyTips": "Help improve Reqable by automatically sending usage data. Usage data is collected anonymously and cannot be used to identify you.",

@@ -13,6 +13,8 @@
   "settingsCheckUpdate": "업데이트 확인",
   "settingsFeatures": "기능",
   "settingsFeaturesInfo": "일부 전역 기능",
+  "settingsSecurityAndPrivacy": "보안 및 개인정보 보호",
+  "settingsSecurityAndPrivacyInfo": "보안 및 개인정보 보호 관련 옵션",
   "settingsAutomaticUpdate": "자동 업데이트",
   "settingsAutomaticDownloadUpgradePkg": "새 버전이 감지되면 자동으로 설치 패키지를 다운로드합니다.",
 
@@ -41,6 +43,8 @@
   "settingsPreferHttpMessageTips": "디버깅 목록에서 HTTP 요청을 편집할 때 Postman 스타일의 다중 탭 편집 대신 요청 메시지 전체 편집 모드를 사용합니다.",
   "settingsVersionUpdateTipStrategy": "업데이트 알림",
   "settingsVersionUpdateTipStrategyDescription": "새 버전 업데이트 감지 시 알림 표시 여부.",
+  "settingsAccessTokenRequired": "액세스 토큰",
+  "settingsAccessTokenRequiredTips": "활성화하면 애플리케이션 서비스(디버깅 프록시를 제외한 MCP 서버 등)에 액세스할 때 유효한 액세스 토큰이 필요합니다.",
 
   "settingsPrivacy": "개인정보",
   "settingsPrivacyTips": "Reqable의 사용자 경험 향상을 위해 비민감 사용자 데이터를 수집합니다. 모든 데이터는 익명으로 수집되며 개인을 식별하지 않습니다.",

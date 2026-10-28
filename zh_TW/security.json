@@ -1,0 +1,11 @@
+{
+    "securityAccessToken": "存取權杖",
+    "securityAccessTokenManage": "管理存取權杖",
+    "securityAccessTokenManageDescription": "啟用、新增和刪除Reqable介面服務的存取權杖。",
+    "securityAccessTokenEmptyText": "暫無存取權杖",
+    "securityAccessTokenCreate": "新增存取權杖",
+    "securityAccessTokenNoActivity": "無存取記錄",
+    "securityAccessTokenLastActivity1": "最後活動：{accessAt}",
+    "securityAccessTokenLastActivity2": "最後活動：{accessAt}（{ip}）",
+    "securityAccessTokenDeleteAlertMessage": "確定要刪除存取權杖 %1 嗎？刪除後使用該權杖的請求將被拒絕。"
+}

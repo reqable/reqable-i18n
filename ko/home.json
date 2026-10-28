@@ -76,6 +76,7 @@
   "worktoolHistory": "히스토리",
   "worktoolDevice": "기기 관리",
   "worktoolCertificate": "인증서 관리",
+  "worktoolMcp": "MCP 서비스",
 
   "menuTitle": "작업 선택",
   "menuGroupFile": "파일",

@@ -71,6 +71,7 @@
     "worktoolHistory": "歷史記錄",
     "worktoolDevice": "裝置管理",
     "worktoolCertificate": "憑證管理",
+    "worktoolMcp": "MCP服務",
     "menuTitle": "選擇操作",
     "menuGroupFile": "檔案",
     "menuGroupCloseTab": "關閉Tab",

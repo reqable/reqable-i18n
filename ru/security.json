@@ -1,0 +1,11 @@
+{
+  "securityAccessToken": "Токен доступа",
+  "securityAccessTokenManage": "Управление токенами доступа",
+  "securityAccessTokenManageDescription": "Включение, добавление и удаление токенов доступа для API-сервиса Reqable.",
+  "securityAccessTokenEmptyText": "Нет токенов доступа",
+  "securityAccessTokenCreate": "Создать токен доступа",
+  "securityAccessTokenNoActivity": "Нет активности",
+  "securityAccessTokenLastActivity1": "Последняя активность: {accessAt}",
+  "securityAccessTokenLastActivity2": "Последняя активность: {accessAt} ({ip})",
+  "securityAccessTokenDeleteAlertMessage": "Вы уверены, что хотите удалить токен доступа %1? После удаления запросы, использующие этот токен, будут отклонены."
+}

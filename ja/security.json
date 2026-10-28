@@ -1,0 +1,11 @@
+{
+  "securityAccessToken": "アクセストークン",
+  "securityAccessTokenManage": "アクセストークンを管理",
+  "securityAccessTokenManageDescription": "Reqable APIサービスのアクセストークンを有効化、追加、削除します。",
+  "securityAccessTokenEmptyText": "アクセストークンはありません",
+  "securityAccessTokenCreate": "アクセストークンを作成",
+  "securityAccessTokenNoActivity": "アクセス記録なし",
+  "securityAccessTokenLastActivity1": "最終アクティビティ: {accessAt}",
+  "securityAccessTokenLastActivity2": "最終アクティビティ: {accessAt} ({ip})",
+  "securityAccessTokenDeleteAlertMessage": "アクセストークン %1 を削除してもよろしいですか？削除後、このトークンを使用するリクエストは拒否されます。"
+}

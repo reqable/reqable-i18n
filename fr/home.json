@@ -76,6 +76,7 @@
   "worktoolHistory": "Historique",
   "worktoolDevice": "Gestion des appareils",
   "worktoolCertificate": "Gestion des certificats",
+  "worktoolMcp": "Service MCP",
 
   "menuTitle": "Choisissez l'action",
   "menuGroupFile": "Fichier",

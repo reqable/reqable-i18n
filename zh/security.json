@@ -1,0 +1,11 @@
+{
+  "securityAccessToken": "访问令牌",
+  "securityAccessTokenManage": "管理访问令牌",
+  "securityAccessTokenManageDescription": "启用、添加和删除Reqable接口服务的访问令牌。",
+  "securityAccessTokenEmptyText": "暂无访问令牌",
+  "securityAccessTokenCreate": "新建访问令牌",
+  "securityAccessTokenNoActivity": "无访问记录",
+  "securityAccessTokenLastActivity1": "最后活动：{accessAt}",
+  "securityAccessTokenLastActivity2": "最后活动：{accessAt}（{ip}）",
+  "securityAccessTokenDeleteAlertMessage": "确定要删除访问令牌 %1 吗？删除后使用该令牌的请求将被拒绝。"
+}

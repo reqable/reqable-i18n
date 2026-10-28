@@ -1,0 +1,11 @@
+{
+  "securityAccessToken": "액세스 토큰",
+  "securityAccessTokenManage": "액세스 토큰 관리",
+  "securityAccessTokenManageDescription": "Reqable API 서비스의 액세스 토큰을 활성화, 추가, 삭제합니다.",
+  "securityAccessTokenEmptyText": "액세스 토큰 없음",
+  "securityAccessTokenCreate": "액세스 토큰 생성",
+  "securityAccessTokenNoActivity": "액세스 기록 없음",
+  "securityAccessTokenLastActivity1": "마지막 활동: {accessAt}",
+  "securityAccessTokenLastActivity2": "마지막 활동: {accessAt} ({ip})",
+  "securityAccessTokenDeleteAlertMessage": "액세스 토큰 %1을(를) 삭제하시겠습니까? 삭제 후 이 토큰을 사용하는 요청은 거부됩니다."
+}

@@ -71,6 +71,7 @@
   "worktoolHistory": "Verlauf",
   "worktoolDevice": "Geräteverwaltung",
   "worktoolCertificate": "Zertifikatsverwaltung",
+  "worktoolMcp": "MCP-Dienst",
   "menuTitle": "Wählen Sie die Aktion",
   "menuGroupFile": "Datei",
   "menuGroupCloseTab": "Tab schließen",

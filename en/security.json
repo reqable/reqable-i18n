@@ -1,0 +1,11 @@
+{
+  "securityAccessToken": "Access Token",
+  "securityAccessTokenManage": "Manage Access Tokens",
+  "securityAccessTokenManageDescription": "Enable, add, and delete access tokens for the Reqable API service.",
+  "securityAccessTokenEmptyText": "No access tokens",
+  "securityAccessTokenCreate": "Create Access Token",
+  "securityAccessTokenNoActivity": "No activity",
+  "securityAccessTokenLastActivity1": "Last activity: {accessAt}",
+  "securityAccessTokenLastActivity2": "Last activity: {accessAt} ({ip})",
+  "securityAccessTokenDeleteAlertMessage": "Are you sure you want to delete access token %1? After deletion, requests using this token will be denied."
+}

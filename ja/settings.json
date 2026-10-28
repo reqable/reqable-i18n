@@ -13,6 +13,8 @@
   "settingsCheckUpdate": "更新を確認",
   "settingsFeatures": "機能",
   "settingsFeaturesInfo": "いくつかのグローバル機能",
+  "settingsSecurityAndPrivacy": "セキュリティとプライバシー",
+  "settingsSecurityAndPrivacyInfo": "セキュリティとプライバシーに関する設定",
   "settingsAutomaticUpdate": "自動更新",
   "settingsAutomaticDownloadUpgradePkg": "新しいバージョンを検出した場合、インストールパッケージを自動的にダウンロードします。",
 
@@ -41,6 +43,8 @@
   "settingsPreferHttpMessageTips": "デバッグリストからHTTPリクエストを編集するとき、Postman形式の複数タブ編集ではなく、リクエストメッセージ全体を編集するモードを使用します。",
   "settingsVersionUpdateTipStrategy": "更新通知",
   "settingsVersionUpdateTipStrategyDescription": "新しいバージョンの更新を検出した場合に通知するかどうか。",
+  "settingsAccessTokenRequired": "アクセストークン",
+  "settingsAccessTokenRequiredTips": "有効にすると、アプリのサービス（MCPサーバーなど、デバッグプロキシを除く）へのアクセスに有効なアクセストークンが必要になります。",
 
   "settingsPrivacy": "プライバシー",
   "settingsPrivacyTips": "Reqableのユーザーエクスペリエンス向上のために非機密のユーザーデータを収集します。すべてのデータは匿名で収集され、個人を特定することはありません。",
